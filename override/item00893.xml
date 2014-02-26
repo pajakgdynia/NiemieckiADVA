@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>w którym<text><sentence> *</sentence><translation lang="pl">nie pytanie, w zdaniu twierdzącym</translation></text></question>
+  <answer>in dem [wo? +D]<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Das ist ein Gebäude, in dem die Leute beten.</sentence><translation>Budynek w którym ludzie się modlą.</translation></text></answer>
+  <modified>2013-02-02</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>21.01</lesson-title>
+  <chapter-title>Die Zeit</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

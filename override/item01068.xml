@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>być</question>
+  <answer>sein<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Formy:</span><br />
+<sfx file="b" /> sein, war, gewesen sein<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="c" /> <text><sentence>Bist du in Frankfurt gewesen? Ja, ich war dort vier mal.</sentence><translation>Byłeś we Frankfurcie? Tak, byłem tam cztery razy.</translation></text><br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Opis:</span><br />
+Imprefekt jest używany nawet w języku mówionym (bo krótszy).</answer>
+  <modified>2013-02-03</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>15.10</lesson-title>
+  <chapter-title>Präteritum</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

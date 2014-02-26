@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>Nie przyjdziemy.</question>
+  <answer>Wir kommen nicht.<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Opis:</span><br />
+Do takich zdań nie stosuje się formy czasu przyszłego:<br />
+<sfx file="b" /> Wir werden nicht kommen.<br />
+(nawet pomimo, że jest poprawna gramatycznie).</answer>
+  <modified>2013-02-02</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>14.01</lesson-title>
+  <chapter-title>Trennbare Verben</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

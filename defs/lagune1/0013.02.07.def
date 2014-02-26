@@ -1,0 +1,128 @@
+lesson: 2.07
+chapter: Notartzaufnahme
+
+id: 656
+name: Lekcja 13
+modified: 2012-12-29
+{
+I: 657
+Q: straż pożarna
+A: (die) Feuerwehr
+
+I: 658
+N: wzywać
+Q: Muszę wezwać policję!
+A: Ich müss Polizei anrufen!
+
+I: 659
+Q: laryngolog
+A: HNO Artz
+M: {a} H-N-O Arz, Hals - Nase - Ohren
+D: Hals - Nase - Ohren
+
+I: 660
+Q: kraść
+A: stehlen
+F: stehlen, stahl, gestohlen
+E: Du stiehlst mir die Zeit!
+X: Przeszkadzasz mi!
+
+I: 661
+Q: piekarnia
+A: (die) Bäckerei
+
+I: 662
+Q: piekarz
+A: (der) Bäcker
+
+I: 663
+Q: kwiaciarnia
+A: (der) Blumenladen
+
+I: 664
+Q: podrywać
+A: anmachen
+
+I: 665
+Q: komunikacja
+R: jako ruch kołowy, ruch uliczny
+A: (der) Verkehr
+
+I: 666
+Q: przepuścić
+A: durch lassen
+
+I: 667
+Q: besztać, kląć
+A: schimpfen
+
+I: 668
+Q: spadać
+A: fallen lassen
+
+I: 669
+Q: wysiadać
+A: aussteigen
+F: aussteigen, stieg aus, ausgestiegen
+
+I: 670
+Q: wyłamywać
+A: aufbrechen
+F: aufbrechen, brach auf, aufgebrochen
+
+I: 671
+Q: wdech - wydech
+A: ein - aus
+
+I: 672
+Q: ranny
+A: verletzt
+
+I: 673
+Q: pchać
+A: schieben
+F: schieben, schob, geschoben
+
+I: 674
+Q: tlen
+A: (der) Sauerstoff
+
+I: 675
+Q: azot
+A: (der) Stickstoff
+
+I: 676
+Q: jęczeć
+A: stöhnen
+
+I: 677
+Q: podnosić
+A: heben
+
+I: 678
+Q: złamanie nogi
+A: (der) Baimbruch
+
+I: 679
+Q: połamane żebra
+A: (die) Rippenbrüche
+
+I: 680
+Q: skóra
+R: np. ludzka
+A: (die) Haut
+
+I: 681
+Q: załazić za skórę
+A: unter die Haut gehen
+
+I: 682
+Q: o 8 rano
+A: um 8 Uhr
+
+I: 683
+Q: ofiara
+A: (das) Opfer
+E: Opfer bringen
+X: Ponieść ofiary
+}

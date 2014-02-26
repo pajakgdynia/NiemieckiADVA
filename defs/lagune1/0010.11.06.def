@@ -1,0 +1,175 @@
+esson: 11.06
+chapter: Wo und wohin
+
+id: 563
+name: Lekcja 10
+modified: 2012-12-29
+{
+I: 564
+Q: pokój
+A: (das) Zimmer
+
+I: 565
+N: w klasie
+Q: Jestem w klasie.
+A: Ich bin im Klassenzimmer.
+
+I: 566
+Q: praca
+A: (die) Arbeit
+
+I: 567
+N: w pracy
+Q: Jestem w pracy.
+A: Ich bin in der Arbeit.
+
+I: 568
+N: wohin
+Q: Gdzie idziesz?
+A: Wohin gehst du?
+E: Wo gehst du hin?
+
+I: 569
+N: wo
+Q: Gdzie jesteś?
+A: Wo bist du?
+
+I: 570
+N: nach Hause
+Q: Idę do domu.
+A: Ich gehe nach hause.
+
+I: 571
+N: zu Hause
+Q: Jestem w domu.
+A: Ich bin zu Hause.
+
+I: 572
+Q: biuro
+A: (das) Büro
+
+I: 573
+Q: Idę do biura.
+A: Ich gehe zu das Büro.
+D: dokąd? (wohin?) zawsze [+Akk].
+
+I: 574
+Q: Jestem w biurze.
+A: Ich bin im Büro.
+D: gdzie? (wo?) zawsze [+D].
+
+I: 575
+Q: ląd
+A: (der) Land
+D: ale także jako obszar, ziemia, państwo
+
+I: 576
+Q: kaloryfer
+A: (das) Heizung
+D: także ogrzewanie w ogólności
+
+I: 577
+Q: parapet
+A: (die) Fensterbank
+
+I: 578
+Q: krzesło
+A: (der) Stuhl [¨e]
+M: {a} der Stuhl, die Stühle
+D: w medycynie także kał..
+
+I: 579
+Q: klawiatura
+A: (die) Tastatur
+
+I: 580
+Q: myszka komputerowa
+A: (die) Komputermaus
+
+I: 581
+Q: długopis
+A: (der) Kuli
+
+I: 582
+Q: bilet
+R: np. autobusowy
+A: (die) Fahrkarte
+
+I: 583
+Q: wejściówka
+R: np. do muzeum
+A: (die) Eintrittskarte
+
+I: 584
+Q: podłoga
+A: (der) Boden, (der) Fußboden
+
+I: 585
+Q: półka
+A: (das) Regal
+
+I: 586
+Q: stać - stawiać
+A: stehen - stellen
+
+I: 587
+Q: siedzieć - siadać
+A: sitzen - setzen
+
+I: 588
+Q: leżeć - kłaść
+A: liegen - legen
+
+I: 589
+Q: wisieć - wieszać
+A: hängen
+
+I: 590
+Q: ponad
+A: über
+
+I: 591
+Q: pod
+A: unter
+
+I: 592
+Q: z tyłu, za
+A: hinter
+
+I: 593
+Q: z przodu, przed
+A: vor
+
+I: 594
+Q: obok
+A: neben
+
+I: 595
+Q: między
+A: zwischen
+
+I: 596
+Q: gołąb
+A: (die) Taube
+
+I: 597
+Q: gazeta
+A: (die) Zeitung
+
+I: 598
+Q: pomieszczenie gospodarcze
+R: dla zwierząt
+A: (der) Stall
+
+I: 599
+Q: kurnik
+A: (der) Hühnerstall
+
+I: 600
+Q: obora
+A: (der) Kuhstall
+
+I: 601
+Q: stajenka
+A: kleiner Stall
+}

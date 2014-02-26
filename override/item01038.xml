@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>załatwiać<text><sentence> *</sentence><translation lang="pl">sprawy</translation></text></question>
+  <answer>erledigen<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Wir müssen das Ding schnell erledigen</sentence><translation>Musimy szybko coś z tym zrobić.</translation></text></answer>
+  <modified>2013-02-03</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>08.10</lesson-title>
+  <chapter-title>Am Bauernhof</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

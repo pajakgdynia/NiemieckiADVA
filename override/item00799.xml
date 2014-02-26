@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>przeżyć</question>
+  <answer>erleben<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Lange Zeit glaubte ich nicht, dass ich ein großes Abenteuer erleben könnte.</sentence><translation>Przez długi czas nie wierzyłam, że mogę przeżyć wielką przygodę.</translation></text></answer>
+  <modified>2013-01-01</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>24.09</lesson-title>
+  <chapter-title>Modal Verben</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

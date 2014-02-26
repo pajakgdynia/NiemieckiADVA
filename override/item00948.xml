@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>ciężko</question>
+  <answer>hart<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Es ist tägliche harte Arbeit.</sentence><translation>To ciężka, codzienna praca.</translation></text></answer>
+  <modified>2013-02-03</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>12-11</lesson-title>
+  <chapter-title>Am Bauernhof</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

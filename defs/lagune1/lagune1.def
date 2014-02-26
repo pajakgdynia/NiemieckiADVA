@@ -1,0 +1,41 @@
+# lekcje w oparciu o książkę "Lagune 1"
+# wszystkie lekcje/media w katalogu lagune1
+
+# zrobić rysunek ze strony tytułowej książki i presentation..
+#tymczasowo tylko katalog i nic więcej.
+id: 50
+name: Lagune 1
+created: 2012-11-25
+include: 0001.19.03
+include: 0002.26.03
+include: 0003.02.04
+include: 0004.16.04
+include: 0005.24.04
+include: 0006.07.05
+include: 0007.14.05
+include: 0008.21.05
+include: 0009.28.05
+include: 0010.11.06
+include: 0011.18.06
+include: 0012.25.06
+include: 0013.02.07
+include: 0014.09.07
+include: 0015.16.07
+include: 0016.23.07
+include: 0017.03.09
+# 18
+# 19
+include: 0020.24.09
+include: 0021.01.10
+include: 0022.08.10
+include: 0023.15.10
+include: 0024.22.10
+include: 0025.29.10
+include: 0026.05.11
+include: 0027.12.11
+include: 0028.26.11
+include: 0029.03.12
+include: 0030.10.12
+include: 0031.07.01
+include: 0032.14.01
+include: 0033.21.01

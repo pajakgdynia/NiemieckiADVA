@@ -1,0 +1,288 @@
+id: 983
+name: Lekcja 22
+lesson: 08.10
+chapter: Am Bauernhof
+modified: 2013-02-03
+{
+I: 984
+Q: odwiedzać
+A: besuchen
+E: Ich gehe zum Besuch.
+X: Idę z wizytą.
+
+I: 985
+Q: szukać
+A: suchen
+
+I: 986
+Q: rachunek
+A: (die) Rechnung
+
+I: 987
+Q: program telewizyjny
+A: (das) Fernsehprogramm
+
+I: 988
+Q: sen
+A: (der) Traum
+M: {a} der Traum, die Träume
+
+I: 989
+Q: śnić o
+A: träumen von [+D]
+
+I: 990
+Q: poranek
+A: (der) Morgen
+E: Morgen früh
+X: wcześnie rano
+
+I: 991
+Q: jutro
+A: morgen
+E: Was können wir morgen tun?
+X: Co właściwie będziemy mogli robić jutro?
+
+I: 992
+Q: nawet
+A: sogar
+E: Sie ist sogar <b>heute morgen</b> dort.
+X: Nawet była tam dzisiaj rano.
+
+I: 993
+Q: działalność
+A: (die) Tätigkeit
+
+I: 994
+Q: brakować
+R: także dolegać
+A: fehlen
+E: Was fehlt uns?
+X: Co jest nam potrzebne?
+E: Was fehlt Ihnen?
+X: Co panu dolega?
+
+I: 995
+Q: obecny
+A: anwesend
+
+I: 996
+Q: nieobecny
+A: abwesend
+
+I: 997
+Q: zanosić
+A: bringen
+
+I: 998
+Q: przynosić
+A: holen
+
+I: 999
+Q: znany
+R: znajomy
+A: bekannt
+
+I: 1000
+Q: Oczywiście!
+A: Stimmt!
+
+I: 1001
+Q: podnosić
+A: heben
+F: heben, hob, gehoben
+
+I: 1002
+Q: gruby
+R: tęgi, potężny
+A: dick
+
+I: 1003
+Q: gruby
+R: spasiony, tłusty
+A: fett
+
+I: 1004
+Q: cienki
+A: dünn
+
+I: 1005
+Q: zwierze
+A: (das) Tier
+M: {a} das Tier, die Tiere
+
+I: 1006
+Q: drzwi
+A: (die) Tür
+M: {a} die Tür, die Türen
+
+I: 1007
+Q: krowa
+A: (die) Kuh
+M: {a} die Kuh, die Kühe
+
+I: 1008
+Q: doić
+A: melken
+F: melken, molk, gemolken
+
+I: 1009
+Q: koń
+A: (das) Pferd
+
+I: 1010
+Q: pole
+A: (der) Feld
+
+I: 1011
+Q: łąka
+A: (die) Wiese
+
+I: 1012
+Q: pastwisko
+A: (die) Weide
+
+I: 1013
+Q: hala
+R: pastwisko górskie
+A: (die) Heide
+
+I: 1014
+Q: góry
+R: pasmo górskie
+A: (das) Gebirge
+
+I: 1015
+Q: góra
+A: (der) Berg
+
+I: 1016
+Q: szczyt
+R: wierzchołek góry
+A: (der) Gipfel, (die) Spitze
+
+I: 1017
+Q: latawiec
+A: (der) Drachen
+E: den Drauchen steigen lassen
+X: puszczać latawiec
+
+I: 1018
+Q: gumiaki
+A: Gummistiefeln
+
+I: 1019
+Q: każdego ranka
+A: morgen<b>s</b>
+
+I: 1020
+Q: jak zwykle
+A: wie immer
+
+I: 1021
+Q: kolacja
+A: (das) Abendbrot
+
+I: 1022
+Q: jesć kolację
+A: zu Abend zu essen
+
+I: 1023
+Q: podejmować się
+A: übernehmen
+F: übernehmen, übernahm, übernommen
+
+I: 1024
+Q: dzielić się
+A: teilen
+
+I: 1025
+Q: część
+A: (das) Teil
+
+I: 1026
+Q: właściwie
+A: eigentlich
+
+I: 1027
+N: obejście
+Q: obejście, gospodarstwo
+A: (das) Haushalt
+
+I: 1028
+Q: wyglądać
+A: aussehen
+E: So sieht es aus.
+X: Tak to wygląda.
+
+I: 1029
+Q: zwykły, zwyczajny
+A: gewöhnlich
+
+I: 1030
+Q: niezwykły
+A: ungewöhnlich
+
+I: 1031
+Q: w przeciwnym razie
+A: sonst
+
+I: 1032
+Q: budynek gospodarczy
+A: (der) Stall
+
+I: 1033
+Q: kura
+A: (das) Huhn
+M: {a} das Huhn, die Hühner
+
+I: 1034
+Q: razem
+A: gemeinsam
+
+I: 1035
+Q: tylko
+A: nur
+
+I: 1036
+Q: robić zakupy
+A: einkaufen
+E: Ich muss Gemüse kaufen.
+X: Muszę kupić warzywa.
+E: Ich muss einkaufen.
+X: Muszę zrobić zakupy.
+
+I: 1037
+Q: załatwiać
+R: kombinować, odnośnie rzeczy
+A: besorgen
+
+I: 1038
+Q: załatwiać
+R: sprawy
+A: erledigen
+E: Wir müssen das Ding schnell erledigen
+X: Musimy szybko coś z tym zrobić.
+
+I: 1039
+Q: zamawiać
+A: bestellen
+
+I: 1040
+Q: prasować
+A: bügeln
+
+I: 1041
+Q: przede wszystkim
+A: vor allem
+
+I: 1042
+Q: niechętnie
+A: ungern
+
+I: 1043
+Q: lewy
+A: linker
+E: Ich habe zwei linke Hände und an jeder Hand fünf Daumen.
+X: Mam dwie lewe ręce i pięć kciuków na każdej.
+}

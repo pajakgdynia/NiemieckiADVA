@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question-title>Podaj odmianę rodzajników określonych</question-title>
+  <question>Rodzajniki określone</question>
+  <answer><table border="0" cellpadding="5" cellspacing="3" width="90%" >
+<tr><td style="width: 10%">N</td><td>der</td><td>die</td><td>das</td><td>die</td></tr>
+<tr><td style="width: 10%">G</td><td>des</td><td>der</td><td>des</td><td>den</td></tr>
+<tr><td style="width: 10%">D</td><td>dem</td><td>der</td><td>dem</td><td>der</td></tr>
+<tr><td style="width: 10%">Akk</td><td>den</td><td>die</td><td>das</td><td>die</td></tr>
+</table>
+</answer>
+  <modified>2012-12-27</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>02.04</lesson-title>
+  <chapter-title>Akkusativ czy Dativ</chapter-title>
+</item>

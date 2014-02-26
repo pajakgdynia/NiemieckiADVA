@@ -1,0 +1,108 @@
+id: 863
+name: Lekcja 32
+lesson: 14.01
+chapter: Trennbare Verben
+modified: 2013-01-27
+{
+I: 864
+Q: Nie przyjdziemy.
+A: Wir kommen nicht.
+D: Do takich zdań nie stosuje się formy czasu przyszłego:
+D: {} Wir werden nicht kommen.
+D: (nawet pomimo, że jest poprawna gramatycznie).
+
+I: 865
+N: skracanie
+C: Podaj krótką formę
+q-audio: @Hans
+Q: (die) Schuhe
+A: die
+E: Die da!
+X: Ona tam!
+E: Hast du den gesehen?
+X: Widziałeś go?
+
+
+I: 866
+N: ćwiczenie
+C: Przećwicz Perfekt i skracanie wg wzoru.
+q-audio: @Hans
+Q: Du must die Schuhe putzen!
+A: Aber die habe ich schon geputzt!
+
+I: 867
+Q: zamalowywać
+R: ścianę w pokoju
+A: bemalen
+
+I: 868
+Q: malować
+R: portret
+A: malen
+
+I: 869
+Q: należeć do
+A: gehören zu [+D]
+
+I: 870
+Q: odkrywać
+A: entdecken
+
+I: 871
+Q: polecać
+A: empfehlen
+F: empfehlen, empfahl, empfohlen
+
+I: 872
+Q: przesłyszeć się
+A: verhören
+
+I: 873
+Q: blokować
+A: sperren
+
+I: 874
+Q: oszczędzać
+A: sparen
+
+I: 875
+Q: podobać się
+A: gefallen [+D]
+F: gefallen, gefiel, gefallen
+
+I: 876
+Q: pomagać
+A: helfen [+D]
+
+I: 877
+Q: dawać
+A: geben
+E: Ich gebe dir den Wagen.
+
+I: 878
+Q: przysłuchiwać się
+A: zuhören [+D]
+E: Hört mir zu!
+X: Cisza!
+
+I: 879
+Q: gratulować
+A: gratulieren [+D]
+
+I: 880
+Q: przeszkadzać
+A: stören [<b>+Akk</b>]
+
+I: 881
+N: kazać
+Q: kazać, pozwolić
+A: lassen [<b>+Akk</b>]
+E: Die Mutter lässt den Sohn die Socken waschen.
+X: Matka kazała synowi wyprać skarpetki.
+
+I: 882
+Q: dawać
+A: lassen [+D]
+E: Du lässt mir leider keinen Wahl!
+X: Nie dałeś mi wyboru!
+}

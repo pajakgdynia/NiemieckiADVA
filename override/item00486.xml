@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>Jeszcze nigdy nie jeździłem konno!</question>
+  <answer>Ich bin noch nie geritten!<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Formy:</span><br />
+<sfx file="b" /> reiten, ritt, geritten sein</answer>
+  <modified>2012-12-27</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>14.05</lesson-title>
+  <chapter-title>Określanie czasu</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

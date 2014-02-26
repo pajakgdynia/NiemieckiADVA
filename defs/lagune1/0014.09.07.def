@@ -1,0 +1,100 @@
+lesson: 9.07
+chapter: Notartzaufnahme
+
+id: 684
+name: Lekcja 14
+modified: 2012-12-29
+{
+I: 685
+Q: most
+A: (die) Brücke
+
+I: 686
+Q: moneta
+A: (die) Münze
+
+I: 687
+Q: siano
+A: (das) Heu
+
+I: 688
+Q: słoma
+A: (das) Stroh
+
+I: 689
+Q: chusteczka higieniczna
+A: (das) Tempo
+D: od nazwy firmy producenta.
+
+I: 690
+Q: ksiądz
+A: (der) Prister
+
+I: 691
+Q: proboszcz
+A: (der) Pfarrer
+
+I: 692
+Q: rosnąć
+A: wachsen
+F: wachsen, wuchs, gewachsen
+
+I: 693
+Q: radio
+A: (das) Radio
+
+I: 694
+Q: przychodnia
+A: (die) Poliklinik, (das) Medicinische Versorgnungszentrum, NVZ
+
+I: 695
+Q: noga
+A: (das) Beim
+
+I: 696
+Q: ręka
+A: (die) Hand  [¨e]
+M: {a} (die) Hand, (die) Hände
+
+I: 697
+Q: ramię
+A: (der) Arm
+
+I: 698
+Q: stopa
+A: (der) Fuß [¨e]
+M: {a} (der) Fuß, (die) Füße
+
+
+I: 699
+Q: tyłek
+A: (der) Hintern
+E: den Hintern versohlen
+X: sprać tyłek
+
+I: 700
+Q: tylko
+A: bloß
+E: Wenn es doch bloss sie betreffen würde.
+X: Gdyby tylko o nią chodziło.
+
+I: 701
+Q: musztarda
+A: (der) Senf
+
+I: 702
+Q: Siadaj i słuchaj!
+A: Setz dich und lies!
+
+I: 703
+Q: płakać
+A: weinen
+
+I: 704
+Q: śnić
+A: traumen
+
+I: 705
+Q: klatka
+A: (der) Käfig
+}

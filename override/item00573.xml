@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>Idę do biura.</question>
+  <answer>Ich gehe zu das Büro.<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Opis:</span><br />
+dokąd? (wohin?) łączy się z Akk.</answer>
+  <modified>2012-12-29</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>11.06</lesson-title>
+  <chapter-title>Wo und wohin</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

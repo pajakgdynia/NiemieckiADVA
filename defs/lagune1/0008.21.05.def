@@ -1,0 +1,124 @@
+id: 524
+name: Lekcja 8
+lesson: 21.05
+chapter: Am Bauernhof
+modified: 2012-12-29
+{
+I: 525
+Q: nad jeziorem
+A: an einem See
+
+I: 526
+Q: nad Bałytkiem
+A: an der Ostsee
+E: die See
+X: morze
+
+I: 527
+Q: nad rzeką
+A: am Fluß
+
+I: 528
+Q: skarpetki
+A: (die) Socke
+
+I: 529
+Q: sweter
+R: pullower
+A: (der) Pulli
+
+I: 530
+Q: twarz
+A: (das) Gesicht
+
+I: 531
+Q: w lesie
+A: im Wald
+E: (der) Wald
+
+I: 532
+Q: góra
+R: pojedynczy szczyt
+A: (der) Berg
+
+I: 533
+Q: góry
+R: pasmo górskie
+A: (das) Gebirge
+
+I: 534
+N: dürfen
+Q: Nie powinno się tego robić!
+A: Man darf das nicht machen!
+E: Das ist nicht erlaubt.
+
+I: 535
+N: können
+Q: Nie da się tego zrobić!
+A: Man kann das nicht machen!
+
+I: 536
+Q: moc
+A: (die) Kraft
+E: (das) Kraftwerk
+X: maszynownia
+
+I: 537
+Q: nudzić się
+A: (sich) langweilen
+E: sich zu Tode langweilen
+X: nudzić się śmiertelnie
+
+I: 538
+Q: znudzony
+A: gelangweilt
+
+I: 539
+Q: kartka
+A: (der) Zettel
+
+I: 540
+Q: papuga
+A: (der) Papagei
+
+I: 541
+Q: lody
+A: (das) Eis
+
+I: 542
+Q: przykazanie
+A: (das) Gebot
+
+I: 543
+Q: wieża
+A: (der) Turm
+
+I: 544
+Q: ptak
+A: (der) Fogel
+M: {a}der Vogel, die Vögel
+
+I: 545
+Q: filiżanka
+A: (die) Tasse
+
+I: 546
+Q: dzbanek na herbatę
+A: (der) Teekessel
+
+I: 547
+N: tryb rozkazujący
+C: Jak budujemy tryb rozkazujący?
+Q: kommen
+A: du kommst - <strike>du</strike> komm<strike>st</strike>
+M: {a}du kommst - komm
+q-audio: @Hans
+
+I: 548
+N: tryb rozkazujący
+C: Jak budujemy tryb rozkazujący?
+q-audio: @Hans
+Q: essen
+A: du isst - <strike>du</strike> iss<strike>t</strike>
+M: {a}du isst - iss
+}

@@ -1,0 +1,210 @@
+id: 364
+name: Lekcja 4
+lesson: 16.04
+chapter: Miejsca publiczne
+modified: 2012-12-27
+{
+
+I: 365
+Q: skarpetka
+A: (die) Socke
+M: {a} die Socke, die Socken
+
+I: 366
+Q: włos
+A: (der) Haar
+M: {a} der Haar, die Haare
+
+I: 367
+Q: bez rozkazu
+A: ohne Befehl
+E: Dein Wunsch sei mir Befehl!
+X: Twoje życzenie jest dla mnie rozkazem!
+
+I: 368
+Q: w armii
+A: bei der Armee
+
+I: 369
+Q: w niedziele
+A: am Sonntag
+
+I: 370
+Q: w kinie
+A: im Kino
+E: Man darf das Handy im Kino nicht benutzen.
+X: Nie używać telefonów w kinie!
+
+I: 371
+Q: czepek kąpielowy
+A: (die) Bademütze
+
+I: 372
+Q: miejsca publiczne
+A: an öffentliche Plätze
+
+I: 373
+Q: narkotyki
+A: (die) Droge
+M: {a}die Droge, die Drogen
+D: z reguły w liczbie mnogiej
+
+I: 374
+Q: lornetka
+A: (das) Fernglass
+
+I: 375
+Q: za małe
+A: zu eng
+
+I: 376
+Q: wchodzić
+A: betreten [+Akk]
+E: den Rasen betreten
+X: deptać trawnik
+
+I: 377
+Q: modlić się (o)
+A: beten (für [+Akk])
+
+I: 378
+Q: wieczorami
+A: abends
+
+I: 379
+Q: wieczorem
+A: am Abend
+
+I: 380
+Q: obowiązek
+A: (die) Pflicht
+
+I: 381
+Q: zobowiązany
+A: verpflichtet
+
+I: 382
+Q: alimenty
+A: (der) Unterhalt
+
+I: 383
+Q: zdrowy
+A: gesund
+
+I: 384
+Q: ochota
+A: (die) Lust
+
+I: 385
+Q: nuda
+A: (die) Langweile
+E: Ich langweile mich sehr schnell.
+X: Nudzę się bardzo szybko.
+
+I: 386
+Q: wolność
+A: (die) Freiheit
+
+I: 387
+Q: Nie lubię szpinaku.
+A: Ich mag kein Spinat.
+
+I: 388
+Q: kosić trawę
+A: den Rasen mähen
+
+I: 389
+Q: Nie lubię kosić
+A: Ich mag den Rasen nich mähen.
+E: Ich mähe den Rasen nicht gern.
+E: Ich mag kein Rasen.
+
+I: 390
+Q: sprzątać
+A: aufräumen
+synonyms: putzen, sauber machen, reinigen
+
+I: 391
+Q: sprzątać ze stołu
+A: abdecken
+
+I: 392
+Q: wyprowadzać psa
+A: den Hund ausführen
+
+I: 393
+Q: kłótnia
+A: (der) Streit, (der) Zoff
+
+I: 394
+Q: kłócić się
+A: streiten
+D: Czasownik nie jest zwrotny.
+
+I: 395
+Q: stać przy oknie
+A: am Fenster stehen
+
+I: 396
+Q: spójrz
+A: guck mal
+E: Guck mal, einer steht am Auto!
+X: Spójrz, ktoś stoi przy samochodzie!
+
+I: 397
+Q: porównać
+A: vergleichen
+
+I: 398
+Q: zajęcia, lekcje
+A: (der) Unterricht
+D: zawsze w l. poj.
+
+I: 399
+Q: uczestniczyć
+A: teilnehmen
+E: Ich nehme am Deutschunterricht teil.
+X: Chodzę na niemiecki.
+
+I: 400
+Q: otwierać
+A: aufmachen, öffnen
+
+I: 401
+Q: zamykać
+A: zumachen, schließen
+
+I: 402
+Q: włączyć
+A: anmachen, einschalten
+
+I: 403
+Q: wyłączyć
+A: ausmachen, abschalten
+
+I: 404
+Q: wizyta, spotkanie
+A: (der) Termin
+E: Ich habe heute den Arzttermin.
+X: Idę dziś do lekarza.
+E: Ich vergesse alle Termine.
+X: Zapominam o wszystkich spotkaniach.
+
+I: 405
+Q: zmęczony
+A: müde
+
+I: 406
+N: denn
+Q: Gerda nie może spać ponieważ Peter czyta książkę.
+A: Gerda kann nicht schlafen <b>denn</b> Peter <b>liest</b> ein Buch.
+
+I: 407
+N: wail
+Q: Ponieważ Peter czyta książkę, Gerda nie może spać.
+A: <b>Weil</b> Peter ein Buch <b>liest</b>, Gerda kann nicht schlafen.
+
+I: 408
+Q: namiot
+A: (das) Zelt
+}

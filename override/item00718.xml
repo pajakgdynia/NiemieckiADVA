@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>wokoło</question>
+  <answer>um<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Sie gehen um das Hause.</sentence><translation>Oni chodzą dookoła domu.</translation></text></answer>
+  <modified>2012-12-30</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>16.07</lesson-title>
+  <chapter-title>Dativ or Akkusativ?</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

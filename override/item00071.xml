@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>mieć życzenie, pragnienie</question>
+  <answer>möchten<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> Möchten Sie etwas zu trinken?</answer>
+  <modified>2013-01-27</modified>
+  <template-id>1</template-id>
+  <gfx-3>Möchten Sie etwas zu trinken.jpg</gfx-3>
+  <answer-audio>true</answer-audio>
+  <lesson-title>19.03</lesson-title>
+  <chapter-title>Modal Verben</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

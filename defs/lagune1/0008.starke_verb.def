@@ -1,0 +1,89 @@
+lesson: Grammar
+name: Starke verben
+chapter: Die starke Verben
+{
+co to som starke verben??
+
+mówić
+sprechen 
+
+dawać
+geben
+
+pomagać
+helfen
+Wir helfen dem Lehrer.|Pomagamy nauczycielowi.
+
+jeść
+essen
+Ich esse einen Apfel.|Jem jabłko.
+Herr Gosch, essen Sie gerne Sushi?|Panie Gosch, czy je Pan chętnie sushi?
+
+nieść
+tragen
+
+brać
+nehmen
+Anette nimmt eine Zeitung und liest sie.|Anette bierze gazetę i ją czyta.
+
+czytać
+lesen
+Was liest Maria?|Co czyta Maria?
+
+widzieć
+sehen
+Siehst du diesen Mann nicht?|Nie widzisz tego mężczyzny?
+Klaus und Ingo, seht ihr die Lehrerin?|Hans i Ingo, widzicie tę nauczycielkę?
+
+spać
+schlafen
+Das Kind schläft schon zwei Stunden.|Dziecko śpi już dwie godziny.
+
+biec
+laufen
+Das Kind läuft sehr schnell.|To dziecko biegnie bardzo szybko.
+
+myć
+waschen
+Ich wasche mir die Hände.|Myję sobie ręce.
+
+rosnąć
+wachsen
+
+trzymać
+halten
+
+podobać się
+gefallen
+Gefällt euch mein Zimmer?|Podoba wam się mój pokój?
+Wie gefällt dir Berlin?|Jak ci się podoba Berlin?
+
+spadać
+fallen
+
+dmuchać
+blasen
+
+jechać
+fahren
+Du fährst schnell.|Jedziesz szybko.
+
+spotykać
+treffen
+Wie oft triffst du deinen Freund?|Jak często spotykasz swojego przyjaciela?
+
+pisać
+schreiben
+Schreibt ihr gerne Briefe?|Piszecie chętnie listy?
+
+answer: [@table:odmiana [[@ich mag]|[@wir mögen]] [[@du magst]|[@ihr mögt]] [[@er-sie-es mag]|[@sie mögen]]]
+
+
+  	sprechen 	geben 	helfen 	tragen 	nehmen 	lesen 	sehen 	laufen 	essen 	fallen 	waschen 	fahren
+ich 	spreche 	gebe 	helfe 	trage 	nehme 	lese 	sehe 	laufe 	esse 	falle 	wasche 	fahre
+du 	sprichst 	gibst 	hilfst 	trägst 	nimmst 	liest 	siehst 	läufst 	isst 	fällst 	wäschst 	fährst
+er sie es 	spricht 	gibt 	hilft 	trägt 	nimmt 	liest 	sieht 	läuft 	isst 	fällt 	wäscht 	fährt
+wir 	sprechen 	geben 	helfen 	tragen 	nehmen 	lesen 	sehen 	laufen 	essen 	fallen 	waschen 	fahren
+ihr sprecht 	gebt 	helft 	tragt 	nehmt 	lest 	seht 	lauft 	esst 	fallt 	wascht 	fahrt
+sie Sie 	sprechen 	geben 	helfen 	tragen 	nehmen 	lesen 	sehen 	laufen 	essen 	fallen 	waschen 	fahren
+}

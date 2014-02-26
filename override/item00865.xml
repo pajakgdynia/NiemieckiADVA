@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question-title>Podaj krótką formę</question-title>
+  <question>(die) Schuhe</question>
+  <answer>die<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Die da!</sentence><translation>Ona tam!</translation></text><br />
+<sfx file="c" /> <text><sentence>Hast du den gesehen?</sentence><translation>Widziałeś go?</translation></text></answer>
+  <modified>2013-02-02</modified>
+  <template-id>1</template-id>
+  <question-audio>true</question-audio>
+  <answer-audio>true</answer-audio>
+  <lesson-title>14.01</lesson-title>
+  <chapter-title>Trennbare Verben</chapter-title>
+</item>

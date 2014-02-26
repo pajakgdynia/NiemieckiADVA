@@ -1,0 +1,259 @@
+id: 217
+lesson: 02.04
+chapter: Akkusativ czy Dativ
+modified: 2012-11-30
+#(¨e)
+{
+I: 218
+Q: koniecznie
+A: unbedingt
+
+I: 219
+Q: kuchenka gazowa
+A: (der) Gasherd
+
+I: 220
+Q: kuchenka elektryczna
+A: (der) Elektroherd
+
+I: 221
+Q: zależny
+A: abhängig (sein von)
+
+I: 222
+Q: znaczyć
+A: bedeuten
+
+I: 223
+Q: iść na polowanie
+A: auf die Jagd gehen
+
+I: 224
+Q: mieć
+A: haben
+
+I: 225
+Q: potrzebować
+A: brauchen
+
+I: 226
+Q: mieć, posiadać
+A: besitzen
+
+I: 227
+Q: telewizja
+A: (das) Fernsehen
+
+I: 228
+Q: telewizor
+A: (der) Fehrseher
+
+I: 229
+Q: telefon komórkowy
+A: (das) Handy
+
+I: 230
+C: Podaj odmianę rodzajników określonych
+Q: Rodzajniki określone
+A:
+[@table:rodzajniki
+    [der|die|das|die]
+    [des|der|des|den]
+    [dem|der|dem|der]
+    [den|die|das|die]
+]
+~
+M: {a}Maskulinum: der, des, dem, den; Femininum: die, der, der, die; Neutrum: das, des, dem, das; Plural: die, den, der, die.
+
+I: 231
+Q: okulary
+A: (die) Brille
+D: normalnie w liczbie pojedynczej
+
+I: 232
+Q: drzwi
+A: (die) Tür
+D: normalnie w liczbie pojedynczej
+
+I: 233
+Q: spodnie
+A: (die) Hosen
+D: normalnie w liczbie pojedynczej
+
+I: 234
+C: Pytanie gramatyczne
+N: rodzajniki określone
+Q: Kiedy nie używamy rodzajników określonych?
+a-audio: false
+A: Dla pojęć abstrakcyjnych
+
+I: 235
+Q: bezpieczeństwo
+A: (die) Geborgenheit
+
+I: 236
+Q: co minutę
+A: jede Minute
+
+I: 237
+Q: co dwie minuty
+A: alle zwei Minuten
+
+I: 238
+Q: Chciałbym mieć ciężarówkę.
+A: Ich möchte gern einen Lastwagen.
+
+I: 239
+Q: Mój stary telefon komórkowy się zepsuł.
+A: Mein altes Handy ist kaputt.
+
+I: 240
+Q: żeby
+A: damit
+
+I: 241
+Q: albowiem, dlatego
+A: denn
+
+I: 242
+Q: Mam za dużo do roboty.
+A: Ich habe zu viel zu tun.
+
+I: 243
+Q: rzecz
+A: (die) Sache
+
+I: 244
+Q: przedmiot
+A: (der) Gegenstand
+
+I: 245
+Q: pierdułka
+A: (das) Dinge
+
+I: 246
+Q: przedmiot szkolny
+A: (der) Fach
+
+I: 247
+Q: helikopter
+A: Hubschrauber
+
+I: 248
+Q: ciężarówka
+A: (der) Lastkraftwagen
+D: w skrócie LKW
+
+I: 249
+Q: Głowa mnie boli.
+A: Mein Kopf tut mir weh.
+
+I: 250
+Q: Przykro mi.
+A: Es tut mir leid.
+
+I: 251
+R: jako stan
+Q: małżeństwo
+A: (die) Ehe
+
+I: 252
+Q: małżeństwo
+R: jako para
+A: (das) Ehepaar
+
+I: 253
+Q: wygodny
+A: bequem
+
+I: 254
+Q: paluszki solone
+A: (die) Salzstanger
+
+I: 255
+Q: słony
+A: salzig
+
+I: 256
+Q: pomalować
+R: pędzlem, np. ściany
+A: bemalen
+
+I: 257
+Q: naczynia
+A: (das) Geschirr
+D: zawsze w liczbie pojedynczej
+
+I: 258
+Q: talerz
+A: (der) Teller [-]
+M: {a} der Teller, die Teller
+
+I: 259
+Q: kłócić się
+A: (sich) streiten
+E: sich streiten um
+X: kłócić się o
+
+I: 260
+Q: Jestem zła na niego!
+A: Ich büße auf ihn!
+
+I: 261
+Q: cudowny, piękny
+A: herrlich
+
+I: 262
+Q: smutny
+A: traurig
+
+I: 263
+Q: przerażający, obrzydliwy
+A: scheußlich
+
+I: 264
+Q: trzymający w napięciu, ciekawy
+A: spannend
+
+I: 265
+Q: zły
+A: schlimm
+
+I: 266
+Q: miły
+A: nett
+
+I: 267
+Q: głupi
+A: dumm
+
+I: 268
+Q: niebezpieczny
+A: gefährlich
+
+I: 269
+Q: bezpieczny
+A: sicher
+
+I: 270
+Q: dozwolony
+A: erlabut
+
+I: 271
+Q: słówko wzmacniające
+A: doch
+E: Doch, ich habe einen!
+X: Skądże, przecież mam!
+
+I: 272
+Q: Tak się nie robi!
+A: Das geht doch nicht!
+
+I: 273
+Q: wchodzić
+A: betreten
+
+I: 274
+Q: uciekać
+A: fliehen
+}

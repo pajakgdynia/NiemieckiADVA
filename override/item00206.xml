@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question-title>Podaj typowe pytania dla wszystkich przypadków</question-title>
+  <answer><table border="0" cellpadding="5" cellspacing="3" width="90%" >
+<tr><td style="width: 10%">N</td><td><text><sentence>wer</sentence><translation>kto</translation></text>, <text><sentence>was</sentence><translation>co</translation></text></td></tr>
+<tr><td style="width: 10%">G</td><td><text><sentence>wessen</sentence><translation>czyj</translation></text></td></tr>
+<tr><td style="width: 10%">D</td><td><text><sentence>wem</sentence><translation>komu</translation></text>, <text><sentence>wann</sentence><translation>kiedy</translation></text>, <text><sentence>wo</sentence><translation>gdzie</translation></text></td></tr>
+<tr><td style="width: 10%">Akk</td><td><text><sentence>wen</sentence><translation>kogo</translation></text>, <text><sentence>was</sentence><translation>czym</translation></text>, <text><sentence>wohin</sentence><translation>dokąd</translation></text></td></tr>
+</table>
+</answer>
+  <modified>2012-12-27</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>26.03</lesson-title>
+  <chapter-title>Akkusativ czy Dativ</chapter-title>
+</item>

@@ -1,0 +1,1243 @@
+media/00052a.mp3|ledig
+media/00053a.mp3|verheiratet
+media/00054a.mp3|jung
+media/00054b.mp3|Wie jung bist du
+media/00055a.mp3|fast
+media/00056a.mp3|seit
+media/00057a.mp3|Ich kann gut Deutsch sprechen
+media/00058a.mp3|Willst du mich heute besuchen
+media/00059a.mp3|Er muss viel lernen
+media/00060a.mp3|Sollen wir jetzt aufräumen
+media/00061a.mp3|Hier darf man nicht rauchen
+media/00062a.mp3|Er mag sie nicht
+media/00063a.mp3|Ich möchte nach Berlin fahren
+media/00064a.mp3|Ich mag dich
+media/00065a.mp3|können
+media/00065b.mp3|Können Sie Bridge spielen
+media/00066a.mp3|wollen
+media/00066b.mp3|Ich will in die Disko gehen
+media/00067a.mp3|müssen
+media/00067b.mp3|Ich habe Hunger, ich muss etwas essen
+media/00068a.mp3|sollen
+media/00068b.mp3|Ihr sollt für den Test lernen
+media/00069a.mp3|dürfen
+media/00069b.mp3|Sie dürfen nicht da bleiben
+media/00070a.mp3|mögen
+media/00070b.mp3|Kinder mögen ihn nicht
+media/00071b.mp3|Möchten Sie etwas zu trinken
+media/00071a.mp3|möchten
+media/00072a.mp3|dürfen odmiana
+media/00073a.mp3|können odmiana
+media/00074a.mp3|mögen odmiana
+media/00075a.mp3|müssen odmiana
+media/00076a.mp3|sollen odmiana
+media/00077a.mp3|wollen odmiana
+media/00078a.mp3|bringen
+media/00079a.mp3|fortfahren
+media/00080a.mp3|abholen
+media/00081a.mp3|trinken
+media/00082a.mp3|essen
+media/00083a.mp3|waschen
+media/00083b.mp3|Ich muss mich waschen
+media/00084a.mp3|duschen
+media/00084b.mp3|Ich muss duschen
+media/00085a.mp3|auf das Klo gehen
+media/00086a.mp3|tragen
+media/00087a.mp3|renovieren
+media/00088a.mp3|anziehen
+media/00089a.mp3|Was darfst du nicht tun
+media/00090a.mp3|Bier
+media/00091a.mp3|Alkohol
+media/00092a.mp3|Ich darf keinen Vodka trinken
+media/00093a.mp3|Ich darf nicht zu spät zur Arbeit kommen
+media/00094a.mp3|Ich darf nich sehr lange schlafen
+media/00095a.mp3|Ich soll jeden Tag Obst und Gemüse essen
+media/00096a.mp3|Sport treiben
+media/00097a.mp3|bewegen
+media/00098a.mp3|werden
+media/00099a.mp3|gebraten
+media/00100a.mp3|Hähnchen
+media/00101a.mp3|ausruchen
+media/00102a.mp3|erholen
+media/00103a.mp3|Ich mag lieber Bier
+media/00104a.mp3|Ich esse Eis gern
+media/00105a.mp3|Kannst du Ski fahren
+media/00106a.mp3|drau�źen bleiben
+media/00107a.mp3|Kleider
+media/00112a.mp3|Kleid
+media/00362a.mp3|kleiden
+media/00108a.mp3|nicht gut gekleidet sein
+media/00109a.mp3|Krach
+media/00110a.mp3|Feuerwehr
+media/00111a.mp3|Verkehrsschild
+media/00363a.mp3|radfahren
+media/00363b.mp3|Ich fahre rad
+media/00113a.mp3|Umgangssprache
+media/00114a.mp3|traurig
+media/00114b.mp3|nicht zufreiden sein
+media/00115a.mp3|Tränen
+media/00116a.mp3|weinen
+media/00117a.mp3|sonst
+media/00118a.mp3|Fallschirm
+media/00119a.mp3|töten
+media/00120a.mp3|schälen
+media/00121a.mp3|sterben
+media/00122a.mp3|Schwimmbad
+media/00123a.mp3|tauchen
+media/00124a.mp3|Man soll Fruhstück essen
+media/00125a.mp3|Man darf nicht Sü�źigkeiten essen
+media/00126a.mp3|Man kann nicht zu viel essen
+media/00127a.mp3|Kirche
+media/00202a.mp3|Gegenstand
+media/00203a.mp3|Kühlschrank
+media/00204a.mp3|Jagdmesser
+media/00205a.mp3|Kamera
+media/00206a.mp3|pytania
+media/00207a.mp3|wenn
+media/00208a.mp3|ohne
+media/00209a.mp3|Auf keinen Fall
+media/00210a.mp3|vielleicht
+media/00211a.mp3|mehr
+media/00212a.mp3|interessiren für
+media/00213a.mp3|interessiert sein an
+media/00214a.mp3|Streichhölzer
+media/00215a.mp3|Liegematte
+media/00216a.mp3|Angel
+media/00218a.mp3|unbedingt
+media/00219a.mp3|Gasherd
+media/00220a.mp3|Elektroherd
+media/00221a.mp3|abhängig
+media/00222a.mp3|bedeuten
+media/00223a.mp3|auf die Jagd gehen
+media/00224a.mp3|haben
+media/00225a.mp3|brauchen
+media/00226a.mp3|besitzen
+media/00227a.mp3|Fernsehen
+media/00228a.mp3|Fehrseher
+media/00229a.mp3|Handy
+media/00230a.mp3|Maskulinum der
+media/00231a.mp3|Brille
+media/00232a.mp3|Tür
+media/00233a.mp3|Hosen
+media/00235a.mp3|Geborgenheit
+media/00236a.mp3|jede Minute
+media/00237a.mp3|alle zwei Minuten
+media/00238a.mp3|Ich möchte gern einen Lastwagen
+media/00239a.mp3|Mein altes Handy ist kaputt
+media/00240a.mp3|damit
+media/00241a.mp3|denn
+media/00242a.mp3|Ich habe zu viel zu tun
+media/00243a.mp3|Sache
+media/00244a.mp3|Gegenstand
+media/00245a.mp3|Dinge
+media/00246a.mp3|Fach
+media/00247a.mp3|Hubschrauber
+media/00248a.mp3|Lastkraftwagen
+media/00249a.mp3|Mein Kopf tut mir weh
+media/00250a.mp3|Es tut mir leid
+media/00251a.mp3|Ehe
+media/00252a.mp3|Ehepaar
+media/00253a.mp3|bequem
+media/00254a.mp3|Salzstanger
+media/00255a.mp3|salzig
+media/00256a.mp3|bemalen
+media/00257a.mp3|Geschirr
+media/00258a.mp3|Teller
+media/00259a.mp3|streiten
+media/00259b.mp3|sich streiten um
+media/00260a.mp3|Ich bü�źe auf ihn
+media/00261a.mp3|herrlich
+media/00262a.mp3|traurig
+media/00263a.mp3|scheu�źlich
+media/00264a.mp3|spannend
+media/00265a.mp3|schlimm
+media/00266a.mp3|nett
+media/00267a.mp3|dumm
+media/00268a.mp3|gefährlich
+media/00269a.mp3|sicher
+media/00270a.mp3|erlabut
+media/00271a.mp3|doch
+media/00272a.mp3|Das geht doch nicht
+media/00273a.mp3|betreten
+media/00274a.mp3|fliehen
+media/00365a.mp3|die Socke
+media/00366a.mp3|der Haar
+media/00367a.mp3|ohne Befehl
+media/00367b.mp3|Dein Wunsch sei mir Befehl
+media/00368a.mp3|bei der Armee
+media/00369a.mp3|am Sonntag
+media/00370a.mp3|im Kino
+media/00370b.mp3|Man darf das Handy im Kino nicht benutzen
+media/00371a.mp3|Bademütze
+media/00372a.mp3|an öffentliche Plätze
+media/00373a.mp3|die Droge
+media/00374a.mp3|Fernglass
+media/00375a.mp3|zu eng
+media/00376a.mp3|betreten
+media/00376b.mp3|den Rasen betreten
+media/00377a.mp3|beten
+media/00378a.mp3|abends
+media/00379a.mp3|am Abend
+media/00380a.mp3|Pflicht
+media/00381a.mp3|verpflichtet
+media/00382a.mp3|Unterhalt
+media/00383a.mp3|gesund
+media/00384a.mp3|Lust
+media/00385a.mp3|Langweile
+media/00385b.mp3|Ich langweile mich sehr schnell
+media/00386a.mp3|Freiheit
+media/00387a.mp3|Ich mag kein Spinat
+media/00388a.mp3|den Rasen mähen
+media/00389a.mp3|Ich mag den Rasen nich mähen
+media/00389c.mp3|Ich mag kein Rasen
+media/00389b.mp3|Ich mähe den Rasen nicht gern
+media/00390a.mp3|aufräumen
+media/00390b.mp3|putzen
+media/00391a.mp3|abdecken
+media/00392a.mp3|den Hund ausführen
+media/00393a.mp3|Zoff
+media/00394a.mp3|streiten
+media/00395a.mp3|am Fenster stehen
+media/00396a.mp3|guck mal
+media/00396b.mp3|Guck mal, einter steht am Auto
+media/00397a.mp3|vergleichen
+media/00398a.mp3|Unterricht
+media/00399a.mp3|teilnehmen
+media/00399b.mp3|Ich nehme am Deutschunterricht teil
+media/00400a.mp3|aufmachen
+media/00401a.mp3|zumachen
+media/00402a.mp3|anmachen
+media/00403a.mp3|ausmachen
+media/00404a.mp3|Termin
+media/00404c.mp3|Ich vergesse alle Termine
+media/00404b.mp3|Ich habe heute den Arzttermin
+media/00405a.mp3|müde
+media/00406a.mp3|Gerda kann nicht schlafen denn Peter liest ein Buch
+media/00407a.mp3|Weil Peter ein Buch liest
+media/00408a.mp3|Zelt
+media/00410a.mp3|Bist du schon auf
+media/00411a.mp3|Wen das Radio läuft
+media/00412a.mp3|zahlen
+media/00413a.mp3|bezahlen
+media/00414a.mp3|sprechen
+media/00415a.mp3|besprechen
+media/00416a.mp3|schaffen
+media/00416b.mp3|schaffen_pp
+media/00417a.mp3|erkennen
+media/00418a.mp3|nennen
+media/00419a.mp3|wechseln
+media/00420a.mp3|verwechseln
+media/00421a.mp3|bestellen
+media/00422a.mp3|Kleingeld
+media/00423a.mp3|Strafe
+media/00423b.mp3|Strafzettel
+media/00424a.mp3|in der Küche
+media/00425a.mp3|Streit
+media/00426a.mp3|streiten
+media/00427a.mp3|Was soll das
+media/00428a.mp3|einschalten
+media/00429a.mp3|fernsehen
+media/00429b.mp3|Beim Essen sehe ich nicht fern
+media/00430a.mp3|verdauen
+media/00431a.mp3|Stress
+media/00432a.mp3|aufregen
+media/00432b.mp3|Ich bin aufgeregt
+media/00433a.mp3|sofort
+media/00434a.mp3|gleich
+media/00435a.mp3|Kerze
+media/00436a.mp3|Kater
+media/00437a.mp3|
+media/00438a.mp3|verbieten
+media/00438c.mp3|Die Mutter verbietet ihr zu kommen
+media/00438b.mp3|verbieten_pp
+media/00439a.mp3|für wann
+media/00440a.mp3|für heute Abend
+media/00441a.mp3|gehen um
+media/00441b.mp3|Geht es nicht um Babysitter
+media/00443a.mp3|besichtigen
+media/00444a.mp3|Besichtigung
+media/00445a.mp3|umziehen
+media/00445c.mp3|Ich bin umgezogen
+media/00445b.mp3|umziehen_pp
+media/00446a.mp3|umziehen
+media/00446b.mp3|Ich habe mich umgezogen
+media/00447a.mp3|schwimmen
+media/00447b.mp3|schwimmen_pp
+media/00448a.mp3|flie�źen
+media/00448b.mp3|flie�źen_pp
+media/00449a.mp3|fahren
+media/00449c.mp3|Man kann mit dem Schiff fahren
+media/00449b.mp3|fahren_pp
+media/00450a.mp3|segeln
+media/00451a.mp3|treffen
+media/00451b.mp3|treffen_pp
+media/00452a.mp3|verbringen
+media/00453a.mp3|In der Freizeit kann man Basketball spielen
+media/00454a.mp3|Rad
+media/00455a.mp3|Rat
+media/00456a.mp3|Hinweis
+media/00457a.mp3|wandern
+media/00458a.mp3|reiten
+media/00458b.mp3|reiten_pp
+media/00459a.mp3|angeln
+media/00460a.mp3|basteln
+media/00460b.mp3|basteln_odmiana
+media/00461a.mp3|zeichnen
+media/00462a.mp3|stricken
+media/00463a.mp3|Kreuzworträtsel
+media/00464a.mp3|Rätsel
+media/00465a.mp3|Das ist nicht mein Dink
+media/00466a.mp3|Ausflug
+media/00467a.mp3|sammeln
+media/00468a.mp3|häkeln
+media/00469a.mp3|nähen
+media/00470a.mp3|alte Münze
+media/00471a.mp3|Landkarte
+media/00472a.mp3|Karte
+media/00472b.mp3|Speisekarte
+media/00473a.mp3|Nadel
+media/00474a.mp3|Faden
+media/00475a.mp3|�śberraschung
+media/00476a.mp3|tauchen
+media/00477a.mp3|nachsprechen
+media/00477b.mp3|nachsprechen_pp
+media/00478a.mp3|wiederholen
+media/00479a.mp3|vorsagen
+media/00480a.mp3|vorsagen
+media/00482a.mp3|so la-la
+media/00483a.mp3|einmal in Monat
+media/00484a.mp3|monatlich
+media/00485a.mp3|Pflicht
+media/00486a.mp3|Ich bin noch nie geritten
+media/00486b.mp3|reiten_pp
+media/00487a.mp3|Kaffee kochen
+media/00488a.mp3|selten
+media/00489a.mp3|manchmal
+media/00490a.mp3|ab un zu
+media/00491a.mp3|oft
+media/00492a.mp3|nie
+media/00493a.mp3|immer
+media/00494a.mp3|au�źer
+media/00495a.mp3|jeden Tag
+media/00496a.mp3|täglich
+media/00497a.mp3|alle zwei Tage
+media/00498a.mp3|von Montag bis Freitag
+media/00499a.mp3|Alltag
+media/00500a.mp3|am Werktag
+media/00501a.mp3|am Feierntag
+media/00502a.mp3|Ausgang
+media/00503a.mp3|am Montag
+media/00504a.mp3|montags
+media/00505a.mp3|zwei mal täglich
+media/00506a.mp3|am Wochenende
+media/00507a.mp3|studieren fern
+media/00508a.mp3|ein paar mal
+media/00509a.mp3|ganze Zeit
+media/00510a.mp3|Wie oft kämmst du dich
+media/00510c.mp3|Ich kämme mir meine Haare nicht
+media/00510b.mp3|Ich kämme mich nicht
+media/00511a.mp3|erholen
+media/00512a.mp3|ruhen
+media/00513a.mp3|Gehst du morgen schwimmen
+media/00514a.mp3|Willst du surfen lernen
+media/00515a.mp3|Ist er da
+media/00516a.mp3|Eine Ratte is grö�źer als eine Maus
+media/00517a.mp3|Kerze
+media/00518a.mp3|müde
+media/00519a.mp3|Er macht das Buch in Ruhe auf
+media/00520a.mp3|Wisst ihr
+media/00521a.mp3|einverstanden
+media/00522a.mp3|Kamm
+media/00523a.mp3|schneiden
+media/00523b.mp3|Haare schneiden lassen
+media/00525a.mp3|an einem See
+media/00526a.mp3|an der Ostsee
+media/00527a.mp3|am Flu�ź
+media/00528a.mp3|Socke
+media/00529a.mp3|Pulli
+media/00530a.mp3|Gesicht
+media/00531a.mp3|im Wald
+media/00531b.mp3|Wald
+media/00532a.mp3|Berg
+media/00533a.mp3|Gebirge
+media/00534a.mp3|Man darf das nicht machen
+media/00534b.mp3|Das ist nicht erlaubt
+media/00535a.mp3|Man kann das nicht machen
+media/00536a.mp3|Kraft
+media/00536b.mp3|Kraftwerk
+media/00537a.mp3|langweilen
+media/00537b.mp3|sich zu Tode langweilen
+media/00538a.mp3|gelangweilt
+media/00539a.mp3|Zettel
+media/00540a.mp3|Papagei
+media/00541a.mp3|Eis
+media/00542a.mp3|Gebot
+media/00543a.mp3|Turm
+media/00544a.mp3|der Vogel
+media/00545a.mp3|Tasse
+media/00546a.mp3|Teekessel
+media/00547q.mp3|kommen
+media/00547a.mp3|du kommst - komm
+media/00548q.mp3|essen
+media/00548a.mp3|du isst - iss
+media/00550a.mp3|höflich
+media/00551a.mp3|Hof
+media/00552a.mp3|möchten
+media/00552b.mp3|Wie möchten Sie ihn
+media/00553a.mp3|Notwendigkeit
+media/00554a.mp3|pinkeln
+media/00555a.mp3|gewinnen
+media/00555b.mp3|gewinnen_pp
+media/00556a.mp3|verlieren
+media/00556b.mp3|verlieren_pp
+media/00557a.mp3|Spannung
+media/00558a.mp3|spannend
+media/00559a.mp3|Das ist das Auto meines Bruders
+media/00560a.mp3|Hafen
+media/00561a.mp3|Schiff
+media/00562a.mp3|Wurm
+media/00564a.mp3|Zimmer
+media/00565a.mp3|Ich bin im Klassenzimmer
+media/00566a.mp3|Arbeit
+media/00567a.mp3|Ich bin in der Arbeit
+media/00568a.mp3|Wohin gehst du
+media/00568b.mp3|Wo gehst du hin
+media/00569a.mp3|Wo bist du
+media/00570a.mp3|Ich gehe nach hause
+media/00571a.mp3|Ich bin zu Hause
+media/00572a.mp3|Büro
+media/00573a.mp3|Ich gehe zu das Büro
+media/00574a.mp3|Ich bin im Büro
+media/00575a.mp3|Land
+media/00576a.mp3|Heizung
+media/00577a.mp3|Fensterbank
+media/00578a.mp3|der Stuhl
+media/00579a.mp3|Tastatur
+media/00580a.mp3|Komputermaus
+media/00581a.mp3|Kuli
+media/00582a.mp3|Fahrkarte
+media/00583a.mp3|Eintrittskarte
+media/00584a.mp3|Boden
+media/00585a.mp3|Regal
+media/00586a.mp3|stehen
+media/00587a.mp3|sitzen
+media/00588a.mp3|liegen
+media/00589a.mp3|hängen
+media/00590a.mp3|über
+media/00591a.mp3|unter
+media/00592a.mp3|hinter
+media/00593a.mp3|vor
+media/00594a.mp3|neben
+media/00595a.mp3|zwischen
+media/00596a.mp3|Taube
+media/00597a.mp3|Zeitung
+media/00598a.mp3|Stall
+media/00599a.mp3|Hühnerstall
+media/00600a.mp3|Kuhstall
+media/00601a.mp3|kleiner Stall
+media/00603a.mp3|Mücke
+media/00604a.mp3|stechen
+media/00604b.mp3|stechen_pp
+media/00605a.mp3|die Mücken stechen
+media/00606a.mp3|Mein Kopf tut mir weh
+media/00607a.mp3|Scheune
+media/00608a.mp3|Schauer
+media/00609a.mp3|dni
+media/00610a.mp3|kommen aus
+media/00610c.mp3|Er kommt aus Polen
+media/00610d.mp3|auskommen
+media/00610b.mp3|Er kommt aus der Schweiz
+media/00611a.mp3|Schweiz
+media/00612a.mp3|Ukraine
+media/00613a.mp3|Republik Tschechen
+media/00614a.mp3|Slowakei
+media/00615a.mp3|Irak
+media/00616a.mp3|Iran
+media/00617a.mp3|Türkei
+media/00618a.mp3|Mongolei
+media/00619a.mp3|Vereinigten Staaten
+media/00620a.mp3|Ostsee
+media/00621a.mp3|Meer
+media/00622q.mp3|sagen
+media/00622a.mp3|sagen - sag - sagt - sagen Sie
+media/00623a.mp3|Sag mal
+media/00624a.mp3|wahr
+media/00624b.mp3|Das ist nicht wahr
+media/00625a.mp3|Sei
+media/00626a.mp3|Iss
+media/00627a.mp3|Schlaf
+media/00628a.mp3|Vergiss
+media/00629a.mp3|beeilen
+media/00629b.mp3|beeilen_forms
+media/00631a.mp3|raten
+media/00631c.mp3|Raten Sie mal
+media/00631b.mp3|raten_pp
+media/00632a.mp3|Halt das Maul
+media/00633a.mp3|dort
+media/00634a.mp3|dorthin
+media/00635a.mp3|Geh weg
+media/00636a.mp3|Hau ab
+media/00637a.mp3|gucken
+media/00638a.mp3|Augen
+media/00639a.mp3|heben
+media/00639b.mp3|heben_pp
+media/00640a.mp3|Sag mal
+media/00641a.mp3|holen
+media/00642a.mp3|bringen
+media/00642b.mp3|Bringen Sie es wieder hoch
+media/00643a.mp3|aufräumen
+media/00644a.mp3|spülen
+media/00644b.mp3|Geschirr spülen
+media/00645a.mp3|Spülbecken
+media/00646a.mp3|baden
+media/00647a.mp3|duschen
+media/00648a.mp3|in der Regel
+media/00649a.mp3|Anhänger
+media/00650a.mp3|anhängen
+media/00650b.mp3|anhängen_pp
+media/00651a.mp3|Schirm
+media/00652a.mp3|zu
+media/00653a.mp3|bei
+media/00654a.mp3|von
+media/00655a.mp3|Männer
+media/00655b.mp3|mit dem Männern
+media/00657a.mp3|Feuerwehr
+media/00658a.mp3|Ich müss Polizei anrufen
+media/00659a.mp3|HNO
+media/00660a.mp3|stehlen
+media/00660c.mp3|Du stiehlst mir die Zeit
+media/00660b.mp3|stehlen_pp
+media/00661a.mp3|Bäckerei
+media/00662a.mp3|Bäcker
+media/00663a.mp3|Blumenladen
+media/00664a.mp3|anmachen
+media/00665a.mp3|Verkehr
+media/00666a.mp3|durch lassen
+media/00667a.mp3|schimpfen
+media/00668a.mp3|fallen lassen
+media/00669a.mp3|aussteigen
+media/00669b.mp3|aussteigen_pp
+media/00670a.mp3|aufbrechen
+media/00670b.mp3|aufbrechen_pp
+media/00671a.mp3|ein - aus
+media/00672a.mp3|verletzt
+media/00673a.mp3|schieben
+media/00673b.mp3|schieben_pp
+media/00674a.mp3|Sauerstoff
+media/00675a.mp3|Stickstoff
+media/00676a.mp3|stöhnen
+media/00677a.mp3|heben
+media/00678a.mp3|Baimbruch
+media/00679a.mp3|Rippenbrüche
+media/00680a.mp3|Haut
+media/00681a.mp3|unter die Haut gehen
+media/00682a.mp3|um 8 Uhr
+media/00683a.mp3|Opfer
+media/00683b.mp3|Opfer bringen
+media/00685a.mp3|Brücke
+media/00686a.mp3|Münze
+media/00687a.mp3|Heu
+media/00688a.mp3|Stroh
+media/00689a.mp3|Tempo
+media/00690a.mp3|Prister
+media/00691a.mp3|Pfarrer
+media/00692a.mp3|wachsen
+media/00692b.mp3|wachsen_pp
+media/00693a.mp3|Radio
+media/00694a.mp3|Poliklinik
+media/00695a.mp3|Beim
+media/00696a.mp3|Hände
+media/00697a.mp3|Arm
+media/00698a.mp3|Fü�źe
+media/00699a.mp3|Hintern
+media/00699b.mp3|den Hintern versohlen
+media/00700a.mp3|blo�ź
+media/00700b.mp3|Wenn es doch bloss sie betreffen würde
+media/00701a.mp3|Senf
+media/00702a.mp3|Setz dich und lies
+media/00703a.mp3|weinen
+media/00704a.mp3|traumen
+media/00705a.mp3|Käfig
+media/00707a.mp3|Das ist eine Uhr von Kamil
+media/00708a.mp3|Das ist seine Uhr
+media/00709a.mp3|Spielzeug
+media/00710a.mp3|Rock
+media/00711a.mp3|Kleid
+media/00712a.mp3|Hose
+media/00713a.mp3|belegtes Brötchen
+media/00714a.mp3|Schrank
+media/00714c.mp3|Ist das unser Schrank
+media/00714b.mp3|Ist das euer Schrank
+media/00715a.mp3|Radiergummi
+media/00716a.mp3|Lineal
+media/00717a.mp3|Koffer
+media/00718a.mp3|um
+media/00718b.mp3|Sie gehen um das Hause
+media/00719a.mp3|genitiv
+media/00719b.mp3|Während der Arbeit hörte sie Musik
+media/00720a.mp3|dativ
+media/00720b.mp3|Hast du heute nach der Schule schon etwas vor
+media/00721a.mp3|akkusativ
+media/00721b.mp3|Gestern ist meine Frau mit dem Auto gegen einen Baum gefahren
+media/00722a.mp3|dativ_akkusativ
+media/00722c.mp3|Das Kind legt den Ball auf den Boden
+media/00722b.mp3|Der Ball liegt auf dem Boden
+media/00723a.mp3|schauen
+media/00724a.mp3|aussteigen
+media/00724c.mp3|Er stieg aus dem Auto aus
+media/00724b.mp3|aussteigen_pp
+media/00725a.mp3|Ansage
+media/00726a.mp3|ankommen
+media/00726b.mp3|Der Zug kommt in München mit 15 Minuten Verspätung an
+media/00727a.mp3|Ankunf
+media/00728a.mp3|Gleis
+media/00729a.mp3|Anschlu�ź
+media/00730a.mp3|betrügen
+media/00730b.mp3|betrügen_pp
+media/00731a.mp3|Geschäftsreise
+media/00732a.mp3|rennen
+media/00733a.mp3|Schatz
+media/00734a.mp3|Pferd
+media/00735a.mp3|Esel
+media/00736a.mp3|um die Ecke
+media/00737a.mp3|jemandem einen Bären aufbinden
+media/00739a.mp3|um herum
+media/00739c.mp3|Was sieht du um dich herum
+media/00739b.mp3|Ich gehe um das Haus herum
+media/00740a.mp3|All
+media/00741a.mp3|Um mich herum sehe ich
+media/00742a.mp3|Leute
+media/00743a.mp3|Menschen
+media/00744a.mp3|Buchhandlung
+media/00745a.mp3|klauen
+media/00745b.mp3|Jemand klaut unsere Sachen
+media/00746a.mp3|verständigen
+media/00746b.mp3|Wir können uns nicht verständigen
+media/00747a.mp3|Verständigung
+media/00747b.mp3|Probleme mit Verständigung
+media/00748a.mp3|Wo sind wir
+media/00749a.mp3|�śbernachtung
+media/00749b.mp3|Kein Hotel finden wir zur �śbernachtung
+media/00750a.mp3|Um Verzeihung bitte
+media/00751a.mp3|empfehlen
+media/00751b.mp3|empfehlen_pp
+media/00752a.mp3|Ist es weit bis dorthin
+media/00753a.mp3|Springbrunnen
+media/00753b.mp3|der Neptun Brunnen
+media/00754a.mp3|ganz weit
+media/00755a.mp3|billig
+media/00756a.mp3|preiswert
+media/00757a.mp3|klingen
+media/00757c.mp3|Das klingt sehr interresant
+media/00757b.mp3|klingen_pp
+media/00758a.mp3|Spielplatz
+media/00759a.mp3|Strand
+media/00760a.mp3|ein irgendwelches Restaurant empfahlen
+media/00761a.mp3|erste
+media/00762a.mp3|letzte
+media/00763a.mp3|zweiundzwanzigste
+media/00764a.mp3|Gebäude
+media/00765a.mp3|die ersten Leute
+media/00766a.mp3|Keine Ursache
+media/00767a.mp3|Weg
+media/00768a.mp3|an vorbei gehen
+media/00769a.mp3|bis zu gehen
+media/00770a.mp3|durch den Banübergang
+media/00772a.mp3|Wüste
+media/00772c.mp3|in der Wüste sein
+media/00772b.mp3|die Sahara Wüste
+media/00773a.mp3|Segelnboot
+media/00774a.mp3|Wohnmobil
+media/00775a.mp3|Botschaft
+media/00776a.mp3|Panzer
+media/00777a.mp3|Drogerie
+media/00778a.mp3|Spielothek
+media/00779a.mp3|Brettspiel
+media/00780a.mp3|Werkstatt
+media/00781a.mp3|Werkzeug
+media/00782a.mp3|die Erde
+media/00783a.mp3|das Weltall
+media/00784a.mp3|Pressagentur
+media/00785a.mp3|Stadion
+media/00786a.mp3|Intensivstation
+media/00787a.mp3|der Flohmarkt
+media/00788a.mp3|Spielkasino
+media/00790a.mp3|her
+media/00790b.mp3|heranbringen
+media/00791a.mp3|hin
+media/00791b.mp3|hinbringen
+media/00792a.mp3|über die Stra�źe
+media/00793a.mp3|Geh mal hinüber
+media/00794a.mp3|Komm mal herüber
+media/00795a.mp3|veranstalten
+media/00796a.mp3|schicken
+media/00797a.mp3|Ich gehe nach Hause
+media/00798a.mp3|Ich bleibe zu Hause
+media/00799a.mp3|erleben
+media/00799b.mp3|Lange Zeit glaubte ich nicht
+media/00800a.mp3|Ausflug
+media/00801a.mp3|Reise
+media/00802a.mp3|Ich arbeite aber ich habe nicht will
+media/00803a.mp3|entschuldigen
+media/00803b.mp3|Entschuldigen Sie bitte Störung
+media/00804a.mp3|Keine Ursache
+media/00804b.mp3|Da nicht für
+media/00805a.mp3|abbiegen
+media/00806a.mp3|Betrieb
+media/00807a.mp3|Pensionär
+media/00808a.mp3|pensionieren
+media/00809a.mp3|Rente
+media/00810a.mp3|Bist du pensioniert
+media/00811a.mp3|wählen
+media/00811b.mp3|Die Wahl ist die Qual
+media/00812a.mp3|werden
+media/00812b.mp3|Was wirst du morgen machen
+media/00813a.mp3|Brett
+media/00814a.mp3|untersuchen
+media/00815a.mp3|Wen siehst du
+media/00816a.mp3|Wem hilfst du
+media/00817a.mp3|werfen
+media/00818a.mp3|schieben
+media/00818b.mp3|schieben_pp
+media/00819a.mp3|Ordner
+media/00820a.mp3|aufpassen auf
+media/00820b.mp3|Pass auf
+media/00821a.mp3|feiern
+media/00822a.mp3|brennen
+media/00823a.mp3|Gesicht
+media/00129a.mp3|Studentheim
+media/00130a.mp3|Sauerkraut
+media/00131a.mp3|sauer
+media/00131b.mp3|Ich bin sauer
+media/00132a.mp3|Unterwäsche
+media/00133a.mp3|Wäsche
+media/00134a.mp3|Glück
+media/00135a.mp3|gewinnen
+media/00136a.mp3|verlieren
+media/00137a.mp3|ergänzen
+media/00138a.mp3|sterben
+media/00139a.mp3|regelmä�źig
+media/00140a.mp3|Gewohnheit
+media/00141a.mp3|etwas
+media/00142a.mp3|Staub
+media/00142b.mp3|Staub wischen
+media/00143a.mp3|anbauen
+media/00144a.mp3|Staubsauger
+media/00145a.mp3|Geist
+media/00146a.mp3|sauber
+media/00147a.mp3|einschlafen
+media/00148a.mp3|Ast
+media/00149a.mp3|versuchen
+media/00150a.mp3|Alltag
+media/00151a.mp3|circa
+media/00152a.mp3|nachholen
+media/00153a.mp3|hören auf
+media/00154a.mp3|erwarten
+media/00155a.mp3|endlich
+media/00156a.mp3|gie�źen
+media/00157a.mp3|vorbereiten
+media/00158a.mp3|Wann soll ich dich anrufen
+media/00159a.mp3|kapieren
+media/00160a.mp3|entgehen
+media/00161a.mp3|missverstehen
+media/00162a.mp3|Vogel
+media/00163a.mp3|Tulpe
+media/00165a.mp3|Stra�źe
+media/00166a.mp3|isst
+media/00167a.mp3|Sachbuch
+media/00168a.mp3|in der Regel
+media/00169a.mp3|um Mittelnacht
+media/00170a.mp3|zahlen
+media/00171a.mp3|rechnen
+media/00172a.mp3|manche
+media/00173a.mp3|weder - noch
+media/00174a.mp3|Das Laufen ermüdet
+media/00175a.mp3|bewunderern
+media/00176a.mp3|Das geht mich nicht an
+media/00177a.mp3|ab un zu
+media/00178a.mp3|Brieftasche
+media/00179a.mp3|interresiert für S-F Bucher
+media/00180a.mp3|wissenschaftlich
+media/00181a.mp3|bei
+media/00182a.mp3|schweigsam
+media/00183a.mp3|gesprächig
+media/00184a.mp3|schweigen
+media/00185a.mp3|abräumen
+media/00186a.mp3|anfangen
+media/00187a.mp3|aufhören
+media/00188a.mp3|decken
+media/00189a.mp3|abholen
+media/00190a.mp3|Hört auf mit dem Krach
+media/00191a.mp3|aufhängen
+media/00192a.mp3|erhängen
+media/00193a.mp3|Sie kocht den beiden
+media/00194a.mp3|zum Trocken
+media/00195a.mp3|billig
+media/00196a.mp3|teuer
+media/00197a.mp3|zum Glück
+media/00198a.mp3|unheimlich
+media/00199a.mp3|verwandeln
+media/00200a.mp3|platzen
+media/00276b.mp3|erraten_pp
+media/00276a.mp3|erraten
+media/00277a.mp3|benutzen
+media/00278a.mp3|einfah
+media/00279a.mp3|Stück
+media/00280a.mp3|Huhn
+media/00281a.mp3|zuhören
+media/00281b.mp3|Wollen Sie dazukommen und zuhören
+media/00282a.mp3|Hör auf zuhören
+media/00283a.mp3|abholen
+media/00284a.mp3|irgendwo
+media/00285a.mp3|irgendwas
+media/00286a.mp3|irgendwann
+media/00287a.mp3|nirgendwo
+media/00288a.mp3|Dose
+media/00289a.mp3|Erbsendose
+media/00290a.mp3|festlegen
+media/00291a.mp3|Ich habe einen Artztermin
+media/00292a.mp3|Glückspiel
+media/00293a.mp3|Gleichstand
+media/00294a.mp3|bemerken
+media/00295a.mp3|Eisbein
+media/00296a.mp3|Albtraum
+media/00298a.mp3|unziehen
+media/00299b.mp3|verlassen_pp
+media/00299a.mp3|verlassen
+media/00300b.mp3|lassen_pp
+media/00300a.mp3|lassen
+media/00301a.mp3|gehen weg zu Hause
+media/00302a.mp3|ausgehen
+media/00303b.mp3|einladen_pp
+media/00303a.mp3|einladen
+media/00304a.mp3|wen
+media/00305a.mp3|wenn
+media/00306a.mp3|passieren
+media/00307a.mp3|benutzen
+media/00308a.mp3|hatte
+media/00309a.mp3|war
+media/00310a.mp3|wetten
+media/00310b.mp3|Wollen wir weten
+media/00311b.mp3|entscheiden_pp
+media/00311a.mp3|entscheiden
+media/00312a.mp3|Ich hebe entschieden mich für Spanien
+media/00313b.mp3|erschrecken_pp
+media/00313c.mp3|Ich bin mich erschrocken
+media/00313a.mp3|erschrecken
+media/00314a.mp3|erschrecken
+media/00314b.mp3|Ich habe Sie erschreckt
+media/00315a.mp3|erzählen
+media/00316a.mp3|Erzählung
+media/00317a.mp3|Story
+media/00318a.mp3|Witze
+media/00319a.mp3|Witze rei�źen
+media/00319b.mp3|Nein, du machst Witze
+media/00320a.mp3|Jahrhundert
+media/00321a.mp3|Sparkasse
+media/00322a.mp3|sparen
+media/00323b.mp3|wissen_pp
+media/00323a.mp3|wissen
+media/00324b.mp3|fahren_pp
+media/00324a.mp3|fahren
+media/00325a.mp3|losfahren
+media/00326a.mp3|wegfahren
+media/00327a.mp3|umziehen
+media/00328a.mp3|umziehen
+media/00329a.mp3|was für eine
+media/00330a.mp3|welche
+media/00331c.mp3|An wenn denkst du
+media/00331a.mp3|denken an
+media/00331b.mp3|Woran denkst du
+media/00332c.mp3|Wofür entscheiden Sie sich
+media/00332a.mp3|entscheiden für
+media/00332b.mp3|Für wen entscheiden Sie sich
+media/00333a.mp3|warten auf
+media/00335a.mp3|Wer hat dir die �śbung erklärt
+media/00336a.mp3|Um wie viel Uhr hat das Konzert begonnen
+media/00337a.mp3|Tante Anna hat immer schöne Geschichten erzählt
+media/00338a.mp3|Die wei�źe Hose hat mir nie gefallen
+media/00339a.mp3|Hast du schon deinen alten BMW verkauft
+media/00340a.mp3|Meine Telefonrechnung habe ich noch nicht bezahlt
+media/00341a.mp3|Der Arzt hat meinem Opa das Rauchen verboten
+media/00342a.mp3|Wer hat Amerika endeckt
+media/00343a.mp3|Du hast wieder die Hausafgaben vergessen
+media/00345a.mp3|Patrick hat die Oberschule 1996 begonnen
+media/00346a.mp3|Der Weihnachtsmann hat mir viele Geschenke gebracht
+media/00347a.mp3|Gestern sind wir zu Hause geblieben
+media/00348a.mp3|Der Lehrer hat mir 1000 Fragen gestellt
+media/00349a.mp3|Um 22 Uhr habe ich noch Zeitung gelesen
+media/00350a.mp3|Dein Hund hat mich wie immer sehr erschreckt
+media/00351a.mp3|Auf Mallorca sind wir noch nie gewesen
+media/00352a.mp3|Im Mai habe ich sogar 150 euro gespart
+media/00354a.mp3|Sonja hat heute ein shönes Kleid angezogen
+media/00355a.mp3|Die Sekretärin hat die Dokumente vorberaitet
+media/00356a.mp3|Der Zug ist in Bonn mit Verspätung angekommen
+media/00357a.mp3|In meinem Test hat der Lehrer 5 Fehler festgestellt
+media/00358a.mp3|Wir sind gestern gegen 16 Uhr in Richtung Kiel losgefahren
+media/00359a.mp3|Ich mache keinen Sport und habe schon 5 kg zugenohmen
+media/00360a.mp3|Du hast die Tür zugemacht
+media/00361a.mp3|Ich habe mich für einen Audi entschieden
+media/00968a.mp3|Husten
+media/00968b.mp3|Hustensaft
+media/00969a.mp3|Erkältung
+media/00970a.mp3|Schnupfen
+media/00971a.mp3|fühlen
+media/00971b.mp3|Ich fühle mich gut
+media/00972a.mp3|versuchen
+media/00973a.mp3|bemalt
+media/00974a.mp3|renoviert
+media/00975a.mp3|graben
+media/00975b.mp3|graben_pp
+media/00976a.mp3|das Loch
+media/00977a.mp3|Locher
+media/00978a.mp3|gehen
+media/00978b.mp3|gehen_pp
+media/00979a.mp3|sterben
+media/00979b.mp3|sterben_pp
+media/00980a.mp3|bleiben
+media/00980b.mp3|bleiben_pp
+media/00981a.mp3|sammeln
+media/00982a.mp3|zu Mittag essen
+media/00984a.mp3|besuchen
+media/00984b.mp3|Ich gehe zum Besuch
+media/00985a.mp3|suchen
+media/00986a.mp3|Rechnung
+media/00987a.mp3|Fernsehprogramm
+media/00988a.mp3|der Traum
+media/00989a.mp3|träumen von
+media/00990a.mp3|Morgen
+media/00990b.mp3|Morgen früh
+media/00991a.mp3|morgen
+media/00991b.mp3|Was können wir morgen tun
+media/00992a.mp3|sogar
+media/00992b.mp3|Sie ist sogar heute morgen dort
+media/00993a.mp3|Tätigkeit
+media/00994a.mp3|fehlen
+media/00994c.mp3|Was fehlt Ihnen
+media/00994b.mp3|Was fehlt uns
+media/00995a.mp3|anwesend
+media/00996a.mp3|abwesend
+media/00997a.mp3|bringen
+media/00998a.mp3|holen
+media/00999a.mp3|bekannt
+media/01000a.mp3|Stimmt
+media/01001a.mp3|heben
+media/01001b.mp3|heben_pp
+media/01002a.mp3|dick
+media/01003a.mp3|fett
+media/01004a.mp3|dünn
+media/01005a.mp3|das Tier
+media/01006a.mp3|die Tür
+media/01007a.mp3|die Kuh
+media/01008a.mp3|melken
+media/01008b.mp3|melken_pp
+media/01009a.mp3|Pferd
+media/01010a.mp3|Feld
+media/01011a.mp3|Wiese
+media/01012a.mp3|Weide
+media/01013a.mp3|Heide
+media/01014a.mp3|Gebirge
+media/01015a.mp3|Berg
+media/01016a.mp3|Spitze
+media/01017a.mp3|Drachen
+media/01017b.mp3|den Drauchen steigen lassen
+media/01018a.mp3|Gummistiefeln
+media/01019a.mp3|morgens
+media/01020a.mp3|wie immer
+media/01021a.mp3|Abendbrot
+media/01022a.mp3|zu Abend zu essen
+media/01023a.mp3|übernehmen
+media/01023b.mp3|übernehmen_pp
+media/01024a.mp3|teilen
+media/01025a.mp3|Teil
+media/01026a.mp3|eigentlich
+media/01027a.mp3|Haushalt
+media/01028a.mp3|aussehen
+media/01028b.mp3|So sieht es aus
+media/01029a.mp3|gewöhnlich
+media/01030a.mp3|ungewöhnlich
+media/01031a.mp3|sonst
+media/01032a.mp3|Stall
+media/01033a.mp3|das Huhn
+media/01034a.mp3|gemeinsam
+media/01035a.mp3|nur
+media/01036a.mp3|einkaufen
+media/01036c.mp3|Ich muss einkaufen
+media/01036b.mp3|Ich muss Gemüse kaufen
+media/01037a.mp3|besorgen
+media/01038a.mp3|erledigen
+media/01038b.mp3|Wir müssen das Ding schnell erledigen
+media/01039a.mp3|bestellen
+media/01040a.mp3|bügeln
+media/01041a.mp3|vor allem
+media/01042a.mp3|ungern
+media/01043a.mp3|linker
+media/01043b.mp3|Ich habe zwei linke Hände und an jeder Hand fünf Daumen
+media/01045a.mp3|immer
+media/01046a.mp3|jemandem wecken
+media/01046b.mp3|Ich habe meinen Sohn shon geweckt
+media/01047a.mp3|aufwachen
+media/01048a.mp3|zu Hause sein
+media/01049a.mp3|nach Hause fahren
+media/01050a.mp3|radfahren
+media/01051a.mp3|schlafen gehen
+media/01051b.mp3|Ich bin schlafen gegangen
+media/01052a.mp3|Um 4 Uhr schlafe ich gewöhnlich
+media/01053a.mp3|fernsehen
+media/01053b.mp3|Am Abends sehe ich gewöhnlich fern
+media/01054a.mp3|anfangen
+media/01054b.mp3|mit der Arbeit anfangen
+media/01055a.mp3|früher
+media/01056a.mp3|vor einem Jahr
+media/01057a.mp3|dauern
+media/01058a.mp3|Stra�źenarbeiten
+media/01059a.mp3|halbe Stunde
+media/01060a.mp3|Viertelstunde
+media/01061a.mp3|glauben
+media/01062a.mp3|isst - ist
+media/01063a.mp3|normalweise
+media/01064a.mp3|nicht weit
+media/01065a.mp3|bequem
+media/01066a.mp3|nie
+media/01067a.mp3|haben
+media/01067b.mp3|haben_pp
+media/01068a.mp3|sein
+media/01068c.mp3|Bist du in Frankfurt gewesen
+media/01068b.mp3|sein_pp
+media/01069a.mp3|wechseln
+media/01070a.mp3|wach
+media/01072a.mp3|Alltag
+media/01073a.mp3|Garten
+media/01074a.mp3|gestern
+media/01075a.mp3|Glück
+media/01076a.mp3|Wäsche
+media/01077a.mp3|Unterwäsche
+media/01078a.mp3|Woche
+media/01079a.mp3|Gemüse
+media/01080a.mp3|Sauerkraut
+media/01081a.mp3|Kleidung
+media/01081b.mp3|Kleider
+media/01082a.mp3|einschlafen
+media/01083a.mp3|sterben
+media/01083b.mp3|sterben_pp
+media/01084a.mp3|werden
+media/01085a.mp3|versuchen
+media/01086a.mp3|duschen
+media/01087a.mp3|schalten
+media/01088a.mp3|aufräumen
+media/01089a.mp3|putzen
+media/01090a.mp3|sauber machen
+media/01091a.mp3|ergänzen
+media/01092a.mp3|Werktag
+media/01093a.mp3|gewinnen
+media/01093b.mp3|gewinnen_pp
+media/01094a.mp3|verlieren
+media/01094b.mp3|verlieren_pp
+media/01095a.mp3|verspielen
+media/01096a.mp3|sauber
+media/01096b.mp3|Ich bin sauber
+media/01097a.mp3|Tätigkeit
+media/01098a.mp3|regelmä�źig
+media/01099a.mp3|Gewohnheit
+media/01100a.mp3|Staub wischen
+media/01101a.mp3|staubsaugen
+media/01102a.mp3|Gemüse anbauen
+media/01103a.mp3|Geist
+media/01104a.mp3|Ast
+media/01105a.mp3|circa
+media/01106a.mp3|nachholen
+media/01107a.mp3|aufhören mit
+media/01108a.mp3|jemandem zuhören
+media/01108b.mp3|Der perfekte Sohn hört den Father zu
+media/01109a.mp3|erwarten
+media/01109b.mp3|Der perfekte Sohn macht alles
+media/01110a.mp3|gie�źen
+media/01111a.mp3|anrufen
+media/01111c.mp3|Ich rufe dich an
+media/01111d.mp3|Wann soll ich dich anrufen
+media/01111b.mp3|anrufen_pp
+media/01112a.mp3|üben
+media/01112b.mp3|üben_pp
+media/01113a.mp3|reich
+media/01114a.mp3|arm
+media/01115a.mp3|mehr
+media/01115b.mp3|Ich mache das nicht mehr
+media/01116a.mp3|Fogel
+media/01117a.mp3|Spinne
+media/00935a.mp3|stattfinden
+media/00935b.mp3|stattfinden_pp
+media/00936a.mp3|gehören
+media/00937a.mp3|gefallen
+media/00938a.mp3|empfehlen
+media/00938b.mp3|empfehlen_pp
+media/00939a.mp3|fehlen
+media/00940a.mp3|entgehen
+media/00940b.mp3|entgehen_pp
+media/00941a.mp3|erklären
+media/00942a.mp3|missverstehen
+media/00943a.mp3|zerbrechen
+media/00943b.mp3|zerbrechen_pp
+media/00944a.mp3|zu dir
+media/00945a.mp3|für dich
+media/00946a.mp3|Landwirt
+media/00947a.mp3|beschäftigen mit
+media/00948a.mp3|hart
+media/00948b.mp3|Es ist tägliche harte Arbeit
+media/00949a.mp3|dauern
+media/00949b.mp3|Das dauert lange
+media/00950a.mp3|kümmern um
+media/00951a.mp3|vorstellen
+media/00951b.mp3|Können Sie sich das vorstellen
+media/00952a.mp3|Handschuhe
+media/00953a.mp3|schaffen
+media/00953c.mp3|Got schuf die Erde
+media/00953b.mp3|schaffen_pp
+media/00954a.mp3|anstrengend
+media/00955a.mp3|ausschlafen
+media/00955c.mp3|Ich lasse ihn ausschlafen
+media/00955b.mp3|ausschlafen_pp
+media/00956a.mp3|Jura
+media/00957a.mp3|Richter
+media/00958a.mp3|Rechtsanwalt
+media/00959a.mp3|Gericht
+media/00960a.mp3|Staatsanwalt
+media/00961a.mp3|stinken
+media/00961b.mp3|stinken_pp
+media/00962a.mp3|Weide
+media/00963a.mp3|plötzlich
+media/00964a.mp3|treten
+media/00964b.mp3|treten_pp
+media/00965a.mp3|Zaun
+media/00966a.mp3|oft
+media/00825a.mp3|merken
+media/00826a.mp3|Esel
+media/00827a.mp3|Seife
+media/00828a.mp3|Richtungen
+media/00828b.mp3|Nie ohne Saife waschen
+media/00829a.mp3|Planeten
+media/00829b.mp3|Mein Vater erklärt mir jeden Sontag unseren Nachthimmel
+media/00830a.mp3|Saite
+media/00831a.mp3|trotzdem
+media/00831b.mp3|Aber er wollte trotzdem gehen
+media/00832a.mp3|leihen
+media/00832b.mp3|leihen_pp
+media/00833a.mp3|das Hemd
+media/00834a.mp3|verreisen
+media/00835a.mp3|holen
+media/00836a.mp3|bringen
+media/00837a.mp3|Angebot
+media/00838a.mp3|verbringen
+media/00839a.mp3|ausfüllen
+media/00840a.mp3|fressen
+media/00842a.mp3|Das ist abhängig von
+media/00843a.mp3|Geschenk
+media/00844a.mp3|üblich
+media/00844b.mp3|etwas immer dann übliche Geschenke
+media/00845a.mp3|Fallschirmsprung
+media/00846a.mp3|einige
+media/00847a.mp3|erinnern
+media/00847b.mp3|Ich erinnere mich daran
+media/00848a.mp3|schenken
+media/00848b.mp3|schenken wem
+media/00849a.mp3|gleiten
+media/00849b.mp3|gleiten_pp
+media/00850a.mp3|entschlie�źen zu
+media/00850b.mp3|Ich habe mich entschossen in die Turkei zu fahren
+media/00851a.mp3|verlassen
+media/00852a.mp3|Eindrücke
+media/00853a.mp3|auftretten
+media/00854a.mp3|heimlich
+media/00855a.mp3|kleben
+media/00856a.mp3|witzige
+media/00857a.mp3|wenigstens
+media/00858a.mp3|Wunde
+media/00859a.mp3|bar zahlen
+media/00860a.mp3|seit wann
+media/00860b.mp3|Seit wann ist Herr Busch in Rente
+media/00861a.mp3|siebste Januar
+media/00862a.mp3|am siebsten Januar
+media/00864a.mp3|Wir kommen nicht
+media/00864b.mp3|kommen_werden
+media/00865q.mp3|Schuhe
+media/00865a.mp3|die
+media/00865c.mp3|Hast du den gesehen
+media/00865b.mp3|Die da
+media/00866q.mp3|Du must die Schuhe putzen
+media/00866a.mp3|Aber die habe ich schon geputzt
+media/00867a.mp3|bemalen
+media/00868a.mp3|malen
+media/00869a.mp3|gehören zu
+media/00870a.mp3|entdecken
+media/00871a.mp3|empfehlen
+media/00871b.mp3|empfehlen_pp
+media/00872a.mp3|verhören
+media/00873a.mp3|sperren
+media/00874a.mp3|sparen
+media/00875a.mp3|gefallen
+media/00875b.mp3|gefallen_pp
+media/00876a.mp3|helfen
+media/00877a.mp3|geben
+media/00877b.mp3|Ich gebe dir den Wagen
+media/00878a.mp3|zuhören
+media/00878b.mp3|Hört mir zu
+media/00879a.mp3|gratulieren
+media/00880a.mp3|stören
+media/00881a.mp3|lassen
+media/00881b.mp3|Die Mutter lässt den Sohn die Socken waschen
+media/00882a.mp3|lassen
+media/00882b.mp3|Du lässt mir leider keinen Wahl
+media/00884a.mp3|Käfig
+media/00885a.mp3|selbstverständlich
+media/00886a.mp3|eintauchen
+media/00887a.mp3|auftauchen
+media/00888a.mp3|die Möglichkeit
+media/00888c.mp3|Ich habe Möglichkeit zu zu machen
+media/00888b.mp3|Ich habe eine Möglichkeit nach zu sprechen
+media/00889a.mp3|Futter
+media/00890a.mp3|abschlie�źen
+media/00890b.mp3|abschlie�źen_pp
+media/00891a.mp3|Schaden
+media/00892a.mp3|Gebäude
+media/00893a.mp3|in dem
+media/00893b.mp3|Das ist ein Gebäude
+media/00894a.mp3|Stätte
+media/00895a.mp3|Ort
+media/00896a.mp3|etwas
+media/00896b.mp3|Das ist etwas
+media/00897a.mp3|kacken
+media/00898a.mp3|brav
+media/00899a.mp3|ganz brav
+media/00900a.mp3|auf dem Bank
+media/00901a.mp3|auf dem Post
+media/00902a.mp3|auf dem Rathaus
+media/00903a.mp3|auf der Station
+media/00904a.mp3|im Supermarkt
+media/00905a.mp3|aus dem Supermarkt
+media/00906a.mp3|beim Arzt
+media/00907a.mp3|von dem Arzt
+media/00908a.mp3|Frühling
+media/00909a.mp3|Sommer
+media/00910a.mp3|Herbst
+media/00911a.mp3|Winter
+media/00912a.mp3|vom ein und zwanzigsten Januar bis zum zwei und zwanzigsten Januar
+media/00913a.mp3|von ein und zwanzigste Januar bis zwei und zwanzigste Januar
+media/00914a.mp3|wievielte
+media/00915a.mp3|Wie spät ist es
+media/00916a.mp3|Stunde
+media/00917a.mp3|Uhr
+media/00918a.mp3|Viertel
+media/00919a.mp3|um halb zehn Uhr
+media/00920a.mp3|Mitternacht
+media/00921a.mp3|Mittag
+media/00922a.mp3|verwenden
+media/00923a.mp3|Auge
+media/00924a.mp3|Liebling
+media/00925a.mp3|Tagesablauf
+media/00926a.mp3|Uhrzeit
+media/00927a.mp3|Wecker
+media/00928a.mp3|Wunde
+media/00929a.mp3|Wüste
+media/00930a.mp3|langweilig
+media/00931a.mp3|unheimlich
+media/00932a.mp3|vorher
+media/00933a.mp3|wenigstens

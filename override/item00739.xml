@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>koło</question>
+  <answer>um herum<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Ich gehe um das Haus herum.</sentence><translation>Chodzę wokoło domu.</translation></text><br />
+<sfx file="c" /> <text><sentence>Was sieht du um dich herum?</sentence><translation>Co widzisz dookoła siebie?</translation></text></answer>
+  <modified>2012-12-30</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>23.07</lesson-title>
+  <chapter-title>Was ist wer?</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>powtarzać<text><sentence> *</sentence><translation lang="pl">np. coś za kimś</translation></text></question>
+  <answer>nachsprechen<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Formy:</span><br />
+<sfx file="b" /> nachsprechen, sprach nach, nachgesprochen</answer>
+  <modified>2012-12-27</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>07.05</lesson-title>
+  <chapter-title>Czas przeszły</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

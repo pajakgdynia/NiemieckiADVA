@@ -1,0 +1,1118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<course xmlns="http://www.supermemo.net/2006/smux">
+  <guid>721aca33-ff8e-4920-a3e3-b790d734f732</guid>
+  <title>niemiecki adva</title>
+  <created>2012-07-10</created>
+  <modified>2013-02-03</modified>
+  <language-of-instruction>en</language-of-instruction>
+  <language-taught>en</language-taught>
+  <default-items-per-day>10</default-items-per-day>
+  <default-template-id>1</default-template-id>
+  <type>regular</type>
+  <sorting>default</sorting>
+  <author>Jarek Poświata</author>
+  <version>1.0.198</version>
+  <element id="50" type="pres" name="Lagune 1" disabled="true">
+    <element id="51" type="pres" name="19.03" disabled="true">
+      <element id="52" type="exercise" name="kawaler" />
+      <element id="53" type="exercise" name="żonaty" />
+      <element id="54" type="exercise" name="młody" />
+      <element id="55" type="exercise" name="prawie" />
+      <element id="56" type="exercise" name="od" />
+      <element id="57" type="exercise" name="können" />
+      <element id="58" type="exercise" name="wollen" />
+      <element id="59" type="exercise" name="müssen" />
+      <element id="60" type="exercise" name="sollen" />
+      <element id="61" type="exercise" name="dürfen" />
+      <element id="62" type="exercise" name="mögen" />
+      <element id="63" type="exercise" name="mögen" />
+      <element id="64" type="exercise" name="mag" />
+      <element id="65" type="exercise" name="können" />
+      <element id="66" type="exercise" name="wollen" />
+      <element id="67" type="exercise" name="müssen" />
+      <element id="68" type="exercise" name="sollen" />
+      <element id="69" type="exercise" name="dürfen" />
+      <element id="70" type="exercise" name="mögen" />
+      <element id="71" type="exercise" name="mögen" />
+      <element id="72" type="exercise" name="dürfen odmiana" />
+      <element id="73" type="exercise" name="können odmiana" />
+      <element id="74" type="exercise" name="mögen odmiana" />
+      <element id="75" type="exercise" name="müssen odmiana" />
+      <element id="76" type="exercise" name="sollen odmiana" />
+      <element id="77" type="exercise" name="wollen odmiana" />
+      <element id="78" type="exercise" name="przynosić" />
+      <element id="79" type="exercise" name="odwieźć" />
+      <element id="80" type="exercise" name="odebrać" />
+      <element id="81" type="exercise" name="pić" />
+      <element id="82" type="exercise" name="jeść" />
+      <element id="83" type="exercise" name="myć się" />
+      <element id="84" type="exercise" name="brać prysznic" />
+      <element id="85" type="exercise" name="iść do łazienki" />
+      <element id="86" type="exercise" name="nosić (w ręku)" />
+      <element id="87" type="exercise" name="remontować" />
+      <element id="88" type="exercise" name="ubierać się" />
+      <element id="89" type="exercise" name="dürfen" />
+      <element id="90" type="exercise" name="piwo" />
+      <element id="91" type="exercise" name="alkohol" />
+      <element id="92" type="exercise" name="dürfen" />
+      <element id="93" type="exercise" name="dürfen" />
+      <element id="94" type="exercise" name="dürfen" />
+      <element id="95" type="exercise" name="sollen" />
+      <element id="96" type="exercise" name="uprawiać sport, trenować" />
+      <element id="97" type="exercise" name="wzruszać się" />
+      <element id="98" type="exercise" name="stawać się" />
+      <element id="99" type="exercise" name="pieczony" />
+      <element id="100" type="exercise" name="kurczak" />
+      <element id="101" type="exercise" name="odpoczywać" />
+      <element id="102" type="exercise" name="wypocząć" />
+      <element id="103" type="exercise" name="mögen" />
+      <element id="104" type="exercise" name="mögen" />
+      <element id="105" type="exercise" name="können" />
+      <element id="106" type="exercise" name="pozostawać na zewnątrz" />
+      <element id="107" type="exercise" name="ubranie" />
+      <element id="112" type="exercise" name="sukienka" />
+      <element id="362" type="exercise" name="ubierać" />
+      <element id="108" type="exercise" name="kleiden" />
+      <element id="109" type="exercise" name="hałas" />
+      <element id="110" type="exercise" name="straż pożarna" />
+      <element id="111" type="exercise" name="znak drogowy" />
+      <element id="363" type="exercise" name="jechać rowerem" />
+      <element id="113" type="exercise" name="mowa potoczna" />
+      <element id="114" type="exercise" name="smutny, żałosny" />
+      <element id="115" type="exercise" name="łzy" />
+      <element id="116" type="exercise" name="płakać" />
+      <element id="117" type="exercise" name="w przeciwnym razie" />
+      <element id="118" type="exercise" name="spadochron" />
+      <element id="119" type="exercise" name="zabijać się" />
+      <element id="120" type="exercise" name="obierać" />
+      <element id="121" type="exercise" name="umierać" />
+      <element id="122" type="exercise" name="basen" />
+      <element id="123" type="exercise" name="nurkować" />
+      <element id="124" type="exercise" name="sollen" />
+      <element id="125" type="exercise" name="dürfen" />
+      <element id="126" type="exercise" name="können" />
+      <element id="127" type="exercise" name="kościół" />
+    </element>
+    <element id="201" type="pres" name="26.03" disabled="true">
+      <element id="202" type="exercise" name="przedmiot" />
+      <element id="203" type="exercise" name="lodówka" />
+      <element id="204" type="exercise" name="nóż sprężynowy" />
+      <element id="205" type="exercise" name="aparat fotograficzny" />
+      <element id="206" type="exercise" name="pytania" />
+      <element id="207" type="exercise" name="kogo" />
+      <element id="208" type="exercise" name="bez" />
+      <element id="209" type="exercise" name="W żadnym razie!" />
+      <element id="210" type="exercise" name="może" />
+      <element id="211" type="exercise" name="więcej, bardziej" />
+      <element id="212" type="exercise" name="interesować się (czymś)" />
+      <element id="213" type="exercise" name="być zainteresowanym (czymś)" />
+      <element id="214" type="exercise" name="zapałki" />
+      <element id="215" type="exercise" name="mata do leżenia" />
+      <element id="216" type="exercise" name="wędka" />
+    </element>
+    <element id="217" type="pres" name="02.04" disabled="true">
+      <element id="218" type="exercise" name="koniecznie" />
+      <element id="219" type="exercise" name="kuchenka gazowa" />
+      <element id="220" type="exercise" name="kuchenka elektryczna" />
+      <element id="221" type="exercise" name="zależny" />
+      <element id="222" type="exercise" name="znaczyć" />
+      <element id="223" type="exercise" name="iść na polowanie" />
+      <element id="224" type="exercise" name="mieć" />
+      <element id="225" type="exercise" name="potrzebować" />
+      <element id="226" type="exercise" name="mieć, posiadać" />
+      <element id="227" type="exercise" name="telewizja" />
+      <element id="228" type="exercise" name="telewizor" />
+      <element id="229" type="exercise" name="telefon komórkowy" />
+      <element id="230" type="exercise" name="Rodzajniki określone" />
+      <element id="231" type="exercise" name="okulary" />
+      <element id="232" type="exercise" name="drzwi" />
+      <element id="233" type="exercise" name="spodnie" />
+      <element id="234" type="exercise" name="rodzajniki określone" />
+      <element id="235" type="exercise" name="bezpieczeństwo" />
+      <element id="236" type="exercise" name="co minutę" />
+      <element id="237" type="exercise" name="co dwie minuty" />
+      <element id="238" type="exercise" name="Chciałbym mieć ciężarówkę." />
+      <element id="239" type="exercise" name="Mój stary telefon komórkowy się zepsuł." />
+      <element id="240" type="exercise" name="żeby" />
+      <element id="241" type="exercise" name="albowiem, dlatego" />
+      <element id="242" type="exercise" name="Mam za dużo do roboty." />
+      <element id="243" type="exercise" name="rzecz" />
+      <element id="244" type="exercise" name="przedmiot" />
+      <element id="245" type="exercise" name="pierdułka" />
+      <element id="246" type="exercise" name="przedmiot szkolny" />
+      <element id="247" type="exercise" name="helikopter" />
+      <element id="248" type="exercise" name="ciężarówka" />
+      <element id="249" type="exercise" name="Głowa mnie boli." />
+      <element id="250" type="exercise" name="Przykro mi." />
+      <element id="251" type="exercise" name="małżeństwo" />
+      <element id="252" type="exercise" name="małżeństwo" />
+      <element id="253" type="exercise" name="wygodny" />
+      <element id="254" type="exercise" name="paluszki solone" />
+      <element id="255" type="exercise" name="słony" />
+      <element id="256" type="exercise" name="pomalować" />
+      <element id="257" type="exercise" name="naczynia" />
+      <element id="258" type="exercise" name="talerz" />
+      <element id="259" type="exercise" name="kłócić się" />
+      <element id="260" type="exercise" name="Jestem zła na niego!" />
+      <element id="261" type="exercise" name="cudowny, piękny" />
+      <element id="262" type="exercise" name="smutny" />
+      <element id="263" type="exercise" name="przerażający, obrzydliwy" />
+      <element id="264" type="exercise" name="trzymający w napięciu, ciekawy" />
+      <element id="265" type="exercise" name="zły" />
+      <element id="266" type="exercise" name="miły" />
+      <element id="267" type="exercise" name="głupi" />
+      <element id="268" type="exercise" name="niebezpieczny" />
+      <element id="269" type="exercise" name="bezpieczny" />
+      <element id="270" type="exercise" name="dozwolony" />
+      <element id="271" type="exercise" name="słówko wzmacniające" />
+      <element id="272" type="exercise" name="Tak się nie robi!" />
+      <element id="273" type="exercise" name="wchodzić" />
+      <element id="274" type="exercise" name="uciekać" />
+    </element>
+    <element id="364" type="pres" name="16.04" disabled="true">
+      <element id="365" type="exercise" name="skarpetka" />
+      <element id="366" type="exercise" name="włos" />
+      <element id="367" type="exercise" name="bez rozkazu" />
+      <element id="368" type="exercise" name="w armii" />
+      <element id="369" type="exercise" name="w niedziele" />
+      <element id="370" type="exercise" name="w kinie" />
+      <element id="371" type="exercise" name="czepek kąpielowy" />
+      <element id="372" type="exercise" name="miejsca publiczne" />
+      <element id="373" type="exercise" name="narkotyki" />
+      <element id="374" type="exercise" name="lornetka" />
+      <element id="375" type="exercise" name="za małe" />
+      <element id="376" type="exercise" name="wchodzić" />
+      <element id="377" type="exercise" name="modlić się (o)" />
+      <element id="378" type="exercise" name="wieczorami" />
+      <element id="379" type="exercise" name="wieczorem" />
+      <element id="380" type="exercise" name="obowiązek" />
+      <element id="381" type="exercise" name="zobowiązany" />
+      <element id="382" type="exercise" name="alimenty" />
+      <element id="383" type="exercise" name="zdrowy" />
+      <element id="384" type="exercise" name="ochota" />
+      <element id="385" type="exercise" name="nuda" />
+      <element id="386" type="exercise" name="wolność" />
+      <element id="387" type="exercise" name="Nie lubię szpinaku." />
+      <element id="388" type="exercise" name="kosić trawę" />
+      <element id="389" type="exercise" name="Nie lubię kosić" />
+      <element id="390" type="exercise" name="sprzątać" />
+      <element id="391" type="exercise" name="sprzątać ze stołu" />
+      <element id="392" type="exercise" name="wyprowadzać psa" />
+      <element id="393" type="exercise" name="kłótnia" />
+      <element id="394" type="exercise" name="kłócić się" />
+      <element id="395" type="exercise" name="stać przy oknie" />
+      <element id="396" type="exercise" name="spójrz" />
+      <element id="397" type="exercise" name="porównać" />
+      <element id="398" type="exercise" name="zajęcia, lekcje" />
+      <element id="399" type="exercise" name="uczestniczyć" />
+      <element id="400" type="exercise" name="otwierać" />
+      <element id="401" type="exercise" name="zamykać" />
+      <element id="402" type="exercise" name="włączyć" />
+      <element id="403" type="exercise" name="wyłączyć" />
+      <element id="404" type="exercise" name="wizyta, spotkanie" />
+      <element id="405" type="exercise" name="zmęczony" />
+      <element id="406" type="exercise" name="denn" />
+      <element id="407" type="exercise" name="wail" />
+      <element id="408" type="exercise" name="namiot" />
+    </element>
+    <element id="409" type="pres" name="24.04" disabled="true">
+      <element id="410" type="exercise" name="wstawać" />
+      <element id="411" type="exercise" name="trwać" />
+      <element id="412" type="exercise" name="płacić" />
+      <element id="413" type="exercise" name="zapłacić" />
+      <element id="414" type="exercise" name="mówić" />
+      <element id="415" type="exercise" name="omówić" />
+      <element id="416" type="exercise" name="tworzyć" />
+      <element id="417" type="exercise" name="uznać" />
+      <element id="418" type="exercise" name="nazywać" />
+      <element id="419" type="exercise" name="wymieniać" />
+      <element id="420" type="exercise" name="pomylić" />
+      <element id="421" type="exercise" name="zamawiać" />
+      <element id="422" type="exercise" name="drobniaki" />
+      <element id="423" type="exercise" name="kara" />
+      <element id="424" type="exercise" name="w kuchni" />
+      <element id="425" type="exercise" name="kłótnia" />
+      <element id="426" type="exercise" name="kłócić się" />
+      <element id="427" type="exercise" name="Co to ma znaczyć?!?" />
+      <element id="428" type="exercise" name="włączać" />
+      <element id="429" type="exercise" name="oglądać telewizję" />
+      <element id="430" type="exercise" name="trawić" />
+      <element id="431" type="exercise" name="stres" />
+      <element id="432" type="exercise" name="zdenerwować (się)" />
+      <element id="433" type="exercise" name="natychmiast" />
+      <element id="434" type="exercise" name="zaraz" />
+      <element id="435" type="exercise" name="świeca" />
+      <element id="436" type="exercise" name="kac" />
+      <element id="437" type="exercise" name="troszczyć się (o)" />
+      <element id="438" type="exercise" name="zabraniać" />
+      <element id="439" type="exercise" name="na kiedy?" />
+      <element id="440" type="exercise" name="na wieczór" />
+      <element id="441" type="exercise" name="dotyczyć" />
+    </element>
+    <element id="442" type="pres" name="07.05" disabled="true">
+      <element id="443" type="exercise" name="zwiedzać" />
+      <element id="444" type="exercise" name="zwiedzanie" />
+      <element id="445" type="exercise" name="przeprowadzać (się)" />
+      <element id="446" type="exercise" name="przebierać się" />
+      <element id="447" type="exercise" name="pływać" />
+      <element id="448" type="exercise" name="płynąć" />
+      <element id="449" type="exercise" name="płynąć" />
+      <element id="450" type="exercise" name="płynąć, żaglować" />
+      <element id="451" type="exercise" name="spotykać" />
+      <element id="452" type="exercise" name="spędzać" />
+      <element id="453" type="exercise" name="czas wolny" />
+      <element id="454" type="exercise" name="koło" />
+      <element id="455" type="exercise" name="rada" />
+      <element id="456" type="exercise" name="wskazówka" />
+      <element id="457" type="exercise" name="wędrować" />
+      <element id="458" type="exercise" name="jeździć konno" />
+      <element id="459" type="exercise" name="łowić" />
+      <element id="460" type="exercise" name="majsterkować" />
+      <element id="461" type="exercise" name="rysować" />
+      <element id="462" type="exercise" name="robić na drutach" />
+      <element id="463" type="exercise" name="krzyżówka" />
+      <element id="464" type="exercise" name="zagadka" />
+      <element id="465" type="exercise" name="Nie lubię tego!" />
+      <element id="466" type="exercise" name="wycieczka" />
+      <element id="467" type="exercise" name="zbierać" />
+      <element id="468" type="exercise" name="szydełkować" />
+      <element id="469" type="exercise" name="szyć" />
+      <element id="470" type="exercise" name="stara moneta" />
+      <element id="471" type="exercise" name="mapa" />
+      <element id="472" type="exercise" name="karta" />
+      <element id="473" type="exercise" name="igła" />
+      <element id="474" type="exercise" name="nitka" />
+      <element id="475" type="exercise" name="niespodzianka" />
+      <element id="476" type="exercise" name="nurkować" />
+      <element id="477" type="exercise" name="powtarzać" />
+      <element id="478" type="exercise" name="powtarzać" />
+      <element id="479" type="exercise" name="powtarzać" />
+      <element id="480" type="exercise" name="podpowiadać" />
+    </element>
+    <element id="481" type="pres" name="14.05" disabled="true">
+      <element id="482" type="exercise" name="tak sobie" />
+      <element id="483" type="exercise" name="raz w miesiącu" />
+      <element id="484" type="exercise" name="co miesiąc" />
+      <element id="485" type="exercise" name="obowiązek" />
+      <element id="486" type="exercise" name="jeździć konno" />
+      <element id="487" type="exercise" name="robić kawę" />
+      <element id="488" type="exercise" name="rzadko" />
+      <element id="489" type="exercise" name="czasami" />
+      <element id="490" type="exercise" name="od czasu do czasu" />
+      <element id="491" type="exercise" name="często" />
+      <element id="492" type="exercise" name="nigdy" />
+      <element id="493" type="exercise" name="zawsze" />
+      <element id="494" type="exercise" name="poza" />
+      <element id="495" type="exercise" name="codziennie" />
+      <element id="496" type="exercise" name="każdego dnia" />
+      <element id="497" type="exercise" name="co dwa dni" />
+      <element id="498" type="exercise" name="zakres dni" />
+      <element id="499" type="exercise" name="dzień powszedni" />
+      <element id="500" type="exercise" name="w dzień roboczy" />
+      <element id="501" type="exercise" name="w dzień wolny" />
+      <element id="502" type="exercise" name="wychodne" />
+      <element id="503" type="exercise" name="w poniedziałek" />
+      <element id="504" type="exercise" name="w poniedziałki" />
+      <element id="505" type="exercise" name="dwa razy w tygodniu" />
+      <element id="506" type="exercise" name="w weekend" />
+      <element id="507" type="exercise" name="studiować zaocznie" />
+      <element id="508" type="exercise" name="pare razy" />
+      <element id="509" type="exercise" name="cały czas" />
+      <element id="510" type="exercise" name="kammen" />
+      <element id="511" type="exercise" name="wypoczywać" />
+      <element id="512" type="exercise" name="odpowczywać" />
+      <element id="513" type="exercise" name="schwimmen" />
+      <element id="514" type="exercise" name="surfen" />
+      <element id="515" type="exercise" name="sein" />
+      <element id="516" type="exercise" name="größer" />
+      <element id="517" type="exercise" name="świeca" />
+      <element id="518" type="exercise" name="zmęczony" />
+      <element id="519" type="exercise" name="aufmachen" />
+      <element id="520" type="exercise" name="Czy wiecie?" />
+      <element id="521" type="exercise" name="zrozumiałe, jasne" />
+      <element id="522" type="exercise" name="grzebień" />
+      <element id="523" type="exercise" name="obcinać" />
+    </element>
+    <element id="524" type="pres" name="21.05" disabled="true">
+      <element id="525" type="exercise" name="nad jeziorem" />
+      <element id="526" type="exercise" name="nad Bałytkiem" />
+      <element id="527" type="exercise" name="nad rzeką" />
+      <element id="528" type="exercise" name="skarpetki" />
+      <element id="529" type="exercise" name="sweter" />
+      <element id="530" type="exercise" name="twarz" />
+      <element id="531" type="exercise" name="w lesie" />
+      <element id="532" type="exercise" name="góra" />
+      <element id="533" type="exercise" name="góry" />
+      <element id="534" type="exercise" name="dürfen" />
+      <element id="535" type="exercise" name="können" />
+      <element id="536" type="exercise" name="moc" />
+      <element id="537" type="exercise" name="nudzić się" />
+      <element id="538" type="exercise" name="znudzony" />
+      <element id="539" type="exercise" name="kartka" />
+      <element id="540" type="exercise" name="papuga" />
+      <element id="541" type="exercise" name="lody" />
+      <element id="542" type="exercise" name="przykazanie" />
+      <element id="543" type="exercise" name="wieża" />
+      <element id="544" type="exercise" name="ptak" />
+      <element id="545" type="exercise" name="filiżanka" />
+      <element id="546" type="exercise" name="dzbanek na herbatę" />
+      <element id="547" type="exercise" name="tryb rozkazujący" />
+      <element id="548" type="exercise" name="tryb rozkazujący" />
+    </element>
+    <element id="549" type="pres" name="28.05" disabled="true">
+      <element id="550" type="exercise" name="grzeczny" />
+      <element id="551" type="exercise" name="podwórko" />
+      <element id="552" type="exercise" name="pragnąć" />
+      <element id="553" type="exercise" name="konieczność" />
+      <element id="554" type="exercise" name="sikać" />
+      <element id="555" type="exercise" name="wygrywać" />
+      <element id="556" type="exercise" name="przegrywać" />
+      <element id="557" type="exercise" name="napięcie" />
+      <element id="558" type="exercise" name="ciekawy" />
+      <element id="559" type="exercise" name="Genitiv" />
+      <element id="560" type="exercise" name="port" />
+      <element id="561" type="exercise" name="statek" />
+      <element id="562" type="exercise" name="robak" />
+    </element>
+    <element id="563" type="pres" name="11.06" disabled="true">
+      <element id="564" type="exercise" name="pokój" />
+      <element id="565" type="exercise" name="w klasie" />
+      <element id="566" type="exercise" name="praca" />
+      <element id="567" type="exercise" name="w pracy" />
+      <element id="568" type="exercise" name="wohin" />
+      <element id="569" type="exercise" name="wo" />
+      <element id="570" type="exercise" name="nach Hause" />
+      <element id="571" type="exercise" name="zu Hause" />
+      <element id="572" type="exercise" name="biuro" />
+      <element id="573" type="exercise" name="Idę do biura." />
+      <element id="574" type="exercise" name="Jestem w biurze." />
+      <element id="575" type="exercise" name="ląd" />
+      <element id="576" type="exercise" name="kaloryfer" />
+      <element id="577" type="exercise" name="parapet" />
+      <element id="578" type="exercise" name="krzesło" />
+      <element id="579" type="exercise" name="klawiatura" />
+      <element id="580" type="exercise" name="myszka komputerowa" />
+      <element id="581" type="exercise" name="długopis" />
+      <element id="582" type="exercise" name="bilet" />
+      <element id="583" type="exercise" name="wejściówka" />
+      <element id="584" type="exercise" name="podłoga" />
+      <element id="585" type="exercise" name="półka" />
+      <element id="586" type="exercise" name="stać - stawiać" />
+      <element id="587" type="exercise" name="siedzieć - siadać" />
+      <element id="588" type="exercise" name="leżeć - kłaść" />
+      <element id="589" type="exercise" name="wisieć - wieszać" />
+      <element id="590" type="exercise" name="ponad" />
+      <element id="591" type="exercise" name="pod" />
+      <element id="592" type="exercise" name="z tyłu, za" />
+      <element id="593" type="exercise" name="z przodu, przed" />
+      <element id="594" type="exercise" name="obok" />
+      <element id="595" type="exercise" name="między" />
+      <element id="596" type="exercise" name="gołąb" />
+      <element id="597" type="exercise" name="gazeta" />
+      <element id="598" type="exercise" name="pomieszczenie gospodarcze" />
+      <element id="599" type="exercise" name="kurnik" />
+      <element id="600" type="exercise" name="obora" />
+      <element id="601" type="exercise" name="stajenka" />
+    </element>
+    <element id="602" type="pres" name="18.06" disabled="true">
+      <element id="603" type="exercise" name="komar" />
+      <element id="604" type="exercise" name="kłuć" />
+      <element id="605" type="exercise" name="komary kłują" />
+      <element id="606" type="exercise" name="Głowa mnie boli." />
+      <element id="607" type="exercise" name="stodoła" />
+      <element id="608" type="exercise" name="komórka" />
+      <element id="609" type="exercise" name="czas" />
+      <element id="610" type="exercise" name="pochodzić" />
+      <element id="611" type="exercise" name="Szwajcaria" />
+      <element id="612" type="exercise" name="Ukraina" />
+      <element id="613" type="exercise" name="Czechy" />
+      <element id="614" type="exercise" name="Słowacja" />
+      <element id="615" type="exercise" name="Irak" />
+      <element id="616" type="exercise" name="Iran" />
+      <element id="617" type="exercise" name="Turcja" />
+      <element id="618" type="exercise" name="Mongolia" />
+      <element id="619" type="exercise" name="USA" />
+      <element id="620" type="exercise" name="Bałtyk" />
+      <element id="621" type="exercise" name="morze" />
+      <element id="622" type="exercise" name="tryb rozkazujący" />
+      <element id="623" type="exercise" name="mal" />
+      <element id="624" type="exercise" name="prawdziwy" />
+      <element id="625" type="exercise" name="sein" />
+      <element id="626" type="exercise" name="essen" />
+      <element id="627" type="exercise" name="schlafen" />
+      <element id="628" type="exercise" name="vergessen" />
+      <element id="629" type="exercise" name="śpieszyć się" />
+    </element>
+    <element id="630" type="pres" name="25.06" disabled="true">
+      <element id="631" type="exercise" name="zgadywać" />
+      <element id="632" type="exercise" name="Zamknij się!" />
+      <element id="633" type="exercise" name="tam" />
+      <element id="634" type="exercise" name="tam" />
+      <element id="635" type="exercise" name="Odejdź!" />
+      <element id="636" type="exercise" name="Spadaj!" />
+      <element id="637" type="exercise" name="spoglądać" />
+      <element id="638" type="exercise" name="oko" />
+      <element id="639" type="exercise" name="podnosić" />
+      <element id="640" type="exercise" name="Powiedz!" />
+      <element id="641" type="exercise" name="przynosić" />
+      <element id="642" type="exercise" name="zanosić" />
+      <element id="643" type="exercise" name="sprzątać" />
+      <element id="644" type="exercise" name="zmywać" />
+      <element id="645" type="exercise" name="zlewozmywak" />
+      <element id="646" type="exercise" name="kąpać się" />
+      <element id="647" type="exercise" name="brać prysznic" />
+      <element id="648" type="exercise" name="przeważnie" />
+      <element id="649" type="exercise" name="przyczepa" />
+      <element id="650" type="exercise" name="doczepiać" />
+      <element id="651" type="exercise" name="parasolka" />
+      <element id="652" type="exercise" name="do" />
+      <element id="653" type="exercise" name="przy" />
+      <element id="654" type="exercise" name="od" />
+      <element id="655" type="exercise" name="mężczyzna" />
+    </element>
+    <element id="656" type="pres" name="02.07" disabled="true">
+      <element id="657" type="exercise" name="straż pożarna" />
+      <element id="658" type="exercise" name="wzywać" />
+      <element id="659" type="exercise" name="laryngolog" />
+      <element id="660" type="exercise" name="kraść" />
+      <element id="661" type="exercise" name="piekarnia" />
+      <element id="662" type="exercise" name="piekarz" />
+      <element id="663" type="exercise" name="kwiaciarnia" />
+      <element id="664" type="exercise" name="podrywać" />
+      <element id="665" type="exercise" name="komunikacja" />
+      <element id="666" type="exercise" name="przepuścić" />
+      <element id="667" type="exercise" name="besztać, kląć" />
+      <element id="668" type="exercise" name="spadać" />
+      <element id="669" type="exercise" name="wysiadać" />
+      <element id="670" type="exercise" name="wyłamywać" />
+      <element id="671" type="exercise" name="wdech - wydech" />
+      <element id="672" type="exercise" name="ranny" />
+      <element id="673" type="exercise" name="pchać" />
+      <element id="674" type="exercise" name="tlen" />
+      <element id="675" type="exercise" name="azot" />
+      <element id="676" type="exercise" name="jęczeć" />
+      <element id="677" type="exercise" name="podnosić" />
+      <element id="678" type="exercise" name="złamanie nogi" />
+      <element id="679" type="exercise" name="połamane żebra" />
+      <element id="680" type="exercise" name="skóra" />
+      <element id="681" type="exercise" name="załazić za skórę" />
+      <element id="682" type="exercise" name="o 8 rano" />
+      <element id="683" type="exercise" name="ofiara" />
+    </element>
+    <element id="684" type="pres" name="09.07" disabled="true">
+      <element id="685" type="exercise" name="most" />
+      <element id="686" type="exercise" name="moneta" />
+      <element id="687" type="exercise" name="siano" />
+      <element id="688" type="exercise" name="słoma" />
+      <element id="689" type="exercise" name="chusteczka higieniczna" />
+      <element id="690" type="exercise" name="ksiądz" />
+      <element id="691" type="exercise" name="proboszcz" />
+      <element id="692" type="exercise" name="rosnąć" />
+      <element id="693" type="exercise" name="radio" />
+      <element id="694" type="exercise" name="przychodnia" />
+      <element id="695" type="exercise" name="noga" />
+      <element id="696" type="exercise" name="ręka" />
+      <element id="697" type="exercise" name="ramię" />
+      <element id="698" type="exercise" name="stopa" />
+      <element id="699" type="exercise" name="tyłek" />
+      <element id="700" type="exercise" name="tylko" />
+      <element id="701" type="exercise" name="musztarda" />
+      <element id="702" type="exercise" name="Siadaj i słuchaj!" />
+      <element id="703" type="exercise" name="płakać" />
+      <element id="704" type="exercise" name="śnić" />
+      <element id="705" type="exercise" name="klatka" />
+    </element>
+    <element id="706" type="pres" name="16.07" disabled="true">
+      <element id="707" type="exercise" name="von" />
+      <element id="708" type="exercise" name="sein" />
+      <element id="709" type="exercise" name="zabawki" />
+      <element id="710" type="exercise" name="spódnica" />
+      <element id="711" type="exercise" name="sukienka" />
+      <element id="712" type="exercise" name="spodnie" />
+      <element id="713" type="exercise" name="kanapka" />
+      <element id="714" type="exercise" name="szafa" />
+      <element id="715" type="exercise" name="gumka" />
+      <element id="716" type="exercise" name="linijka" />
+      <element id="717" type="exercise" name="walizka" />
+      <element id="718" type="exercise" name="wokoło" />
+      <element id="719" type="exercise" name="Genitiv" />
+      <element id="720" type="exercise" name="Dativ" />
+      <element id="721" type="exercise" name="Akkusativ" />
+      <element id="722" type="exercise" name="Dativ/Akkusativ" />
+      <element id="723" type="exercise" name="patrzyć" />
+      <element id="724" type="exercise" name="wysiadać" />
+      <element id="725" type="exercise" name="komunikat" />
+      <element id="726" type="exercise" name="przybywać (do)" />
+      <element id="727" type="exercise" name="przyjazd" />
+      <element id="728" type="exercise" name="tor" />
+      <element id="729" type="exercise" name="połączenie" />
+      <element id="730" type="exercise" name="oszukiwać" />
+      <element id="731" type="exercise" name="podróż służbowa" />
+      <element id="732" type="exercise" name="gonić" />
+      <element id="733" type="exercise" name="skarb" />
+      <element id="734" type="exercise" name="koń" />
+      <element id="735" type="exercise" name="osioł" />
+      <element id="736" type="exercise" name="za rogiem" />
+      <element id="737" type="exercise" name="robić kogoś w konia" />
+    </element>
+    <element id="738" type="pres" name="23.07" disabled="true">
+      <element id="739" type="exercise" name="koło" />
+      <element id="740" type="exercise" name="kosmos" />
+      <element id="741" type="exercise" name="Dookoła mnie są.." />
+      <element id="742" type="exercise" name="ludzie" />
+      <element id="743" type="exercise" name="ludzie" />
+      <element id="744" type="exercise" name="księgarnia" />
+      <element id="745" type="exercise" name="buchnąć" />
+      <element id="746" type="exercise" name="zawiadomić" />
+      <element id="747" type="exercise" name="komunikacja" />
+      <element id="748" type="exercise" name="Gdzie jesteśmy?" />
+      <element id="749" type="exercise" name="nocleg" />
+      <element id="750" type="exercise" name="Przepraszam?" />
+      <element id="751" type="exercise" name="polecać" />
+      <element id="752" type="exercise" name="Czy to jest daleko?" />
+      <element id="753" type="exercise" name="fontanna" />
+      <element id="754" type="exercise" name="całkiem daleko" />
+      <element id="755" type="exercise" name="tani" />
+      <element id="756" type="exercise" name="niedrogi" />
+      <element id="757" type="exercise" name="brzmieć" />
+      <element id="758" type="exercise" name="plac zabaw" />
+      <element id="759" type="exercise" name="plaża" />
+      <element id="760" type="exercise" name="polecić jakąś restaurację" />
+      <element id="761" type="exercise" name="pierwsza" />
+      <element id="762" type="exercise" name="ostatnia" />
+      <element id="763" type="exercise" name="22-gie" />
+      <element id="764" type="exercise" name="budynek" />
+      <element id="765" type="exercise" name="pierwsi ludzie" />
+      <element id="766" type="exercise" name="Bardzo proszę!" />
+      <element id="767" type="exercise" name="droga" />
+      <element id="768" type="exercise" name="przechodzić obok" />
+      <element id="769" type="exercise" name="dojść do" />
+      <element id="770" type="exercise" name="przez przejście kolejowe" />
+    </element>
+    <element id="771" type="pres" name="03.09" disabled="true">
+      <element id="772" type="exercise" name="pustynia" />
+      <element id="773" type="exercise" name="jacht" />
+      <element id="774" type="exercise" name="kamper" />
+      <element id="775" type="exercise" name="ambasada" />
+      <element id="776" type="exercise" name="czołg" />
+      <element id="777" type="exercise" name="drogeria" />
+      <element id="778" type="exercise" name="wypożyczalnia multimedialna" />
+      <element id="779" type="exercise" name="gra planszowa" />
+      <element id="780" type="exercise" name="warsztat" />
+      <element id="781" type="exercise" name="narzędzie" />
+      <element id="782" type="exercise" name="Ziemia" />
+      <element id="783" type="exercise" name="Wszechświat" />
+      <element id="784" type="exercise" name="agencja prasowa" />
+      <element id="785" type="exercise" name="stadion" />
+      <element id="786" type="exercise" name="intensywna opieka" />
+      <element id="787" type="exercise" name="pchli targ" />
+      <element id="788" type="exercise" name="kasyno" />
+    </element>
+    <element id="789" type="pres" name="24.09" disabled="true">
+      <element id="790" type="exercise" name="do" />
+      <element id="791" type="exercise" name="od" />
+      <element id="792" type="exercise" name="przez ulicę" />
+      <element id="793" type="exercise" name="Idź tam!" />
+      <element id="794" type="exercise" name="Podejdź tu!" />
+      <element id="795" type="exercise" name="urządzać" />
+      <element id="796" type="exercise" name="wysyłać" />
+      <element id="797" type="exercise" name="Idę do domu!" />
+      <element id="798" type="exercise" name="Zostanę w domu!" />
+      <element id="799" type="exercise" name="przeżyć" />
+      <element id="800" type="exercise" name="wycieczka" />
+      <element id="801" type="exercise" name="wyjazd" />
+      <element id="802" type="exercise" name="Pracuję, ale mi się nie chce." />
+      <element id="803" type="exercise" name="przepraszać" />
+      <element id="804" type="exercise" name="Nie ma za co." />
+      <element id="805" type="exercise" name="skręcać" />
+      <element id="806" type="exercise" name="firma, zakład" />
+      <element id="807" type="exercise" name="emeryt" />
+      <element id="808" type="exercise" name="iść na emeryturę" />
+      <element id="809" type="exercise" name="emerytura" />
+      <element id="810" type="exercise" name="Czy dostajesz emeryturę?" />
+      <element id="811" type="exercise" name="wybierać" />
+      <element id="812" type="exercise" name="stawać się" />
+      <element id="813" type="exercise" name="półka" />
+      <element id="814" type="exercise" name="badać" />
+      <element id="815" type="exercise" name="Kogo widzisz?" />
+      <element id="816" type="exercise" name="Komu pomagasz?" />
+      <element id="817" type="exercise" name="rzucać" />
+      <element id="818" type="exercise" name="pchać" />
+      <element id="819" type="exercise" name="segregator" />
+      <element id="820" type="exercise" name="uważać na" />
+      <element id="821" type="exercise" name="obchodzić" />
+      <element id="822" type="exercise" name="palić się" />
+      <element id="823" type="exercise" name="twarz" />
+    </element>
+    <element id="967" type="pres" name="01.10" disabled="true">
+      <element id="968" type="exercise" name="kaszel" />
+      <element id="969" type="exercise" name="przeziębienie" />
+      <element id="970" type="exercise" name="katar" />
+      <element id="971" type="exercise" name="czuć się" />
+      <element id="972" type="exercise" name="próbować" />
+      <element id="973" type="exercise" name="pomalować" />
+      <element id="974" type="exercise" name="remontować" />
+      <element id="975" type="exercise" name="kopać" />
+      <element id="976" type="exercise" name="dziura" />
+      <element id="977" type="exercise" name="dziurkacz" />
+      <element id="978" type="exercise" name="iść" />
+      <element id="979" type="exercise" name="umierać" />
+      <element id="980" type="exercise" name="pozostać" />
+      <element id="981" type="exercise" name="zbierać" />
+      <element id="982" type="exercise" name="jeść obiad" />
+    </element>
+    <element id="983" type="pres" name="08.10" disabled="true">
+      <element id="984" type="exercise" name="odwiedzać" />
+      <element id="985" type="exercise" name="szukać" />
+      <element id="986" type="exercise" name="rachunek" />
+      <element id="987" type="exercise" name="program telewizyjny" />
+      <element id="988" type="exercise" name="sen" />
+      <element id="989" type="exercise" name="śnić o" />
+      <element id="990" type="exercise" name="poranek" />
+      <element id="991" type="exercise" name="jutro" />
+      <element id="992" type="exercise" name="nawet" />
+      <element id="993" type="exercise" name="działalność" />
+      <element id="994" type="exercise" name="brakować" />
+      <element id="995" type="exercise" name="obecny" />
+      <element id="996" type="exercise" name="nieobecny" />
+      <element id="997" type="exercise" name="zanosić" />
+      <element id="998" type="exercise" name="przynosić" />
+      <element id="999" type="exercise" name="znany" />
+      <element id="1000" type="exercise" name="Oczywiście!" />
+      <element id="1001" type="exercise" name="podnosić" />
+      <element id="1002" type="exercise" name="gruby" />
+      <element id="1003" type="exercise" name="gruby" />
+      <element id="1004" type="exercise" name="cienki" />
+      <element id="1005" type="exercise" name="zwierze" />
+      <element id="1006" type="exercise" name="drzwi" />
+      <element id="1007" type="exercise" name="krowa" />
+      <element id="1008" type="exercise" name="doić" />
+      <element id="1009" type="exercise" name="koń" />
+      <element id="1010" type="exercise" name="pole" />
+      <element id="1011" type="exercise" name="łąka" />
+      <element id="1012" type="exercise" name="pastwisko" />
+      <element id="1013" type="exercise" name="hala" />
+      <element id="1014" type="exercise" name="góry" />
+      <element id="1015" type="exercise" name="góra" />
+      <element id="1016" type="exercise" name="szczyt" />
+      <element id="1017" type="exercise" name="latawiec" />
+      <element id="1018" type="exercise" name="gumiaki" />
+      <element id="1019" type="exercise" name="każdego ranka" />
+      <element id="1020" type="exercise" name="jak zwykle" />
+      <element id="1021" type="exercise" name="kolacja" />
+      <element id="1022" type="exercise" name="jesć kolację" />
+      <element id="1023" type="exercise" name="podejmować się" />
+      <element id="1024" type="exercise" name="dzielić się" />
+      <element id="1025" type="exercise" name="część" />
+      <element id="1026" type="exercise" name="właściwie" />
+      <element id="1027" type="exercise" name="obejście" />
+      <element id="1028" type="exercise" name="wyglądać" />
+      <element id="1029" type="exercise" name="zwykły, zwyczajny" />
+      <element id="1030" type="exercise" name="niezwykły" />
+      <element id="1031" type="exercise" name="w przeciwnym razie" />
+      <element id="1032" type="exercise" name="budynek gospodarczy" />
+      <element id="1033" type="exercise" name="kura" />
+      <element id="1034" type="exercise" name="razem" />
+      <element id="1035" type="exercise" name="tylko" />
+      <element id="1036" type="exercise" name="robić zakupy" />
+      <element id="1037" type="exercise" name="załatwiać" />
+      <element id="1038" type="exercise" name="załatwiać" />
+      <element id="1039" type="exercise" name="zamawiać" />
+      <element id="1040" type="exercise" name="prasować" />
+      <element id="1041" type="exercise" name="przede wszystkim" />
+      <element id="1042" type="exercise" name="niechętnie" />
+      <element id="1043" type="exercise" name="lewy" />
+    </element>
+    <element id="1044" type="pres" name="15.10" disabled="true">
+      <element id="1045" type="exercise" name="ciągle, w dalszym ciągu" />
+      <element id="1046" type="exercise" name="budzić kogoś" />
+      <element id="1047" type="exercise" name="budzić się" />
+      <element id="1048" type="exercise" name="być w domu" />
+      <element id="1049" type="exercise" name="jechać do domu" />
+      <element id="1050" type="exercise" name="jeździć rowerem" />
+      <element id="1051" type="exercise" name="iść spać" />
+      <element id="1052" type="exercise" name="Zazwyczaj spię o 4." />
+      <element id="1053" type="exercise" name="oglądać telewizję" />
+      <element id="1054" type="exercise" name="zaczynać" />
+      <element id="1055" type="exercise" name="wcześniej" />
+      <element id="1056" type="exercise" name="przed rokiem" />
+      <element id="1057" type="exercise" name="trwać" />
+      <element id="1058" type="exercise" name="roboty drogowe" />
+      <element id="1059" type="exercise" name="pół godziny" />
+      <element id="1060" type="exercise" name="kwadrans" />
+      <element id="1061" type="exercise" name="przypuszczać" />
+      <element id="1062" type="exercise" name="jeść - być" />
+      <element id="1063" type="exercise" name="normalnie" />
+      <element id="1064" type="exercise" name="niedaleko" />
+      <element id="1065" type="exercise" name="wygodny" />
+      <element id="1066" type="exercise" name="nigdy" />
+      <element id="1067" type="exercise" name="mieć" />
+      <element id="1068" type="exercise" name="być" />
+      <element id="1069" type="exercise" name="wymieniać" />
+      <element id="1070" type="exercise" name="obudzony" />
+    </element>
+    <element id="1071" type="pres" name="22.10" disabled="true">
+      <element id="1072" type="exercise" name="dzień powszedni" />
+      <element id="1073" type="exercise" name="ogród" />
+      <element id="1074" type="exercise" name="wczoraj" />
+      <element id="1075" type="exercise" name="szczęście" />
+      <element id="1076" type="exercise" name="pranie" />
+      <element id="1077" type="exercise" name="bielizna" />
+      <element id="1078" type="exercise" name="tydzień" />
+      <element id="1079" type="exercise" name="warzywa" />
+      <element id="1080" type="exercise" name="kapusta kiszona" />
+      <element id="1081" type="exercise" name="ubranie" />
+      <element id="1082" type="exercise" name="zasnąć" />
+      <element id="1083" type="exercise" name="umierać" />
+      <element id="1084" type="exercise" name="zostać" />
+      <element id="1085" type="exercise" name="próbować, usiłować" />
+      <element id="1086" type="exercise" name="brać prysznic" />
+      <element id="1087" type="exercise" name="włączyć" />
+      <element id="1088" type="exercise" name="sprzątać" />
+      <element id="1089" type="exercise" name="czyścić" />
+      <element id="1090" type="exercise" name="sprzątać" />
+      <element id="1091" type="exercise" name="uzupełnić" />
+      <element id="1092" type="exercise" name="dzień roboczy" />
+      <element id="1093" type="exercise" name="wygrać" />
+      <element id="1094" type="exercise" name="stracić, przegrać" />
+      <element id="1095" type="exercise" name="przegrać w kasynie" />
+      <element id="1096" type="exercise" name="w złym humorze" />
+      <element id="1097" type="exercise" name="czynność" />
+      <element id="1098" type="exercise" name="regularnie" />
+      <element id="1099" type="exercise" name="przyzwyczajenie" />
+      <element id="1100" type="exercise" name="wycierać kurze" />
+      <element id="1101" type="exercise" name="odkurzać" />
+      <element id="1102" type="exercise" name="uprawiać warzywa" />
+      <element id="1103" type="exercise" name="duch" />
+      <element id="1104" type="exercise" name="gałąź" />
+      <element id="1105" type="exercise" name="około" />
+      <element id="1106" type="exercise" name="nadrobić" />
+      <element id="1107" type="exercise" name="skończyć z" />
+      <element id="1108" type="exercise" name="słuchać kogoś" />
+      <element id="1109" type="exercise" name="oczekiwać" />
+      <element id="1110" type="exercise" name="podlewać" />
+      <element id="1111" type="exercise" name="dzwonić" />
+      <element id="1112" type="exercise" name="ćwiczyć" />
+      <element id="1113" type="exercise" name="bogaty" />
+      <element id="1114" type="exercise" name="biedny" />
+      <element id="1115" type="exercise" name="więcej" />
+      <element id="1116" type="exercise" name="ptak" />
+      <element id="1117" type="exercise" name="pająk" />
+    </element>
+    <element id="128" type="pres" name="29.10" disabled="true">
+      <element id="129" type="exercise" name="dom studencki" />
+      <element id="130" type="exercise" name="kiszona kapusta" />
+      <element id="131" type="exercise" name="kwaśny" />
+      <element id="132" type="exercise" name="bielizna" />
+      <element id="133" type="exercise" name="pranie" />
+      <element id="134" type="exercise" name="szczęście" />
+      <element id="135" type="exercise" name="wygrywać" />
+      <element id="136" type="exercise" name="przegrywać" />
+      <element id="137" type="exercise" name="uzupełniać" />
+      <element id="138" type="exercise" name="umierać" />
+      <element id="139" type="exercise" name="regularnie" />
+      <element id="140" type="exercise" name="przyzwyczajenie" />
+      <element id="141" type="exercise" name="coś" />
+      <element id="142" type="exercise" name="kurz" />
+      <element id="143" type="exercise" name="uprawiać" />
+      <element id="144" type="exercise" name="odkurzacz" />
+      <element id="145" type="exercise" name="duch" />
+      <element id="146" type="exercise" name="czysty" />
+      <element id="147" type="exercise" name="zasypiać" />
+      <element id="148" type="exercise" name="gałąź" />
+      <element id="149" type="exercise" name="próbować" />
+      <element id="150" type="exercise" name="dzień powszedni" />
+      <element id="151" type="exercise" name="około" />
+      <element id="152" type="exercise" name="nadrabiać" />
+      <element id="153" type="exercise" name="słuchać się kogoś" />
+      <element id="154" type="exercise" name="oczekiwać" />
+      <element id="155" type="exercise" name="nareszcie" />
+      <element id="156" type="exercise" name="podlewać" />
+      <element id="157" type="exercise" name="przygotowywać" />
+      <element id="158" type="exercise" name="Kiedy mam do Ciebie zadzwonić?" />
+      <element id="159" type="exercise" name="kapować, rozumieć" />
+      <element id="160" type="exercise" name="uciekać" />
+      <element id="161" type="exercise" name="nie zrozumieć" />
+      <element id="162" type="exercise" name="ptak" />
+      <element id="163" type="exercise" name="tulipan" />
+    </element>
+    <element id="934" type="pres" name="05.11" disabled="true">
+      <element id="935" type="exercise" name="odbywać się" />
+      <element id="936" type="exercise" name="należeć" />
+      <element id="937" type="exercise" name="podobać się" />
+      <element id="938" type="exercise" name="polecać" />
+      <element id="939" type="exercise" name="brakować" />
+      <element id="940" type="exercise" name="mijać" />
+      <element id="941" type="exercise" name="wyjaśniać" />
+      <element id="942" type="exercise" name="źle zrozumieć" />
+      <element id="943" type="exercise" name="stłuc" />
+      <element id="944" type="exercise" name="do ciebie" />
+      <element id="945" type="exercise" name="dla ciebie" />
+      <element id="946" type="exercise" name="rolnik" />
+      <element id="947" type="exercise" name="zajmować się" />
+      <element id="948" type="exercise" name="ciężko" />
+      <element id="949" type="exercise" name="trwać" />
+      <element id="950" type="exercise" name="dbać o" />
+      <element id="951" type="exercise" name="wyobrażać sobie" />
+      <element id="952" type="exercise" name="rękawiczki" />
+      <element id="953" type="exercise" name="stworzyć" />
+      <element id="954" type="exercise" name="męczący" />
+      <element id="955" type="exercise" name="wyspać" />
+      <element id="956" type="exercise" name="prawo" />
+      <element id="957" type="exercise" name="sędzia" />
+      <element id="958" type="exercise" name="adwokat" />
+      <element id="959" type="exercise" name="sąd" />
+      <element id="960" type="exercise" name="prokurator" />
+      <element id="961" type="exercise" name="cuchnąć" />
+      <element id="962" type="exercise" name="pastwisko" />
+      <element id="963" type="exercise" name="nagle" />
+      <element id="964" type="exercise" name="kopnąć" />
+      <element id="965" type="exercise" name="płot" />
+      <element id="966" type="exercise" name="często" />
+    </element>
+    <element id="164" type="pres" name="12.11" disabled="true">
+      <element id="165" type="exercise" name="ulica" />
+      <element id="166" type="exercise" name="jeść" />
+      <element id="167" type="exercise" name="książka techniczna" />
+      <element id="168" type="exercise" name="zazwyczaj" />
+      <element id="169" type="exercise" name="o północy" />
+      <element id="170" type="exercise" name="liczyć" />
+      <element id="171" type="exercise" name="liczyć" />
+      <element id="172" type="exercise" name="niektórzy" />
+      <element id="173" type="exercise" name="ani - ani" />
+      <element id="174" type="exercise" name="Bieganie męczy." />
+      <element id="175" type="exercise" name="podziwiać" />
+      <element id="176" type="exercise" name="To mnie nie obchodzi." />
+      <element id="177" type="exercise" name="od czasu do czasu, czasami" />
+      <element id="178" type="exercise" name="portfel" />
+      <element id="179" type="exercise" name="zainteresowany książkami S-F" />
+      <element id="180" type="exercise" name="popularno-naukowy" />
+      <element id="181" type="exercise" name="w czasie, podczas" />
+      <element id="182" type="exercise" name="małomówny" />
+      <element id="183" type="exercise" name="gadatliwy" />
+      <element id="184" type="exercise" name="milczeć" />
+      <element id="185" type="exercise" name="sprzątać ze stołu" />
+      <element id="186" type="exercise" name="rozpoczynać (się)" />
+      <element id="187" type="exercise" name="zaprzestać" />
+      <element id="188" type="exercise" name="nakrywać" />
+      <element id="189" type="exercise" name="odebrać" />
+      <element id="190" type="exercise" name="Koniec rozrabiania!" />
+      <element id="191" type="exercise" name="rozwiesić" />
+      <element id="192" type="exercise" name="powiesić" />
+      <element id="193" type="exercise" name="Ona gotuje obojgu." />
+      <element id="194" type="exercise" name="do wysuszenia" />
+      <element id="195" type="exercise" name="tani" />
+      <element id="196" type="exercise" name="drogi" />
+      <element id="197" type="exercise" name="na szczęście" />
+      <element id="198" type="exercise" name="dziwny, nietypowy" />
+      <element id="199" type="exercise" name="zmieniać się (z czegoś w coś), przeobrażać się" />
+      <element id="200" type="exercise" name="pękać" />
+    </element>
+    <element id="275" type="pres" name="26.11" disabled="true">
+      <element id="276" type="exercise" name="zgadnąć" />
+      <element id="277" type="exercise" name="używać" />
+      <element id="278" type="exercise" name="łatwe" />
+      <element id="279" type="exercise" name="sztuka, kawałek" />
+      <element id="280" type="exercise" name="kura" />
+      <element id="281" type="exercise" name="posłuchać" />
+      <element id="282" type="exercise" name="Koniec słuchania!" />
+      <element id="283" type="exercise" name="odebrać" />
+      <element id="284" type="exercise" name="gdziekolwiek" />
+      <element id="285" type="exercise" name="cokolwiek" />
+      <element id="286" type="exercise" name="kiedykolwiek" />
+      <element id="287" type="exercise" name="nigdzie" />
+      <element id="288" type="exercise" name="puszka" />
+      <element id="289" type="exercise" name="puszka z fasolką" />
+      <element id="290" type="exercise" name="dogadać się, ustalić" />
+      <element id="291" type="exercise" name="Idę do lekarza." />
+      <element id="292" type="exercise" name="gra losowa" />
+      <element id="293" type="exercise" name="remis" />
+      <element id="294" type="exercise" name="dostrzec" />
+      <element id="295" type="exercise" name="golonka" />
+      <element id="296" type="exercise" name="koszmar" />
+    </element>
+    <element id="297" type="pres" name="03.12" disabled="true">
+      <element id="298" type="exercise" name="przebierać (się)" />
+      <element id="299" type="exercise" name="opuszczać" />
+      <element id="300" type="exercise" name="puszczać" />
+      <element id="301" type="exercise" name="wychodzić z domu" />
+      <element id="302" type="exercise" name="wychodzić" />
+      <element id="303" type="exercise" name="zapraszać" />
+      <element id="304" type="exercise" name="kogo?" />
+      <element id="305" type="exercise" name="kiedy?" />
+      <element id="306" type="exercise" name="wydarzyć (się)" />
+      <element id="307" type="exercise" name="używać" />
+      <element id="308" type="exercise" name="haben" />
+      <element id="309" type="exercise" name="sein" />
+      <element id="310" type="exercise" name="zakładać (się)" />
+      <element id="311" type="exercise" name="zdecydować" />
+      <element id="312" type="exercise" name="zdecydować" />
+      <element id="313" type="exercise" name="wystraszyć się" />
+      <element id="314" type="exercise" name="wystraszyć kogoś" />
+      <element id="315" type="exercise" name="opowiadać" />
+      <element id="316" type="exercise" name="dłuższe opowiadanie, nowela" />
+      <element id="317" type="exercise" name="krótkie opowiadanko, reportaż" />
+      <element id="318" type="exercise" name="żart" />
+      <element id="319" type="exercise" name="żartować" />
+      <element id="320" type="exercise" name="stulecie" />
+      <element id="321" type="exercise" name="kasa oszczędnościowa" />
+      <element id="322" type="exercise" name="oszczędzać" />
+      <element id="323" type="exercise" name="wiedzieć" />
+      <element id="324" type="exercise" name="jechać" />
+      <element id="325" type="exercise" name="wyruszać" />
+      <element id="326" type="exercise" name="wyjechać" />
+      <element id="327" type="exercise" name="przeprowadzać (się)" />
+      <element id="328" type="exercise" name="przebierać (się)" />
+      <element id="329" type="exercise" name="jaki, jakie" />
+      <element id="330" type="exercise" name="który" />
+      <element id="331" type="exercise" name="myśleć o" />
+      <element id="332" type="exercise" name="decydować się na" />
+      <element id="333" type="exercise" name="czekać na" />
+      <element id="334" type="pres" name="12.1" disabled="true">
+        <element id="335" type="exercise" name="erklären" />
+        <element id="336" type="exercise" name="beginnen" />
+        <element id="337" type="exercise" name="erzählen" />
+        <element id="338" type="exercise" name="gefallen" />
+        <element id="339" type="exercise" name="verkaufen" />
+        <element id="340" type="exercise" name="bezahlen" />
+        <element id="341" type="exercise" name="verbieten" />
+        <element id="342" type="exercise" name="entdecken" />
+        <element id="343" type="exercise" name="vergessen" />
+      </element>
+      <element id="344" type="pres" name="12.2" disabled="true">
+        <element id="345" type="exercise" name="beginnen" />
+        <element id="346" type="exercise" name="bringen" />
+        <element id="347" type="exercise" name="bleiben" />
+        <element id="348" type="exercise" name="stellen" />
+        <element id="349" type="exercise" name="lesen" />
+        <element id="350" type="exercise" name="erschrecken" />
+        <element id="351" type="exercise" name="sein" />
+        <element id="352" type="exercise" name="sparen" />
+      </element>
+      <element id="353" type="pres" name="12.3" disabled="true">
+        <element id="354" type="exercise" name="anziehen" />
+        <element id="355" type="exercise" name="vorbereiten" />
+        <element id="356" type="exercise" name="ankommen" />
+        <element id="357" type="exercise" name="feststellen" />
+        <element id="358" type="exercise" name="losfahren" />
+        <element id="359" type="exercise" name="zunehmen" />
+        <element id="360" type="exercise" name="zumachen" />
+        <element id="361" type="exercise" name="entscheiden" />
+      </element>
+    </element>
+    <element id="824" type="pres" name="10.12" disabled="true">
+      <element id="825" type="exercise" name="zapamiętywać" />
+      <element id="826" type="exercise" name="osioł" />
+      <element id="827" type="exercise" name="mydło" />
+      <element id="828" type="exercise" name="kierunki świata" />
+      <element id="829" type="exercise" name="planety Układu Słonecznego" />
+      <element id="830" type="exercise" name="struna" />
+      <element id="831" type="exercise" name="pomimo to" />
+      <element id="832" type="exercise" name="pożyczać" />
+      <element id="833" type="exercise" name="koszulka, koszula" />
+      <element id="834" type="exercise" name="wyjechać" />
+      <element id="835" type="exercise" name="przynosić, przyprowadzać" />
+      <element id="836" type="exercise" name="odnosić, dostarczyć" />
+      <element id="837" type="exercise" name="oferta" />
+      <element id="838" type="exercise" name="spędzać" />
+      <element id="839" type="exercise" name="wypełnić" />
+      <element id="840" type="exercise" name="pożerać" />
+    </element>
+    <element id="841" type="pres" name="07.01" disabled="true">
+      <element id="842" type="exercise" name="To zależy od.." />
+      <element id="843" type="exercise" name="prezent" />
+      <element id="844" type="exercise" name="normalny, zwyczajny" />
+      <element id="845" type="exercise" name="skok spadochronowy" />
+      <element id="846" type="exercise" name="niektórzy" />
+      <element id="847" type="exercise" name="pamiętać" />
+      <element id="848" type="exercise" name="dawać prezent (komuś)" />
+      <element id="849" type="exercise" name="szybować" />
+      <element id="850" type="exercise" name="zdecydować się (na)" />
+      <element id="851" type="exercise" name="wyjechać na stałe" />
+      <element id="852" type="exercise" name="wrażenia" />
+      <element id="853" type="exercise" name="występować" />
+      <element id="854" type="exercise" name="ukradkiem" />
+      <element id="855" type="exercise" name="przykleić" />
+      <element id="856" type="exercise" name="śmieszny" />
+      <element id="857" type="exercise" name="chociaż, co najmniej" />
+      <element id="858" type="exercise" name="rana" />
+      <element id="859" type="exercise" name="płacić gotówką" />
+      <element id="860" type="exercise" name="od kiedy?" />
+      <element id="861" type="exercise" name="7 stycznia" />
+      <element id="862" type="exercise" name="7-go stycznia" />
+    </element>
+    <element id="863" type="pres" name="14.01" disabled="true">
+      <element id="864" type="exercise" name="Nie przyjdziemy." />
+      <element id="865" type="exercise" name="skracanie" />
+      <element id="866" type="exercise" name="ćwiczenie" />
+      <element id="867" type="exercise" name="zamalowywać" />
+      <element id="868" type="exercise" name="malować" />
+      <element id="869" type="exercise" name="należeć do" />
+      <element id="870" type="exercise" name="odkrywać" />
+      <element id="871" type="exercise" name="polecać" />
+      <element id="872" type="exercise" name="przesłyszeć się" />
+      <element id="873" type="exercise" name="blokować" />
+      <element id="874" type="exercise" name="oszczędzać" />
+      <element id="875" type="exercise" name="podobać się" />
+      <element id="876" type="exercise" name="pomagać" />
+      <element id="877" type="exercise" name="dawać" />
+      <element id="878" type="exercise" name="przysłuchiwać się" />
+      <element id="879" type="exercise" name="gratulować" />
+      <element id="880" type="exercise" name="przeszkadzać" />
+      <element id="881" type="exercise" name="kazać" />
+      <element id="882" type="exercise" name="dawać" />
+    </element>
+    <element id="883" type="pres" name="21.01" disabled="true">
+      <element id="884" type="exercise" name="klatka" />
+      <element id="885" type="exercise" name="oczywiście" />
+      <element id="886" type="exercise" name="zanurzać się" />
+      <element id="887" type="exercise" name="wynurzać się" />
+      <element id="888" type="exercise" name="możliwość" />
+      <element id="889" type="exercise" name="karma" />
+      <element id="890" type="exercise" name="zamykać" />
+      <element id="891" type="exercise" name="szkoda" />
+      <element id="892" type="exercise" name="budynek, budowla, gmach" />
+      <element id="893" type="exercise" name="w którym" />
+      <element id="894" type="exercise" name="miejsce" />
+      <element id="895" type="exercise" name="miejsce, miejscowość" />
+      <element id="896" type="exercise" name="cokolwiek" />
+      <element id="897" type="exercise" name="robić kupę" />
+      <element id="898" type="exercise" name="dzielny, odważny, grzeczny" />
+      <element id="899" type="exercise" name="bardzo grzecznie" />
+      <element id="900" type="exercise" name="w banku" />
+      <element id="901" type="exercise" name="na poczcie" />
+      <element id="902" type="exercise" name="w ratuszu" />
+      <element id="903" type="exercise" name="na stacji" />
+      <element id="904" type="exercise" name="w supermarkecie" />
+      <element id="905" type="exercise" name="z supermarketu" />
+      <element id="906" type="exercise" name="u lekarza" />
+      <element id="907" type="exercise" name="od lekarza" />
+      <element id="908" type="exercise" name="wiosna" />
+      <element id="909" type="exercise" name="lato" />
+      <element id="910" type="exercise" name="jesień" />
+      <element id="911" type="exercise" name="zima" />
+      <element id="912" type="exercise" name="od 21.01 do 22.01" />
+      <element id="913" type="exercise" name="od 21.01 do 22.01" />
+      <element id="914" type="exercise" name="która, które, którzy" />
+      <element id="915" type="exercise" name="Która godzina?" />
+      <element id="916" type="exercise" name="godzina" />
+      <element id="917" type="exercise" name="godzina" />
+      <element id="918" type="exercise" name="kwadrans" />
+      <element id="919" type="exercise" name="w pół do dziesiątej" />
+      <element id="920" type="exercise" name="północ" />
+      <element id="921" type="exercise" name="południe" />
+      <element id="922" type="exercise" name="używać, stosować" />
+      <element id="923" type="exercise" name="oko" />
+      <element id="924" type="exercise" name="ulubieniec, pieszczoszek" />
+      <element id="925" type="exercise" name="rytm dnia" />
+      <element id="926" type="exercise" name="czas" />
+      <element id="927" type="exercise" name="budzik" />
+      <element id="928" type="exercise" name="rana" />
+      <element id="929" type="exercise" name="pustynia" />
+      <element id="930" type="exercise" name="nudny" />
+      <element id="931" type="exercise" name="niesamowity" />
+      <element id="932" type="exercise" name="przedtem" />
+      <element id="933" type="exercise" name="przynajmniej" />
+    </element>
+  </element>
+</course>

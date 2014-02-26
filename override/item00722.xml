@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question-title>Podaj przyimki</question-title>
+  <question>Dativ/Akkusativ</question>
+  <answer>an, auf, hinter, in, neben, über, unter, vor, zwischen<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Der Ball liegt auf dem Boden.</sentence><translation>Piłka leży na podłodze.</translation></text> [wo? +D]<br />
+<sfx file="c" /> <text><sentence>Das Kind legt den Ball auf den Boden.</sentence><translation>Dziecko kładzie piłkę na podłodze.</translation></text> [wohin? +Akk]<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Opis:</span><br />
+zależy od pytania: wo? wohin?</answer>
+  <modified>2012-12-30</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>16.07</lesson-title>
+  <chapter-title>Dativ or Akkusativ?</chapter-title>
+</item>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>pomimo to</question>
+  <answer>trotzdem<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Aber er wollte trotzdem gehen.</sentence><translation>Ale on chciał iść.</translation></text></answer>
+  <modified>2013-01-27</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>10.12</lesson-title>
+  <chapter-title>Czasowniki nieregularne</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

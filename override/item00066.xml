@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>chcieć<text><sentence> *</sentence><translation lang="pl">ale nie w formie grzecznościowej</translation></text></question>
+  <answer>wollen<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> Ich will in die Disko gehen.</answer>
+  <modified>2012-12-27</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <gfx-3>Ich will in die Disko gehen.jpg</gfx-3>
+  <lesson-title>19.03</lesson-title>
+  <chapter-title>Modal Verben</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

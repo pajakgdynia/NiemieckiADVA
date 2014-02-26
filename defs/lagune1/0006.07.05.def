@@ -1,0 +1,186 @@
+id: 442
+name: Lekcja 6
+lesson: 07.05
+chapter: Czas przeszły
+modified: 2012-12-27
+{
+I: 443
+Q: zwiedzać
+A: besichtigen
+
+I: 444
+Q: zwiedzanie
+A: (die) Besichtigung
+
+I: 445
+Q: przeprowadzać (się)
+A: umziehen
+E: Ich bin umgezogen.
+X: Przeprowadziłem się.
+F: umziehen, umzog, umgezogen
+
+I: 446
+Q: przebierać się
+A: (sich) umziehen
+E: Ich habe mich umgezogen.
+X: Przebrałem się.
+
+I: 447
+Q: pływać
+R: wpław
+A: schwimmen
+F: schwimmen, schwamm, geschwommen
+
+I: 448
+Q: płynąć
+R: o rzece
+A: fließen
+F: fließen, floss, geflossen
+
+I: 449
+Q: płynąć
+R: o statku
+A: fahren
+F: fahren, fuhr, gefahren
+E: Man kann mit dem Schiff fahren.
+X: Można popłynąć statkiem.
+
+I: 450
+Q: płynąć, żaglować
+A: segeln
+
+I: 451
+Q: spotykać
+A: treffen
+F: treffen, traf, getroffen
+
+I: 452
+Q: spędzać
+A: verbringen
+
+I: 453
+N: czas wolny
+Q: W czasie wolnym można grać w koszykówkę.
+A: In der Freizeit kann man Basketball spielen.
+
+I: 454
+Q: koło
+A: (das) Rad
+
+I: 455
+Q: rada
+A: (der) Rat
+
+I: 456
+Q: wskazówka
+A: (der) Tipp, (der) Hinweis
+
+I: 457
+Q: wędrować
+A: wandern
+
+I: 458
+Q: jeździć konno
+A: reiten
+F: reiten, ritt, geritten
+
+I: 459
+Q: łowić
+R: np. ryby
+A: angeln
+
+I: 460
+Q: majsterkować
+A: basteln
+D: Ma szersze znaczenie, dotyczy wszelakich prac technicznych i artystycznych.
+D: Uwaga na nieregularną odmianę:
+D: {b} [@table:odmiana [bastle/bastele | bastelst | bastelt] [basteln | bastelt | basteln]]
+M: {b}ich bastle bastele; du bastelst; er sie es bastelt; wir basteln; ihr bastelt; sie Sie basteln
+
+I: 461
+Q: rysować
+A: zeichnen
+
+I: 462
+Q: robić na drutach
+A: stricken
+
+I: 463
+Q: krzyżówka
+A: (das) Kreuzworträtsel
+
+I: 464
+Q: zagadka
+A: (das) Rätsel
+
+I: 465
+Q: Nie lubię tego!
+A: Das ist nicht mein Dink!
+
+I: 466
+Q: wycieczka
+A: (der) Ausflug
+
+I: 467
+Q: zbierać
+A: sammeln
+
+I: 468
+Q: szydełkować
+A: häkeln
+D: Rzeczowniki odczasownikowe (tego typu) mają rodzajnik "das".
+
+I: 469
+Q: szyć
+A: nähen
+
+I: 470
+Q: stara moneta
+A: (die) alte Münze
+
+I: 472
+Q: karta
+A: (die) Karte
+E: (die) Speisekarte
+X: karta dań
+
+I: 471
+Q: mapa
+A: (die) Landkarte
+
+I: 473
+Q: igła
+A: (die) Nadel
+
+I: 474
+Q: nitka
+A: (der) Faden
+
+I: 475
+Q: niespodzianka
+A: (die) Überraschung 
+
+I: 476
+Q: nurkować
+A: tauchen
+
+I: 477
+Q: powtarzać
+R: np. coś za kimś
+A: nachsprechen
+F: nachsprechen, sprach nach, nachgesprochen
+
+I: 478
+Q: powtarzać
+R: np. jakąś czynność
+A: wiederholen
+
+I: 479
+Q: powtarzać
+R: po cichu
+A: (sich) vorsagen
+
+I: 480
+Q: podpowiadać
+A: vorsagen
+}

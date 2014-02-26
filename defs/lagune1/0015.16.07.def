@@ -1,0 +1,163 @@
+id: 706
+lesson: 16.07
+chapter: Dativ or Akkusativ?
+name: Lekcja 15
+modified: 2012-12-30
+{
+I: 707
+N: von
+Q: To jest zegarek Kamila.
+A: Das ist eine Uhr von Kamil.
+
+I: 708
+N: sein
+Q: To jest twój zegarek.
+A: Das ist seine Uhr.
+
+I: 709
+Q: zabawki
+A: (das) Spielzeug
+
+I: 710
+Q: spódnica
+A: (der) Rock
+
+I: 711
+Q: sukienka
+A: (das) Kleid
+
+I: 712
+Q: spodnie
+A: (die) Hose
+
+I: 713
+Q: kanapka
+A: (das) belegtes Brötchen
+
+I: 714
+Q: szafa
+A: (der) Schrank
+E: Ist das euer Schrank?
+X: Czy to wasza szafka?
+E: Ist das unser Schrank?
+X: Czy to nasza szafka?
+
+I: 715
+Q: gumka
+A: (der) Radiergummi
+
+I: 716
+Q: linijka
+A: (das) Lineal
+
+I: 717
+Q: walizka
+A: (der) Koffer
+
+I: 718
+Q: wokoło
+A: um
+E: Sie gehen um das Hause.
+X: Oni chodzą dookoła domu.
+
+
+# te strony zamienić na "z jakim przypadkiem"
+I: 719
+C: Podaj typowe przyimki
+Q: Genitiv
+A: [@transl anlässlich|z okazji], [@transl während|podczas]
+M: {a} anlässlich, während
+E: Während der Arbeit hörte sie Musik.
+X: Ona słucha muzyki podczas pracy.
+
+I: 720
+C: Podaj przyimki
+Q: Dativ
+A: ab, bei, seit, mit, zu, aus, von, nach
+E: Hast du heute nach der Schule schon etwas vor?
+X: Co zamierzasz robić dziś po szkole?
+
+I: 721
+C: Podaj przyimki
+Q: Akkusativ
+A: durch, gegen, um, bis, für, ohne
+E: Gestern ist meine Frau mit dem Auto gegen einen Baum gefahren.
+X: Wczoraj moja żona uderzyła samochodem w drzewo.
+
+I: 722
+C: Podaj przyimki
+Q: Dativ/Akkusativ
+A: an, auf, hinter, in, neben, über, unter, vor, zwischen
+D: zależy od pytania: wo? wohin?
+E: [@transl {}Der Ball liegt auf dem Boden.|Piłka leży na podłodze.] [wo? +D]
+E: [@transl {}Das Kind legt den Ball auf den Boden.|Dziecko kładzie piłkę na podłodze.] [wohin? +Akk]
+
+I: 723
+Q: patrzyć
+A: schauen
+D: Zawsze łączy się z Akk
+
+I: 724
+Q: wysiadać
+A: aussteigen
+F: aussteigen, stieg aus, ausgestiegen
+E: Er stieg aus dem Auto aus.
+X: On wysiadł z samochodu.
+
+I: 725
+Q: komunikat
+A: (die) Ansage
+
+I: 726
+Q: przybywać (do)
+A: ankommen (in [+D])
+E: Der Zug kommt in München mit 15 Minuten Verspätung an.
+X: Pociąg przyjechał do Monachium 15 minut spóźniony.
+
+I: 727
+Q: przyjazd
+A: (der) Ankunf
+
+I: 728
+Q: tor
+R: na stacji kolejowej
+A: (das) Gleis
+
+I: 729
+Q: połączenie
+A: (der) Anschluß
+
+I: 730
+Q: oszukiwać
+A: betrügen
+F: betrügen, betrog, betrogen
+
+I: 731
+Q: podróż służbowa
+A: (die) Geschäftsreise
+
+I: 732
+Q: gonić
+R: szybko jechać, biec, lecieć
+A: rennen
+
+I: 733
+Q: skarb
+A: (der) Schatz
+
+I: 734
+Q: koń
+A: (das) Pferd
+
+I: 735
+Q: osioł
+A: (das) Esel
+
+I: 736
+Q: za rogiem
+A: um die Ecke
+
+I: 737
+Q: robić kogoś w konia
+A: jemandem einen Bären aufbinden
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>majsterkować</question>
+  <answer>basteln<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Opis:</span><br />
+Ma szersze znaczenie, dotyczy wszelakich prac technicznych i artystycznych.<br />
+Uwaga na nieregularną odmianę:<br />
+<sfx file="b" /> <table border="0" cellpadding="5" cellspacing="3" width="90%">
+<tr><td>ich <span style="font-weight: bold;">bastle/bastele</span></td><td>wir <span style="font-weight: bold;">basteln</span></td></tr>
+<tr><td>du <span style="font-weight: bold;">bastelst</span></td><td>ihr <span style="font-weight: bold;">bastelt</span></td></tr>
+<tr><td>er, sie, es <span style="font-weight: bold;">bastelt</span></td><td>Sie, sie <span style="font-weight: bold;">basteln</span></td></tr>
+</table>
+</answer>
+  <modified>2012-12-27</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>07.05</lesson-title>
+  <chapter-title>Czas przeszły</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

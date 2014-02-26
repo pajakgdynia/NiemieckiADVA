@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>umierać</question>
+  <answer>sterben<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Formy:</span><br />
+<sfx file="b" /> sterben, starb, gestorben sein<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Opis:</span><br />
+Czasowniki zmiany stanu są z <b>sein</b></answer>
+  <modified>2013-02-03</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>01.10</lesson-title>
+  <chapter-title>Beim Arzt</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

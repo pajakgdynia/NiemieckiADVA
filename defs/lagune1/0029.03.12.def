@@ -1,0 +1,190 @@
+id: 297
+name: Lekcja 29
+lesson: 03.12
+chapter: Czasowniki nieregularne
+modified: 2012-12-09
+{
+I: 298
+Q: przebierać (się)
+A: (sich) unziehen
+
+I: 299
+Q: opuszczać
+A: verlassen
+F: verlassen, verließ, verlassen
+
+I: 300
+Q: puszczać
+A: lassen
+F: lassen, ließ, gelassen
+
+I: 301
+Q: wychodzić z domu
+A: gehen weg zu Hause
+
+I: 302
+Q: wychodzić
+R: w celach rozrywkowych, do knajpy
+A: ausgehen
+
+I: 303
+Q: zapraszać
+A: einladen
+F: einladen, lud ein, eingeladen
+
+I: 304
+Q: kogo?
+A: wen?
+D: wymawiane z długim e
+
+I: 305
+Q: kiedy?
+A: wenn?
+D: wymawiane z krótkim e
+
+I: 306
+Q: wydarzyć (się)
+A: passieren
+
+I: 307
+Q: używać
+A: benutzen
+
+I: 308
+N: haben
+C: Podaj formę czasu przeszłego
+q-audio: @Hans
+Q: haben
+A: hatte
+D: używamy zamiast {b}"habe gehabt", bo krótsze
+M: habe gehabt
+
+I: 309
+N: sein
+C: Podaj formę czasu przeszłego
+q-audio: @Hans
+Q: sein
+A: war
+D: używany zamiast {b}"sein gewesen", bo krótsze
+M: {b} sein gewesen
+
+I: 310
+Q: zakładać (się)
+A: wetten
+E: Wollen wir weten?
+X: Założymy się?
+
+I: 311
+Q: zdecydować
+A: entscheiden
+F: entscheiden, entschied, entschieden
+
+I: 312
+N: zdecydować
+Q: Zdecydowałem się pojechać do Hiszpanii.
+A: Ich hebe entschieden mich für Spanien.
+
+I: 313
+Q: wystraszyć się
+A: (sich) erschrecken
+D: Forma nieregularna.
+F: erschrecken, erschrak, erschrocken sein
+E: Ich bin mich erschrocken.
+X: Wystraszyłem się.
+
+I: 314
+Q: wystraszyć kogoś
+A: erschrecken
+D: Forma regularna.
+E: Ich habe Sie erschreckt.
+X: Wystraszyłem ją.
+
+I: 315
+Q: opowiadać
+A: erzählen
+
+I: 316
+Q: dłuższe opowiadanie, nowela
+A: (die) Erzählung
+
+I: 317
+Q: krótkie opowiadanko, reportaż
+A: (die) Geschichte
+A: (die) Story
+
+I: 318
+Q: żart
+A: (der) Witze
+
+I: 319
+Q: żartować
+A: Witze reißen
+E: Nein, du machst Witze!
+X: Nie żartuj sobie!
+
+I: 320
+Q: stulecie
+A: (das) Jahrhundert
+
+I: 321
+Q: kasa oszczędnościowa
+A: (die) Sparkasse
+
+I: 322
+Q: oszczędzać
+A: sparen
+
+I: 323
+Q: wiedzieć
+A: wissen
+F: wissen, wusste, gewusst
+
+I: 324
+Q: jechać
+A: fahren
+F: fahren, fuhr, gefahren
+
+I: 325
+Q: wyruszać
+A: losfahren
+
+I: 326
+Q: wyjechać
+A: wegfahren
+
+I: 327
+Q: przeprowadzać (się)
+A: umziehen
+
+I: 328
+Q: przebierać (się)
+A: (sich) umziehen
+
+I: 329
+Q: jaki, jakie?
+R: w pytaniu o rodzaj
+A: was für eine?
+
+I: 330
+Q: który?
+R: w pytaniu o konkretny egzemplarz
+A: welche?
+
+I: 331
+Q: myśleć (o)
+A: denken (an)
+E: Woran denkst du? Ich denke an den Wagen.
+E: An wenn denkst du? Ich denke an meine Mutti.
+
+I: 332
+Q: decydować się (na)
+A: (sich) entscheiden (für)
+E: Für wen entscheiden Sie sich?
+X: Kogo wybierasz?
+E: Wofür entscheiden Sie sich?
+X: Co wybierasz?
+
+I: 333
+Q: czekać (na)
+A: warten (auf)
+}

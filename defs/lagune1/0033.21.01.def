@@ -1,0 +1,229 @@
+id: 883
+name: Lekcja 33
+lesson: 21.01
+chapter: Die Zeit
+modified: 2013-02-02
+{
+I: 884
+Q: klatka
+A: (der) Käfig
+
+I: 885
+Q: oczywiście
+A: selbstverständlich
+
+I: 886
+Q: zanurzać się
+A: eintauchen
+
+I: 887
+Q: wynurzać się
+A: auftauchen
+
+I: 888
+Q: możliwość
+A: die Möglichkeit
+E: Ich habe eine Möglichkeit nach zu sprechen.
+X: Mam możliwość porozmawiać.
+E: Ich habe Möglichkeit zu <b>zu</b> machen.
+X: Mogę zamknąć.
+
+I: 890
+Q: zamykać
+R: na klucz
+A: abschließen
+F: abschließen, schloss ab, abgeschlossen
+
+I: 889
+Q: karma
+A: (der) Futter
+
+I: 891
+Q: szkoda
+R: szkoda komunikacyjna, uszkodzenie
+A: (der) Schaden
+
+I: 892
+Q: budynek, budowla, gmach
+A: (das) Gebäude
+
+I: 893
+Q: w którym
+R: nie pytanie, w zdaniu twierdzącym
+A: in dem [wo? +D]
+E: Das ist ein Gebäude, in dem die Leute beten.
+X: Budynek w którym ludzie się modlą.
+
+I: 894
+Q: miejsce
+A: (die) Stätte
+
+I: 895
+Q: miejsce, miejscowość
+A: (der) Ort
+
+I: 896
+Q: cokolwiek
+A: etwas
+E: Das ist etwas, was man kennt.
+X: Coś, co ludzie znają.
+
+I: 897
+Q: robić kupę
+R: srać
+A: kacken
+
+I: 898
+Q: dzielny, odważny, grzeczny
+A: brav
+
+I: 899
+Q: bardzo grzecznie
+A: ganz brav
+
+I: 900
+Q: w banku
+A: <b>auf</b> dem Bank
+
+I: 901
+Q: na poczcie
+A: auf dem Post
+
+I: 902
+Q: w ratuszu
+A: <b>auf</b> dem Rathaus
+
+I: 903
+Q: na stacji
+A: auf der Station
+
+I: 904
+Q: w supermarkecie
+A: im Supermarkt
+
+I: 905
+Q: z supermarketu
+A: aus dem Supermarkt
+D: odwrotne do <b>in</b> najczęściej jest <b>aus</b>
+
+I: 906
+Q: u lekarza
+A: beim Arzt
+
+I: 907
+Q: od lekarza
+A: von dem Arzt
+D: odwrotne do <b>bei</b> najczęściej jest <b>von</b>
+
+I: 908
+Q: wiosna
+A: (der) Frühling
+
+I: 909
+Q: lato
+A: (der) Sommer
+
+I: 910
+Q: jesień
+A: (der) Herbst
+
+I: 911
+Q: zima
+A: (der) Winter
+
+I: 912
+Q: od 21.01 do 22.01
+A: vom 21. Januar bis zum 22. Januar
+M: {a} vom ein und zwanzigsten Januar bis zum zwei und zwanzigsten Januar
+D: na końcu numeru jest <b>n</b>
+
+I: 913
+Q: od 21.01 do 22.01
+A: von 21. Januar bis 22. Januar
+M: {a} von ein und zwanzigste Januar bis zwei und zwanzigste Januar
+
+I: 914
+Q: która, które, którzy
+A: wievielte
+
+I: 915
+Q: Która godzina?
+R: jak późno jest?
+A: Wie spät ist es?
+
+I: 916
+Q: godzina
+R: 60 minut
+A: (die) Stunde
+
+I: 917
+Q: godzina
+R: na zegarze
+A: (die) Uhr
+
+I: 918
+Q: kwadrans
+A: (das) Viertel
+
+I: 919
+Q: w pół do dziesiątej
+A: um halb zehn Uhr
+
+I: 920
+Q: północ
+R: pora dnia
+A: (die) Mitternacht
+
+I: 921
+Q: południe
+R: pora dnia
+A: (der) Mittag
+
+I: 922
+Q: używać, stosować
+A: verwenden
+
+I: 923
+Q: oko
+A: (das) Auge
+
+I: 924
+Q: ulubieniec, pieszczoszek
+A: (der) Liebling
+
+I: 925
+Q: rytm dnia
+A: (der) Tagesablauf
+
+I: 926
+Q: czas
+A: (die) Uhrzeit
+
+I: 927
+Q: budzik
+A: (der) Wecker
+
+I: 928
+Q: rana
+A: (die) Wunde
+
+I: 929
+Q: pustynia
+A: (die) Wüste
+
+I: 930
+Q: nudny
+A: langweilig
+
+I: 931
+Q: niesamowity
+A: unheimlich
+
+I: 932
+Q: przedtem
+A: vorher
+
+I: 933
+Q: przynajmniej
+A: wenigstens
+}

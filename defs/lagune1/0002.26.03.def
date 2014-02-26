@@ -1,0 +1,76 @@
+id: 201
+name: Lekcja 2
+lesson: 26.03
+chapter: Akkusativ czy Dativ
+modified: 2012-11-30
+{
+
+I: 202
+Q: przedmiot
+A: (der) Gegenstand [¨e]
+
+I: 203
+Q: lodówka
+A: (die) Kühlschrank
+
+I: 204
+Q: nóż sprężynowy
+A: (das) Jagdmesser
+
+I: 205
+Q: aparat fotograficzny
+A: (die) Kamera
+
+I: 206
+C: Podaj typowe pytania dla wszystkich przypadków
+N: pytania
+A:
+[@table:przypadki
+    [[@transl wer|kto], [@transl was|co]]
+    [[@transl wessen|czyj]]
+    [[@transl wem|komu], [@transl wann|kiedy], [@transl wo|gdzie]]
+    [[@transl wen|kogo], [@transl was|czym], [@transl wohin|dokąd]]
+]
+~
+M: {a}Nominativ: wer? was? Genitiv: wessen? Dativ: wem? wann? wo? Akkusativ: wen? was? wohin?
+
+I: 207
+Q: kogo
+A: wenn
+
+I: 208
+Q: bez
+A: ohne [+Akk]
+
+I: 209
+Q: W żadnym razie!
+A: Auf keinen Fall!
+
+I: 210
+Q: może
+A: vielleicht
+
+I: 211
+Q: więcej, bardziej
+A: mehr
+
+I: 212
+Q: interesować się (czymś)
+A: (sich) interessiren (für [+Akk])
+
+I: 213
+Q: być zainteresowanym (czymś)
+A: interessiert sein an [+D]
+
+I: 214
+Q: zapałki
+A: (die) Streichhölzer
+
+I: 215
+Q: mata do leżenia
+A: (die) Liegematte
+
+I: 216
+Q: wędka
+A: (die) Angel
+}

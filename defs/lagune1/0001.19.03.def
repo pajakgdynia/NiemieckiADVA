@@ -1,0 +1,405 @@
+id: 51
+name: Lekcja 1
+lesson: 19.03
+chapter: Modal Verben
+modified: 2012-11-25
+{
+I: 52
+Q: kawaler
+R: nieżonaty, niezamężna (przymiotnik)
+A: ledig
+G: ledig.jpg
+
+I: 53
+Q: żonaty
+A: verheiratet
+G: verheiratet.jpg
+
+I: 54
+Q: młody
+A: jung
+E: Wie jung bist du?
+G: jung.jpg
+
+I: 55
+Q: prawie
+A: fast
+G: fast.jpg
+
+I: 56
+Q: od
+A: seit
+G: seit.jpg
+
+I: 57
+N: können
+Q: Umiem mówić dobrze po niemiecku.
+A: Ich kann gut Deutsch sprechen.
+G: Ich kann gut Deutsch sprechen.jpg
+
+I: 58
+N: wollen
+Q: Chcesz mnie dziś odwiedzić?
+A: Willst du mich heute besuchen?
+G: Willst du mich heute besuchen.jpg
+
+I: 59
+N: müssen
+Q: On musi się dużo uczyć.
+A: Er muss viel lernen.
+G: Er muss viel lernen.jpg
+
+I: 60
+N: sollen
+Q: Czy powinniśmy teraz posprzątać?
+A: Sollen wir jetzt aufräumen?
+G: Sollen wir jetzt aufräumen.jpg
+
+I: 61
+N: dürfen
+Q: Tutaj nie wolno palić.
+A: Hier darf man nicht rauchen.
+G: Hier darf man nicht rauchen.jpg
+
+I: 62
+N: mögen
+Q: On jej nie lubi.
+A: Er mag sie nicht.
+G: Er mag sie nicht.jpg
+
+I: 63
+N: mögen
+Q: Chciałabym pojechać do Berlina.
+A: Ich möchte nach Berlin fahren.
+G: Ich möchte nach Berlin fahren.jpg
+
+I: 64
+N: mag
+Q: Lubię cię
+A: Ich mag dich.
+G: Ich mag dich.jpg
+
+I: 65
+N: können
+Q: móc, umieć, potrafić
+A: können
+E: Können Sie Bridge spielen?
+G: Können Sie Bridge spielen.jpg
+
+I: 66
+N: wollen
+Q: chcieć
+R: ale nie w formie grzecznościowej
+A: wollen
+E: Ich will in die Disko gehen.
+G: Ich will in die Disko gehen.jpg
+
+I: 67
+N: müssen
+Q: musieć, mieć obowiązek
+R: w sensie uniknięcia skutku
+A: müssen
+E: Ich habe Hunger, ich muss etwas essen.
+G: Ich habe Hunger, ich muss etwas essen.jpg
+
+I: 68
+N: sollen
+Q: mieć powinność, obowiązek
+R: w sensie społecznego nakazu
+A: sollen
+E: Ihr sollt für den Test lernen.
+G: Ihr sollt für den Test lernen.jpg
+
+I: 69
+N: dürfen
+Q: mieć pozwolenie
+A: dürfen
+E: Sie dürfen nicht da bleiben.
+G: Sie dürfen nicht da bleiben.jpg
+
+I: 70
+N: mögen
+Q: lubić
+A: mögen
+E: Kinder mögen ihn nicht.
+G: Kinder mögen ihn nicht.jpg
+
+I: 71
+N: mögen
+Q: mieć życzenie, pragnienie
+A: möchten
+E: Möchten Sie etwas zu trinken?
+G: Möchten Sie etwas zu trinken.jpg
+
+I: 72
+N: dürfen odmiana
+C: Podaj odmianę
+Q: dürfen
+A: [@table:odmiana [darf | darfst | darf] [dürfen | dürft | dürfen]]
+M: {a}ich darf; du darfst; er, sie, es darf; wir dürfen; ihr  dürft; sie, Sie dürfen
+G: dürfen odmiana.jpg
+
+I: 73
+N: können odmiana
+C: Podaj odmianę
+Q: können
+A: [@table:odmiana [kann | kannst | kann] [können | könnt | können]]
+M: {a} ich kann; du kannst; er, sie, es kann; wir können; ihr könnt; sie, Sie können
+
+I: 74
+N: mögen odmiana
+C: Podaj odmianę
+Q: mögen
+A: [@table:odmiana [mag | magst | mag] [mögen | mögt | mögen]]
+M: {a} ich mag; du magst; er, sie, es mag; wir mögen; ihr mögt; sie, Sie mögen
+
+I: 75
+N: müssen odmiana
+C: Podaj odmianę
+Q: müssen
+A: [@table:odmiana [muss | musst | muss] [müssen | müsst | müssen]]
+M: {a} ich muss; du musst; er, sie, es muss; wir müssen; ihr müsst; sie, Sie müssen
+
+I: 76
+N: sollen odmiana
+C: Podaj odmianę
+Q: sollen
+A: [@table:odmiana [soll | sollst | soll] [sollen | sollt | sollen]]
+M: {a} ich soll; du sollst; er, sie, es soll; wir sollen; ihr sollt; sie, Sie sollen
+
+I: 77
+N: wollen odmiana
+C: Podaj odmianę
+Q: wollen
+A: [@table:odmiana [will | willst | will] [wollen | wollt | wollen]]
+M: {a} ich will; du willst; er, sie, es will; wir wollen; ihr wollt; sie, Sie wollen
+
+I: 78
+Q: przynosić
+A: bringen
+
+I: 79
+Q: odwieźć
+A: fortfahren
+
+I: 80
+Q: odebrać
+A: abholen
+
+I: 81
+Q: pić
+A: trinken
+
+I: 82
+Q: jeść
+A: essen
+
+I: 83
+Q: myć się
+A: (sich) waschen
+E: Ich muss mich waschen.
+
+I: 84
+Q: brać prysznic
+A: duschen
+E: Ich muss duschen.
+
+I: 85
+Q: iść do łazienki
+R: "do kibla"
+A: auf das Klo gehen
+
+I: 86
+Q: nosić (w ręku)
+A: tragen
+
+I: 87
+Q: remontować
+A: renovieren
+
+I: 88
+Q: ubierać się
+A: (sich) anziehen
+
+I: 89
+N: dürfen
+Q: Czego nie powinneś robić?
+A: Was darfst du nicht tun?
+
+I: 90
+Q: piwo
+A: (das) Bier
+
+I: 91
+Q: alkohol
+A: (der) Alkohol
+D: każdy alkohol poza piwem jest "der".
+
+I: 92
+N: dürfen
+Q: Nie powinienem pić wódki.
+A: Ich darf keinen Vodka trinken
+
+I: 93
+N: dürfen
+Q: Nie powinienem spóźniać się do pracy.
+A: Ich darf nicht zu spät zur Arbeit kommen.
+
+I: 94
+N: dürfen
+Q: Nie powinienem spać zbyt długo.
+A: Ich darf nich sehr lange schlafen.
+
+I: 95
+N: sollen
+Q: Codziennie powinienem jeść owoce i warzywa.
+A: Ich soll jeden Tag Obst und Gemüse essen.
+
+I: 96
+Q: uprawiać sport, trenować
+A: Sport treiben
+
+I: 97
+Q: wzruszać się
+A: (sich) bewegen
+
+I: 98
+Q: stawać się
+A: werden
+
+I: 99
+Q: pieczony
+A: gebraten
+
+I: 100
+Q: kurczak
+A: (das) Hähnchen
+
+I: 101
+Q: odpoczywać
+A: (sich) ausruchen
+
+I: 102
+Q: wypocząć
+A: (sich) erholen
+
+I: 103
+N: mögen
+Q: Wolę piwo.
+A: Ich mag lieber Bier.
+
+I: 104
+N: mögen
+Q: Lubię lody.
+A: Ich esse Eis gern.
+
+I: 105
+N: können
+Q: czy umiesz jeździć na nartach?
+A: Kannst du Ski fahren?
+
+I: 106
+Q: pozostawać na zewnątrz
+A: draußen bleiben
+
+I: 107
+Q: ubranie
+A: (die) Kleidung
+A: (die) Kleider
+
+I: 112
+Q: sukienka
+A: (das) Kleid
+
+I: 362
+Q: ubierać
+A: kleiden
+
+I: 108
+N: kleiden
+Q: być nieodpowiednio ubranym
+A: nicht gut gekleidet sein
+
+I: 109
+Q: hałas
+A: (der) Krach
+
+I: 110
+Q: straż pożarna
+A: (die) Feuerwehr
+
+I: 111
+Q: znak drogowy
+A: (das) Verkehrsschild
+
+I: 363
+Q: jechać rowerem
+A: radfahren
+E: Ich fahre rad.
+X: Jadę rowerem.
+
+I: 113
+Q: mowa potoczna
+A: (die) Umgangssprache
+
+I: 114
+Q: smutny, żałosny
+A: traurig
+E: nicht zufreiden sein
+
+I: 115
+Q: łzy
+A: (die) Tränen
+
+I: 116
+Q: płakać
+A: weinen
+
+I: 117
+Q: w przeciwnym razie
+A: sonst
+
+I: 118
+Q: spadochron
+A: (der) Fallschirm
+
+I: 119
+Q: zabijać się
+A: (sich) töten
+
+I: 120
+Q: obierać
+R: jabłko, ziemniaki
+A: schälen
+
+I: 121
+Q: umierać
+A: sterben
+
+I: 122
+Q: basen
+A: (das) Schwimmbad
+
+I: 123
+Q: nurkować
+A: tauchen
+
+I: 124
+N: sollen
+Q: Powinno się jeść śniadanie.
+A: Man soll Fruhstück essen.
+
+I: 125
+N: dürfen
+Q: Nie powinno się jadać słodyczy.
+A: Man darf nicht Süßigkeiten essen.
+
+I: 126
+N: können
+Q: Nie da się zjeść za dużo.
+A: Man kann nicht zu viel essen.
+
+I: 127
+Q: kościół
+A: (die) Kirche
+}

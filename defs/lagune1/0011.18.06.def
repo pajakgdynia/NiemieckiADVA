@@ -1,0 +1,138 @@
+lesson: 18.06
+chapter: Paśnstwa
+
+id: 602
+name: Lekcja 11
+modified: 2012-12-29
+{
+I: 603
+Q: komar
+A: (die) Mücke
+
+I: 604
+Q: kłuć
+A: stechen
+F: stechen, stach, gestochen
+
+I: 605
+Q: komary kłują
+A: die Mücken stechen
+
+I: 606
+Q: Głowa mnie boli.
+A: Mein Kopf tut mir weh.
+
+I: 607
+Q: stodoła
+A: (die) Scheune
+
+I: 608
+Q: komórka
+A: (die) Schauer
+
+I: 609
+C: Podaj kolejno określniki czasu
+N: czas
+Q: przedwczoraj - wczoraj - dziś - jutro - pojutrze
+A: vorgestern - gestern - heute - morgen - übermorgen
+# übermorgen czyta "dosć" dziwnie, lepiej brzmi ze spacją
+M: {a}vorgestern - gestern - heute - morgen - über morgen
+
+I: 610
+Q: pochodzić
+A: kommen aus
+E: Er kommt aus der Schweiz.
+E: Er kommt aus Polen.
+D: Ale nie mylić z rozdzielnie złożonym: [@transl {}auskommen | radzić sobie]
+
+I: 611
+Q: Szwajcaria
+A: (die) Schweiz
+
+I: 612
+Q: Ukraina
+A: (die) Ukraine
+
+I: 613
+Q: Czechy
+A: (die) Republik Tschechen
+
+I: 614
+Q: Słowacja
+A: (die) Slowakei
+
+I: 615
+Q: Irak
+A: (der) Irak
+
+I: 616
+Q: Iran
+A: (der) Iran
+
+I: 617
+Q: Turcja
+A: (die) Türkei
+
+I: 618
+Q: Mongolia
+A: (die) Mongolei
+
+I: 619
+Q: USA
+A: (die) USA, (die) Vereinigten Staaten
+
+I: 620
+Q: Bałtyk
+A: (die) Ostsee
+
+I: 621
+Q: morze
+A: (das) Meer
+
+I: 622
+N: tryb rozkazujący
+C: Jak budujemy tryb rozkazujący?
+q-audio: @Hans
+Q: sagen
+A: <strike>du</strike> sag<strike>st</strike> - <strike>ihr</strike> sagt - sagen Sie
+M: {a}sag - sagt - sagen Sie
+
+I: 623
+N: mal
+C: Utwórz tryb rozkazujący.
+Q: sagen
+A: Sag mal! Sagt mal! Sagen Sie!
+D: 'mal' dodajemy żeby łatwiej się mówiło
+
+I: 624
+Q: prawdziwy
+A: wahr
+E: Das ist nicht wahr!
+X: Nieprawda!
+
+I: 625
+C: Podaj poprawne formy trybu rozkazującego
+Q: sein
+A: Sei! Seid! Sein Sie!
+
+I: 626
+C: Podaj poprawne formy trybu rozkazującego
+Q: essen
+A: Iss! Esst! Essen Sie!
+
+I: 627
+C: Podaj poprawne formy trybu rozkazującego
+Q: schlafen
+A: Schlaf! Schlaft! Schlafen Sie!
+D: Umlaut też jest usuwany.
+
+I: 628
+C: Podaj poprawne formy trybu rozkazującego
+Q: vergessen
+A: Vergiss! Vergesst! Vergessen Sie!
+
+I: 629
+Q: śpieszyć się
+A: (sich) beeilen
+F: Ich beeile mich. Du beeilst dich. Er beeilt ihn.
+}

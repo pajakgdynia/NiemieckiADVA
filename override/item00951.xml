@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>wyobrażać sobie</question>
+  <answer>(sich) vorstellen<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> <text><sentence>Können Sie sich das vorstellen?</sentence><translation>Możecie sobie wyobrazić?</translation></text></answer>
+  <modified>2013-02-03</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>12-11</lesson-title>
+  <chapter-title>Am Bauernhof</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item xmlns="http://www.supermemo.net/2006/smux">
+  <question>pochodzić</question>
+  <answer>kommen aus<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Przykład:</span><br />
+<sfx file="b" /> Er kommt aus der Schweiz.<br />
+<sfx file="c" /> Er kommt aus Polen.<br />
+<br />
+<span style="font-weight: bold; font-size:13px; color: gray;">Opis:</span><br />
+Ale nie mylić z rozdzielnie złożonym:<br />
+<sfx file="d" /> <text><sentence>auskommen</sentence><translation>radzić sobie</translation></text></answer>
+  <modified>2012-12-29</modified>
+  <template-id>1</template-id>
+  <answer-audio>true</answer-audio>
+  <lesson-title>18.06</lesson-title>
+  <chapter-title>Paśnstwa</chapter-title>
+  <question-title>Przetłumacz</question-title>
+</item>

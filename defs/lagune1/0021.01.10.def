@@ -1,0 +1,83 @@
+id: 967
+name: Lekcja 21
+lesson: 01.10
+chapter: Beim Arzt
+modified: 2013-02-03
+{
+I: 968
+Q: kaszel
+A: (der) Husten
+E: (der) Hustensaft
+X: syrop na kaszel
+D: używany najczęściej bez rodzajnika
+
+I: 969
+Q: przeziębienie
+A: (die) Erkältung
+
+I: 970
+Q: katar
+A: (der) Schnupfen
+
+I: 971
+Q: czuć się
+A: (sich) fühlen
+E: Ich fühle mich gut.
+X: Czuję się dobrze
+
+I: 972
+Q: próbować
+R: usiłować
+A: versuchen
+
+I: 973
+C: Podaj czas przeszły czasownika.
+Q: pomalować
+A: bemalt
+D: Czasowniki rozpoczynające się od <b>be-</b>, <b>ge-</b>, <b>er-</b>, <b>ver-</b>, <b>zer-</b>, <b>miss-</b>,<b>ent-</b>, <b>empf-</b> nie dostają przedrostka <b>ge-</b> w czasie przeszłym.
+
+I: 974
+C: Podaj czas przeszły czasownika.
+Q: remontować
+A: renoviert
+D: Czasowniki kończące się <b>-iren</b> nie dostają przedrostka <b>ge-</b> w czasie przeszłym.
+
+I: 975
+Q: kopać
+A: graben
+F: graben, grub, gegraben
+
+I: 976
+Q: dziura
+A: (das) Loch
+M: {a} das Loch, die Löcher
+
+I: 977
+Q: dziurkacz
+A: (der) Locher
+
+I: 978
+Q: iść
+A: gehen
+F: gehen, ging, gegangen sein
+D: Czasowniki ruchu są z <b>sein</b>
+
+I: 979
+Q: umierać
+A: sterben
+F: sterben, starb, gestorben <b>sein</b>
+D: Czasowniki zmiany stanu są z <b>sein</b>
+
+I: 980
+Q: pozostać
+A: bleiben
+F: bleiben, blieb, geblieben <b>sein</b>
+
+I: 981
+Q: zbierać
+A: sammeln
+
+I: 982
+Q: jeść obiad
+A: zu Mittag essen
+}

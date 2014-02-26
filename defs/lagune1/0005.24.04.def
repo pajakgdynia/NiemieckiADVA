@@ -1,0 +1,160 @@
+id: 409
+name: Lekcja 5
+lesson: 24.04
+chapter: Czasowniki rozdzielnie złożone
+modified: 2012-12-27
+{
+I: 410
+N: wstawać
+Q: Czy już wstałeś?
+A: Bist du schon auf?
+
+I: 411
+N: trwać
+Q: Kto włączył radio?
+A: Wen das Radio läuft?
+
+I: 412
+N: płacić
+Q: płacić (za coś)
+A: zahlen (für [+Akk])
+M: {a}zahlen für etwas
+
+I: 413
+N: zapłacić
+Q: zapłaćić (za coś)
+A: (etwas) bezahlen
+
+I: 414
+N: mówić
+Q: mówić (o czymś)
+A: sprechen (über [+Akk])
+M: {a}sprechen über etwas
+
+I: 415
+N: omówić
+Q: omówić (coś)
+A: (etwas) besprechen
+
+I: 416
+Q: tworzyć
+A: schaffen
+F: schaffen, schuf, geschaffen
+
+I: 417
+Q: uznać
+A: erkennen
+
+I: 418
+Q: nazywać
+A: nennen
+
+I: 419
+Q: wymieniać
+R: pieniądze w kantorze
+A: wechseln
+
+I: 420
+Q: pomylić
+A: verwechseln
+
+I: 421
+Q: zamawiać
+A: bestellen
+
+I: 422
+Q: drobniaki
+A: (das) Kleingeld
+
+I: 423
+Q: kara
+A: (die) Strafe
+E: (der) Strafzettel
+X: mandat
+
+I: 424
+Q: w kuchni
+A: in der Küche
+D: Pytanie wo zawsze [+D]
+
+I: 425
+Q: kłótnia
+A: (der) Streit
+
+I: 426
+Q: kłócić się
+A: (sich) streiten
+
+I: 427
+Q: Co to ma znaczyć?!?
+R: (ostro, jak u nas "co do cholery")
+A: Was soll das?
+
+I: 428
+Q: włączać
+A: einschalten
+
+I: 429
+Q: oglądać telewizję
+A: fernsehen
+E: Beim Essen sehe ich nicht fern!
+X: Nie oglądam telewizji w czasie jedzenia!
+
+I: 430
+Q: trawić
+A: verdauen
+
+I: 431
+Q: stres
+A: (der) Stress
+
+I: 432
+Q: zdenerwować (się)
+A: (sich) aufregen
+E: Ich bin aufgeregt!
+X: Jestem zdenerwowany!
+
+I: 433
+Q: natychmiast
+A: sofort
+
+I: 434
+Q: zaraz
+A: gleich
+D: ale także: jednakowo, tak samo, blisko
+
+I: 435
+Q: świeca
+A: (der) Kerze
+
+I: 436
+Q: kac
+A: (der) Kater
+D: ale także: kocur
+
+I: 437
+Q: troszczyć się (o)
+A: (sich) sorgen (um)
+
+I: 438
+Q: zabraniać
+A: verbieten
+F: verbieten, verbot, verboten
+E: Die Mutter verbietet ihr zu kommen.
+X: Mama nie pozwala wam przychodzić.
+
+I: 439
+Q: na kiedy?
+A: für wann?
+
+I: 440
+Q: na wieczór
+A: für heute Abend
+
+I: 441
+Q: dotyczyć
+A: gehen um [+Akk]
+E: Geht es nicht um Babysitter.
+X: Nie chodzi tu o opiekunkę do dziecka.
+M: {b}Geht es nicht um Bejbiesieter.
+}

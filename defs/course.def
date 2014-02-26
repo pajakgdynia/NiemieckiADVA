@@ -1,0 +1,63 @@
+# formantki muszą być jeszcze przepracowane:
+# - w pierwszych [] jest definicja tabeli (<table...> ... header ...), nie może być gwiazdki!
+# - w kolejnych [] jest definicja wiersza, "*" zastępowane są kolejnymi wartościami (<tr><td>*</td><td>*</td></tr>)
+# - w ostatnich [] jest zamknięcie tabeli (</table>), nie może być gwiazdki
+# Do tabel trzeba robić tagi media "z automatu", nie są one w ogóle czytane (bo i jak to czytać?)
+# Kolejne [] w środku są brane dla paczek danych, jak dla paczki brakuje, to warning. Jak w pierwszym/ostatnim jest *
+# to "doklejany" jest pusty element. "Special case" w postaci {} jest przerabiany jakoś inaczej
+
+# defaultowe "mapowanie" tagów:
+# X: @transl, łączy się do poprzedniej linii, nie można zrobić do dwóch, tłumaczenia rozwijane są jako pierwsze.
+# H: @header
+# Q: @question, {q} jest dodawane do pierwszej linii przed rozwijaniem, czyta przez q-audio
+# R: @tip
+# A: @answer, {a} jest dodawane do pierwszej linii przed rozwijaniem, czyta przez a-audio
+# E: @example, {} jest dodawane do każdej linii przed rozwijaniem, czyta przez e-audio
+# D: @descr
+# P: @pron
+# F: @forms, {} jest dodawane do każdej linii przed rozwijaniem, czyta przez e-audio
+# synonyms: @synonym, {} jest dodawane do każdej linii przed rozwijaniem, czyta przez e-audio
+# Jak taga nie ma, to zakłada, że jest [*<br />].
+
+
+# "dodatki" do tagów xml'owych w kursie
+# dla pól edycyjnych [!pad]
+# @pad: charpad="de"
+
+#automatyczne czytanie
+@Hans: -voice Hans
+@Helga: -voice Helga
+@Maja: -voice Maja
+
+# pytania bez audio, odpowiedzi automatycznie czytane przez Hans'a. Przykłady przez Helgę.
+q-audio: false
+a-audio: @Hans
+e-audio: @Helga
+d-audio: @Maja
+
+!guid: 721aca33-ff8e-4920-a3e3-b790d734f732
+!title: Niemiecki ADVA
+!created: 2012-07-10
+!modified: 2013-02-03
+!language-of-instruction: pl
+!language-taught: de
+!default-items-per-day: 20
+!type: regular
+!sorting: default
+!author: Jarek Poświata
+!version: 1.0.198
+!description:pl: Słownictwo i ciut gramatyki w grupie "lepszej" na zajęciach u Zbyszka Z.
+
+
+# domyślne ustawienia dla item
+# (template zostanie zamienione na default-template, ale i tak nie będzie wykorzystywane)
+# trzeba zrobić ten template, na razie go nie ma.
+template: qa
+type: disabled
+
+# itemy z importowania do supermemo.net, nie są w kursie
+# pozostają tylko po to, żeby ich numery "nie wróciły".
+include: removed
+
+# wszystkie lekcje zwiazane z kursu grupy "lepszej"
+include: lagune1

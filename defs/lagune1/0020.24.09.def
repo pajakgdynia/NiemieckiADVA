@@ -1,0 +1,162 @@
+id: 789
+name: Lekcja 20
+lesson: 24.09
+chapter: Modal Verben
+modified: 2013-01-01
+{
+I: 790
+Q: do
+R: o kierunku
+A: her
+E: heranbringen
+X: dowieźć
+
+I: 791
+Q: od
+R: o kierunku
+A: hin
+E: hinbringen
+X: odwieźć
+
+I: 792
+Q: przez ulicę
+A: über die Straße
+
+I: 793
+Q: Idź tam!
+A: Geh mal hinüber!
+
+I: 794
+Q: Podejdź tu!
+A: Komm mal herüber!
+
+I: 795
+Q: urządzać
+A: veranstalten
+
+I: 796
+Q: wysyłać
+A: schicken
+
+I: 797
+Q: Idę do domu!
+A: Ich gehe <b>nach</b> Hause!
+
+I: 798
+Q: Zostanę w domu!
+A: Ich bleibe <b>zu</b> Hause!
+
+I: 799
+Q: przeżyć
+A: erleben
+E: Lange Zeit glaubte ich nicht, dass ich ein großes Abenteuer erleben könnte.
+X: Przez długi czas nie wierzyłam, że mogę przeżyć wielką przygodę.
+
+I: 800
+Q: wycieczka
+A: (der) Ausflug
+
+I: 801
+Q: wyjazd
+R: także podróż, jazda
+A: (die) Reise
+
+I: 802
+Q: Pracuję, ale mi się nie chce.
+A: Ich arbeite aber ich habe nicht will.
+
+I: 803
+Q: przepraszać
+A: entschuldigen
+E: Entschuldigen Sie bitte Störung.
+X: Przepraszam za kłopot.
+
+I: 804
+Q: Nie ma za co.
+A: Keine Ursache.
+D: W Hamburgu powiedzą: {}Da nicht für!
+
+I: 805
+Q: skręcać
+A: abbiegen
+
+I: 806
+Q: firma, zakład
+A: (der) Betrieb
+
+I: 807
+Q: emeryt
+A: (der) Pensionär
+
+I: 808
+Q: iść na emeryturę
+A: pensionieren
+
+I: 809
+Q: emerytura
+A: (die) Rente
+
+I: 810
+Q: Czy dostajesz emeryturę?
+A: Bist du pensioniert?
+
+I: 811
+Q: wybierać
+A: wählen
+E: Die Wahl ist die Qual.
+X: Wybór jest trudny.
+
+I: 812
+Q: stawać się
+A: werden
+E: Was wirst du morgen machen?
+X: Co zamierzasz robić rano?
+
+I: 813
+Q: półka
+A: (das) Brett
+
+I: 814
+Q: badać
+A: untersuchen
+
+I: 815
+Q: Kogo widzisz?
+A: <b>Wen</b> siehst du?
+
+I: 816
+Q: Komu pomagasz?
+A: <b>Wem</b> hilfst du?
+
+I: 817
+Q: rzucać
+A: werfen
+
+I: 818
+Q: pchać
+A: schieben
+F: schieben, schob, geschoben
+
+I: 819
+Q: segregator
+A: (der) Ordner
+
+I: 820
+Q: uważać na
+A: aufpassen auf [+Akk]
+E: Pass auf!
+X: Uwaga!
+
+I: 821
+Q: obchodzić
+R: także świętować, balować
+A: feiern
+
+I: 822
+Q: palić się
+A: brennen
+
+I: 823
+Q: twarz
+A: (das) Gesicht
+}
