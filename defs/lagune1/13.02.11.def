@@ -3,11 +3,11 @@ lesson: 11.02
 chapter: Die Statte
 modified: 2014-02-06
 {
-Q: piêkna Polska
-A: (das) wöndershöne Polen
-D: Rodzajnik "das" jest pomijany w wiêkszoœci przypadków
+Q: piÄ™kna Polska
+A: (das) wÃ¶ndershÃ¶ne Polen
+D: Rodzajnik "das" jest pomijany w wiÄ™kszoÅ›ci przypadkÃ³w
 
-Q: Stary Gdañsk
+Q: Stary GdaÅ„sk
 A: (das) alte Danzig
 
 Q: USA
@@ -15,17 +15,17 @@ A: (die) USA
 A: (die) Vereinigten Staaten
 D: liczba mnoga!
 
-Q: wo³owina
+Q: woÅ‚owina
 A: (das) Ridngleisch
 
-Q: jagniêcina
+Q: jagniÄ™cina
 A: (das) Lammfleisch
 
-Q: drób
-A: (das) Geglügel
+Q: drÃ³b
+A: (das) GeglÃ¼gel
 
-Q: pieczeñ z gêsi
-A: (der) Gänsebraten
+Q: pieczeÅ„ z gÄ™si
+A: (der) GÃ¤nsebraten
 
 Q: kaczka
 A: (die) Ente
@@ -33,103 +33,103 @@ A: (die) Ente
 Q: indyk
 A: (der) Truthahn
 
-Q: wo³owina
+Q: woÅ‚owina
 A: (das) Rindfleisch
 
-C: Stopniowanie przymiotników
-Q: chêtnie
+C: Stopniowanie przymiotnikÃ³w
+Q: chÄ™tnie
 A: gern - lieber - am liebsten
 
-C: Stopniowanie przymiotników
-Q: du¿o
+C: Stopniowanie przymiotnikÃ³w
+Q: duÅ¼o
 A: viel - mehr - am meisten
 
-Q: p¹czek
+Q: pÄ…czek
 A: (der) Berliner
 A: (der) Pfannkuchen (in Berlin)
 
 C: Czasowniki od "schlagen"
-Q: wyszukiwaæ, sprawdzaæ
+Q: wyszukiwaÄ‡, sprawdzaÄ‡
 A: nachschlagen
 
 C: Czasowniki od "schlagen"
-Q: proponowaæ
+Q: proponowaÄ‡
 A: vorschlagen
 
 C: Czasowniki od "schlagen"
-Q: zlecaæ, dop³acaæ
+Q: zlecaÄ‡, dopÅ‚acaÄ‡
 A: zuschlagen
 
 C: Czasowniki od "schlagen"
-Q: odt³uc, odmówiæ, wykopaæ (pi³kê)
+Q: odtÅ‚uc, odmÃ³wiÄ‡, wykopaÄ‡ (piÅ‚kÄ™)
 A: abschlagen
 
 C: Czasowniki od "schlagen"
-Q: zaparowaæ, podkuæ
+Q: zaparowaÄ‡, podkuÄ‡
 A: beschlagen
 
 C: Czasowniki z "sein"
-Q: stawaæ siê
+Q: stawaÄ‡ siÄ™
 A: werden
 F: werden - wurde - geworden sein
 
 C: Czasowniki z "sein"
-Q: pozostawaæ
+Q: pozostawaÄ‡
 A: bleiben
 F: bleiben - blieb - geblieben sein
 
 C: Czasowniki z "sein"
-Q: przeprowadzaæ (siê)
+Q: przeprowadzaÄ‡ (siÄ™)
 A: umziehen
 F: umziehen - zog um - umgezogen sein
 
 
-Q: przebieraæ siê
+Q: przebieraÄ‡ siÄ™
 A: (sich) unziehen
-D: wszystkie czasowniki zwrotne s¹ z haben!
+D: wszystkie czasowniki zwrotne sÄ… z haben!
 
 C: Czasowniki z "sein"
-Q: wprowadzaæ (siê)
+Q: wprowadzaÄ‡ (siÄ™)
 A: einziehen
 
 C: Czasowniki z "sein"
-Q: wyprowadzaæ (siê)
+Q: wyprowadzaÄ‡ (siÄ™)
 A: ausziehen
 
 Q: przeprowadzka
 A: (der) Umzug
 
 C: Czasowniki z "sein"
-Q: wsiadaæ
+Q: wsiadaÄ‡
 A: einsteigen
 F: einsteigen - stieg ein - eingestiegen sein
 
 C: Czasowniki z "sein"
-Q: przesiadaæ siê
+Q: przesiadaÄ‡ siÄ™
 A: umsteigen
 F: umsteigen - stieg um - umgestiegen sein
 D: Czasownik nie jest zwrotny!
 
-Q: popatrzeæ, obejrzeæ
+Q: popatrzeÄ‡, obejrzeÄ‡
 A: ansehen
 F: ansehen - sah an - angesehen
 
 Q: uznanie
 A: (das) Ansehen
 
-C: Budowa trybu rozkazuj¹cego
+C: Budowa trybu rozkazujÄ…cego
 Q: sein
 A: sei - seit - seien Sie
 
 C: Przyimki ruchu
-Q: iœæ do (dok¹d?)
-A: gehen in [+Akk] (do wszelakich pomieszczeñ)
+Q: iÅ›Ä‡ do (dokÄ…d?)
+A: gehen in [+Akk] (do wszelakich pomieszczeÅ„)
 A: gehen zu [+D]
 
-Q: czêœæ
+Q: czÄ™Å›Ä‡
 A: (der) Tail
 
-Q: wa¿yæ
+Q: waÅ¼yÄ‡
 A: wiegen
 F: wiegen - wog - gewogen
 }
