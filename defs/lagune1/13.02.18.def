@@ -1,54 +1,136 @@
-18.02
+lesson: 18.02
+chapter: Dativ vor Akkusativ
+name: Lekcja 37
+modified: 2014-03-01
+{
+Q: gimnastykować się
+A: turnen
 
-turnen - gimnastykować się
-rudern - wiosłować
-der Pfirsich - brzoskwinia
-die Traube - winogrono
-die Kirschen - wiśnie, czereśnie
-die Aprikose - morele
+Q: wiosłować
+A: rudern
 
-die Nichte -bratanica
-der Vetter -kuzyn
-der Enkel -wnuk
+Q: brzoskwinia
+A: (der) Pfirsich
 
-der Kuntstoff-plastik
-das Leder-skóra
+Q: winogrono
+A: (die) Traube
 
-die Geige-skrzypce
-die Trommel-bębenek
-die Trompete-trąbka
-die Orgel-n -organy
+Q: wiśnie, czereśnie
+A: (die) Kirschen
 
-der Fuchs-lis
-die Wolke-chmura
-das Gewitter-burza
-der Nebel-mgła, neblig-mgliście
+Q: morele
+A: (die) Aprikose
 
-der Briefumschlag-koperta
-die Schere-nożyczki
-die Klebenband-taśma klejąca
+Q: bratanica
+A: (die) Nichte
 
-die Ebene-nizina, eben-płaski, równy; zu ebener Erde-na parterze
-die Insel-n -wyspa
+Q: kuzyn
+A: (der) Vetter
 
-hüpfen-podskakiwać
-kriechen-czołgać się
+Q: wnuk
+A: (der) Enkel
 
-die Bohne-fasola
-der Kohl-kapusta
-das Kraut "er-natka, ale Sauerkraut..
-die Erbse-ziarnko grochu
+Q: plastik
+A: (der) Kuntstoff
 
-das Ei, dir Eier-jajko
+Q: skóra
+A: (das) Leder
 
-vorn-z przodu
-hinter-z tyłu
-gegenüber-na przeciwko
-innen, drinnen-w środku
-neben, daneben-obok
+Q: skrzypce
+A: (die) Geige
 
-Ich wollte zu Mittag essen-chciałem zjeść obiad
+Q: bębenek
+A: (die) Trommel
 
-dativ vor Akkusativ: ich gebe die Karte den Mann, ale ihn ihr!
+Q: trąbka
+A: (die) Trompete
 
+Q: organy
+A: (die) Orgel [-n]
+M: {a} die Orgel, die Orgeln
 
+Q: lis
+A: (der) Fuchs
+
+Q: chmura
+A: (die) Wolke
+
+Q: burza
+A: (das) Gewitter
+
+Q: mgła
+A: (der) Nebel
+
+Q: mgliście
+A: neblig
+
+Q: koperta
+A: (der) Briefumschlag
+
+Q: nożyczki
+A: (die) Schere
+
+Q: taśma klejąca
+A: (die) Klebenband
+
+Q: nizina
+A: (die) Ebene
+
+Q: płaski, równy
+A: eben
+
+Q: na parterze
+A: zu ebener Erde
+
+Q: wyspa
+A: (die) Insel [-n]
+M: {a} die Insel, die Inseln
+
+Q: podskakiwać
+A: hüpfen
+
+Q: czołgać się
+A: kriechen
+
+Q: fasola
+A: (die) Bohne
+
+Q: kapusta
+A: (der) Kohl
+
+Q: zioło
+A: (das) Kraut [-"er]
+M: {a} das Kraut, die Kräuter
+
+Q: kapusta kiszona
+A: (das) Sauerkraut
+
+Q: ziarnko grochu
+A: (die) Erbse
+
+Q: jajko
+A: (das) Ei
+M: {a} das Ei, die Eier
+
+Q: z przodu
+A: vorn
+
+Q: z tyłu
+A: hinter
+
+Q: na przeciwko
+A: gegenüber
+
+Q: w środku
+A: innen, drinnen
+
+Q: obok
+A: neben, daneben
+
+Q: chciałem zjeść obiad
+A: Ich wollte zu Mittag essen
+
+C: Podaj w krótkiej formie
+Q: Ich gebe die Karte den Mann.
+A: Ich gebe ihn ihr.
+}

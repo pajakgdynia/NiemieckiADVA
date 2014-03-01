@@ -1,16 +1,43 @@
-25.02 das Wetter
+lesson: 25.02
+chapter: Das Wetter
+name: Lekcja 38
+modified: 2014-03-01
+{
+Q: miasto
+A: (der) Stadt
 
-der Stadt-miasto
-die Stätte-miejsce
+Q: państwo, stan
+A: (das) Land
+A: (der) Staat
 
-grenzen an-graniczyć
-Es ist bewölkt-jest pochmurnie
-der Schnee-śnieg
-Es ist schneematsch-odwilż
-anstreichen-malować np. ściany
+Q: miejsce
+A: (die) Stätte
 
-Ich bin am Meer-jestem nad morzem, das Meer
-Ich bin an der See--, die See, der See jezioro
+Q: graniczyć
+A: grenzen an
 
+Q: jest pochmurnie
+A: Es ist bewölkt
 
+Q: śnieg
+A: (der) Schnee
 
+Q: odwilż
+A: Es ist schneematsch
+
+Q: malować (np. ściany)
+A: anstreichen
+
+Q: morze
+A: (das) Meer
+A: (die) See
+
+Q: jezioro
+A: (der) See
+E: am See
+X: nad jeziorem
+
+Q: jestem nad morzem
+A: Ich bin am Meer.
+A: Ich bin an der See.
+}
