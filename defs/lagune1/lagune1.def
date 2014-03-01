@@ -6,36 +6,44 @@
 id: 50
 name: Lagune 1
 created: 2012-11-25
-include: 0001.19.03
-include: 0002.26.03
-include: 0003.02.04
-include: 0004.16.04
-include: 0005.24.04
-include: 0006.07.05
-include: 0007.14.05
-include: 0008.21.05
-include: 0009.28.05
-include: 0010.11.06
-include: 0011.18.06
-include: 0012.25.06
-include: 0013.02.07
-include: 0014.09.07
-include: 0015.16.07
-include: 0016.23.07
-include: 0017.03.09
+# lekcje
+include: 12.03.19 # 1
+include: 12.03.26 # 2
+include: 12.04.02 # 3
+include: 12.04.16 # 4
+include: 12.04.27 # 5
+include: 12.05.07 # 6
+include: 12.05.14 # 7
+include: 12.05.21 # 8
+include: starke_verb
+include: 12.05.28 # 9
+include: 12.06.11 # 10
+include: 12.06.18 # 11
+include: 12.06.25 # 12
+include: 12.07.02 # 13
+include: 12.07.09 # 14
+include: 12.07.16 # 15
+include: 12.07.23 # 16
+include: 12.09.03 # 17
 # 18
 # 19
-include: 0020.24.09
-include: 0021.01.10
-include: 0022.08.10
-include: 0023.15.10
-include: 0024.22.10
-include: 0025.29.10
-include: 0026.05.11
-include: 0027.12.11
-include: 0028.26.11
-include: 0029.03.12
-include: 0030.10.12
-include: 0031.07.01
-include: 0032.14.01
-include: 0033.21.01
+include: 12.09.24 # 20
+include: 12.10.01 # 21
+include: 12.10.08 # 22
+include: 12.10.15 # 23
+include: 12.10.22 # 24
+include: 12.10.29 # 25
+include: 12.11.05 # 26
+include: 12.11.12 # 27
+include: 12.11.26 # 28
+include: 12.12.03 # 29
+include: 12.12.03_ub12 # perfect
+include: 12.12.10 # 30
+include: 13.01.07 # 31
+include: 13.01.14 # 32
+include: 13.01.21 # 33
+include: 13.01.28 # 34
+include: 13.02.04 # 35
+include: 13.02.11 # 36
+include: 13.02.18 # 37
+include: 13.02.25 # 38

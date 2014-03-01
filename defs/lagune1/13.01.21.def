@@ -25,7 +25,8 @@ Q: możliwość
 A: die Möglichkeit
 E: Ich habe eine Möglichkeit nach zu sprechen.
 X: Mam możliwość porozmawiać.
-E: Ich habe Möglichkeit zu <b>zu</b> machen.
+E: Ich habe die Möglichkeit zu <b>zu</b> machen.
+M: {c} Ich habe Möglichkeit zu zu machen.
 X: Mogę zamknąć.
 
 I: 890
