@@ -1,89 +1,154 @@
-lesson: Grammar
+type: pres
 name: Starke verben
+lesson: Grammar
 chapter: Die starke Verben
 {
-co to som starke verben??
+Q: mówić
+A: sprechen
+A: [@table:odmiana [spreche | sprichst | spricht] [sprechen | sprecht | sprechen]]
+M: {a}ich spreche; du sprichst; er, sie, es spricht; wir sprechen; ihr sprecht; sie, Sie sprechen
+F: sprechen, sprach, gesprochen
+E: Die Lehrerin spricht im Deutschkurs immer nur Deutsch.
+X: Na lekcjach niemieckiego nauczycielka mówi tylko po niemiecku.
 
-mówić
-sprechen 
+Q: dawać
+A: geben
+A: [@table:odmiana [gebe | gibst | gibt] [geben | gebt | geben]]
+M: {a}ich gebe; du gibst; er, sie, es gibt; wir geben; ihr gebt; sie, Sie geben
+F: geben, gab, gegeben
+E: Ihr gebt uns das Geld.
+X: Dają nam pieniądze.
 
-dawać
-geben
+Q: pomagać
+A: helfen
+A: [@table:odmiana [helfe | hilfst | hilft] [helfen | helft | helfen]]
+M: {a}ich helfe; du hilfst; er, sie, es hilft; wir helfen; ihr helft; sie, Sie helfen
+F: helfen, half, geholfen
+E: Wir helfen dem Lehrer.
+X: Pomagamy nauczycielowi.
 
-pomagać
-helfen
-Wir helfen dem Lehrer.|Pomagamy nauczycielowi.
+Q: nosić
+A: tragen
+A: [@table:odmiana [trage | trägst | trägt] [tragen | tragt | tragen]]
+M: {a}ich trage; du trägst; er, sie, es trägt; wir tragen; ihr tragt; sie, Sie tragen
+F: tragen, trug, getragen
 
-jeść
-essen
-Ich esse einen Apfel.|Jem jabłko.
-Herr Gosch, essen Sie gerne Sushi?|Panie Gosch, czy je Pan chętnie sushi?
+Q: brać
+A: nehmen
+A: [@table:odmiana [nehme | nimmst | nimmt] [nehmen | nehmt | nehmen]]
+M: {a}ich nehme; du nimmst; er, sie, es nimmt; wir nehmen; ihr nehmt; sie, Sie nehmen
+F: nehmen, nahm, genommen
+E: Anette nimmt eine Zeitung und liest sie.
+X: Anette bierze gazetę i ją czyta.
 
-nieść
-tragen
+Q: czytać
+A: lesen
+A: [@table:odmiana [lese | liest | liest] [lesen | lest | lesen]]
+M: {a} ich lese; du liest; er, sie, es liest; wir lesen; ihr lest; sie, Sie lesen
+F: lesen, las, gelesen
+E: Was liest Maria?
+X: Co czyta Maria?
 
-brać
-nehmen
-Anette nimmt eine Zeitung und liest sie.|Anette bierze gazetę i ją czyta.
+Q: widzieć
+A: sehen
+A: [@table:odmiana [sehe | siehst | sieht] [sehen | seht | sehen]]
+M: {a}ich sehe; du siehst; er, sie, es sieht; wir sehen; ihr seht; sie, Sie sehen
+F: sehen, sah, gesehen
+E: Siehst du diesen Mann nicht?
+X: Nie widzisz tego mężczyzny?
+E: Klaus und Ingo, seht ihr die Lehrerin?
+X: Hans i Ingo, widzicie tę nauczycielkę?
 
-czytać
-lesen
-Was liest Maria?|Co czyta Maria?
+Q: biec
+A: laufen
+A: [@table:odmiana [laufe | läufst | läuft] [laufen | lauft | laufen]]
+M: {a}ich laufe; du läufst; er, sie, es läuft; wir laufen; ihr lauft; sie, Sie laufen
+F: laufen, lief, gelaufen
+E: Das Kind läuft sehr schnell.
+X: Dziecko biegnie bardzo szybko.
 
-widzieć
-sehen
-Siehst du diesen Mann nicht?|Nie widzisz tego mężczyzny?
-Klaus und Ingo, seht ihr die Lehrerin?|Hans i Ingo, widzicie tę nauczycielkę?
+Q: jeść
+A: essen
+A: [@table:odmiana [esse | isst | isst] [essen | esst | essen]]
+M: {a}ich esse; du isst; er, sie, es isst; wir essen; ihr esst; sie, Sie essen
+F: essen, aß, gegessen
+E: Ich esse einen Apfel.
+X: Jem jabłko.
+E: Herr Gosch, essen Sie Sushi gern?
+X: Panie Gosch, czy je Pan chętnie sushi?
 
-spać
-schlafen
-Das Kind schläft schon zwei Stunden.|Dziecko śpi już dwie godziny.
+Q: spadać
+A: fallen
+A: [@table:odmiana [falle | fällst | fällt] [fallen | fallt | fallen]]
+M: {a} ich falle; du fällst; er, sie, es fällt; wir fallen; ihr fallt; sie, Sie fallen
+F: fallen, fiel, gefallen
 
-biec
-laufen
-Das Kind läuft sehr schnell.|To dziecko biegnie bardzo szybko.
+Q: myć
+A: waschen
+A: [@table:odmiana [wasche | wäschst | wäscht] [waschen | wascht | waschen]]
+M: {a} ich wasche; du wäschst; er, sie, es wäscht; wir waschen; ihr wascht; sie, Sie waschen
+F: waschen, wusch, gewaschen
+E: Ich wasche mir die Hände.
+X: Myję ręce.
 
-myć
-waschen
-Ich wasche mir die Hände.|Myję sobie ręce.
-
-rosnąć
-wachsen
-
-trzymać
-halten
-
-podobać się
-gefallen
-Gefällt euch mein Zimmer?|Podoba wam się mój pokój?
-Wie gefällt dir Berlin?|Jak ci się podoba Berlin?
-
-spadać
-fallen
-
-dmuchać
-blasen
-
-jechać
-fahren
-Du fährst schnell.|Jedziesz szybko.
-
-spotykać
-treffen
-Wie oft triffst du deinen Freund?|Jak często spotykasz swojego przyjaciela?
-
-pisać
-schreiben
-Schreibt ihr gerne Briefe?|Piszecie chętnie listy?
-
-answer: [@table:odmiana [[@ich mag]|[@wir mögen]] [[@du magst]|[@ihr mögt]] [[@er-sie-es mag]|[@sie mögen]]]
+Q: jechać
+A: fahren
+A: [@table:odmiana [fahre | fährst | fährt] [fahren | fahrt | fahren]]
+M: {a} ich fahre; du fährst; er, sie, es fährt; wir fahren; ihr fahrt; sie, Sie fahren
+F: fahren, fuhr, gefahren
+E: Du fährst zu schnell.
+X: Jedziesz za szybko.
 
 
-  	sprechen 	geben 	helfen 	tragen 	nehmen 	lesen 	sehen 	laufen 	essen 	fallen 	waschen 	fahren
-ich 	spreche 	gebe 	helfe 	trage 	nehme 	lese 	sehe 	laufe 	esse 	falle 	wasche 	fahre
-du 	sprichst 	gibst 	hilfst 	trägst 	nimmst 	liest 	siehst 	läufst 	isst 	fällst 	wäschst 	fährst
-er sie es 	spricht 	gibt 	hilft 	trägt 	nimmt 	liest 	sieht 	läuft 	isst 	fällt 	wäscht 	fährt
-wir 	sprechen 	geben 	helfen 	tragen 	nehmen 	lesen 	sehen 	laufen 	essen 	fallen 	waschen 	fahren
-ihr sprecht 	gebt 	helft 	tragt 	nehmt 	lest 	seht 	lauft 	esst 	fallt 	wascht 	fahrt
-sie Sie 	sprechen 	geben 	helfen 	tragen 	nehmen 	lesen 	sehen 	laufen 	essen 	fallen 	waschen 	fahren
+Q: podobać się
+A: gefallen
+A: [@table:odmiana [gefalle | gefällst | gefällt] [gefallen | gefallt | gefallen]]
+M: {a} ich gefalle; du gefällst; er, sie, es gefällt; wir gefallen; ihr gefallt; sie, Sie gefallen
+F: gefallen, gefiel, gefallen
+E: Gefällt euch mein Zimmer?
+X: Podoba wam się mój pokój?
+E: Wie gefällt dir Berlin?
+X: Jak ci się podoba Berlin?
+
+Q: spać
+A: schlafen
+A: [@table:odmiana [schlafe | schläfst | schläft] [schlafen | schlaft | schlafen]]
+M: {a} ich schlafe; du schläfst; er, sie, es schläft; wir schlafen; ihr schlaft; sie, Sie schlafen
+F: schlafen, schlief, geschlafen
+E: Das Kind schläft schon zwei Stunden.
+X: Dziecko śpi już dwie godziny.
+
+Q: spotykać
+A: treffen
+A: [@table:odmiana [treffe | triffst | trifft] [treffen | trefft | treffen]]
+M: {a} ich treffe; du triffst; er, sie, es trifft; wir treffen; ihr trefft; sie, Sie treffen
+F: treffen, traf, getroffen
+E: Wie oft triffst du deinen Freund?
+X: Jak często spotykasz swojego przyjaciela?
+
+Q: pisać
+A: schreiben
+A: [@table:odmiana [schreibe | schreibst | schreibt] [schreiben | schreibt | schreiben]]
+M: {a} ich schreibe; du schreibst; er, sie, es schreibt; wir schreiben; ihr schreibt; sie, Sie schreiben
+F: schreiben, schrieb, geschrieben
+E: Schreibt ihr gerne Briefe?
+X: Piszecie chętnie listy?
+
+Q: rosnąć
+A: wachsen
+A: [@table:odmiana [wachse | wächst | wächst] [wachsen | wachst | wachsen]]
+M: {a} ich wachse; du wächst; er, sie, es wächst; wir wachsen; ihr wachst; sie, Sie wachsen
+F: wachsen, wuchs, gewachsen
+
+Q: trzymać
+A: halten
+A: [@table:odmiana [halte | hältst | hält] [halten | haltet | halten]]
+M: {a} ich halte; du hältst; er, sie, es hält; wir halten; ihr haltet; sie, Sie halten
+F: halten, hielt, gehalten
+
+Q: dmuchać
+A: blasen
+A: [@table:odmiana [blase | bläst | bläst] [blasen | blast | blasen]]
+M: {a} ich blase; du bläst; er, sie, es bläst; wir blasen; ihr blast; sie, Sie blasen
+F: blasen, blies, geblasen
 }
