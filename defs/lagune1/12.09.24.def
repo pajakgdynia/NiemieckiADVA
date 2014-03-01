@@ -5,16 +5,18 @@ chapter: Modal Verben
 modified: 2013-01-01
 {
 I: 790
-Q: do
+Q: do-
 R: o kierunku
-A: her
+A: her-
 E: heranbringen
 X: dowieźć
+E: Komm mal herüber!
+X: Chodź no tu!
 
 I: 791
-Q: od
+Q: od-
 R: o kierunku
-A: hin
+A: hin-
 E: hinbringen
 X: odwieźć
 
@@ -31,7 +33,7 @@ Q: Podejdź tu!
 A: Komm mal herüber!
 
 I: 795
-Q: urządzać
+Q: urządzać. organizować
 A: veranstalten
 
 I: 796
@@ -113,7 +115,7 @@ E: Was wirst du morgen machen?
 X: Co zamierzasz robić rano?
 
 I: 813
-Q: półka
+Q: półka, deska
 A: (das) Brett
 
 I: 814
@@ -159,4 +161,7 @@ A: brennen
 I: 823
 Q: twarz
 A: (das) Gesicht
+
+Q: historia
+A: (die) Geschichte
 }

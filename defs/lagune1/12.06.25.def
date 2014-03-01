@@ -30,7 +30,8 @@ Q: Odejdź!
 A: Geh weg!
 
 I: 636
-Q: Spadaj!
+Q: Odwal się! (Spadaj!)
+R: Spierdalaj!
 A: Hau ab!
 
 I: 637
@@ -84,7 +85,7 @@ Q: brać prysznic
 A: (sich) duschen
 
 I: 648
-Q: przeważnie
+Q: przeważnie (z reguły)
 A: in der Regel
 
 I: 649
@@ -105,11 +106,11 @@ Q: do
 A: zu
 
 I: 653
-Q: przy
+Q: przy, podczas
 A: bei
 
 I: 654
-Q: od
+Q: od, z
 A: von
 
 I: 655

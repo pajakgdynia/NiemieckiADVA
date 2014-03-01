@@ -180,7 +180,10 @@ A: bringen
 
 I: 79
 Q: odwieźć
-A: fortfahren
+A: abfahren
+
+Q: wywieźć
+A: forthfahren
 
 I: 80
 Q: odebrać
@@ -223,7 +226,8 @@ A: (sich) anziehen
 
 I: 89
 N: dürfen
-Q: Czego nie powinneś robić?
+Q: Czego nie powinieneś robić?
+R: czynić?
 A: Was darfst du nicht tun?
 
 I: 90
@@ -248,7 +252,7 @@ A: Ich darf nicht zu spät zur Arbeit kommen.
 I: 94
 N: dürfen
 Q: Nie powinienem spać zbyt długo.
-A: Ich darf nich sehr lange schlafen.
+A: Ich darf nich zu lange schlafen.
 
 I: 95
 N: sollen

@@ -12,7 +12,8 @@ A: Bist du schon auf?
 I: 411
 N: trwać
 Q: Kto włączył radio?
-A: Wen das Radio läuft?
+R: Czyje radio gra?
+A: Wen Radio läuft?
 
 I: 412
 N: płacić
@@ -55,7 +56,7 @@ R: pieniądze w kantorze
 A: wechseln
 
 I: 420
-Q: pomylić
+Q: mylić, mieszać
 A: verwechseln
 
 I: 421
@@ -109,7 +110,7 @@ Q: stres
 A: (der) Stress
 
 I: 432
-Q: zdenerwować (się)
+Q: denerwować (się), irytować (się)
 A: (sich) aufregen
 E: Ich bin aufgeregt!
 X: Jestem zdenerwowany!
@@ -148,13 +149,15 @@ Q: na kiedy?
 A: für wann?
 
 I: 440
-Q: na wieczór
+Q: na (dzisiejszy) wieczór
 A: für heute Abend
 
 I: 441
-Q: dotyczyć
+Q: chodzić o, dotyczyć
 A: gehen um [+Akk]
 E: Geht es nicht um Babysitter.
 X: Nie chodzi tu o opiekunkę do dziecka.
-M: {b}Geht es nicht um Bejbiesieter.
+E: (der) Babysitter
+M: {b}Geht es nicht um Bejbiesietter.
+M: {c}der Bejbiesietter
 }

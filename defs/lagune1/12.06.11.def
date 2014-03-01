@@ -1,4 +1,4 @@
-esson: 11.06
+lesson: 11.06
 chapter: Wo und wohin
 
 id: 563
@@ -13,6 +13,7 @@ I: 565
 N: w klasie
 Q: Jestem w klasie.
 A: Ich bin im Klassenzimmer.
+A: Ich bin in der Klasse.
 
 I: 566
 Q: praca

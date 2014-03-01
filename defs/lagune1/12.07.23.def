@@ -5,7 +5,7 @@ chapter: Was ist wer?
 modified: 2012-12-30
 {
 I: 739
-Q: koło
+Q: wokoło, naokoło, dookoła
 A: um herum
 E: Ich gehe um das Haus herum.
 X: Chodzę wokoło domu.
@@ -40,13 +40,16 @@ E: Jemand klaut unsere Sachen!
 X: Ktoś ukradł nasze rzeczy!
 
 I: 746
-Q: zawiadomić
-A: verständigen
+Q: rozumieć się
+A: (sich) verständigen
 E: Wir können uns nicht verständigen!
 X: Nie rozumiemy się!
 
+Q: powiadamiać (o)
+A: verständigen (von)
+
 I: 747
-Q: komunikacja
+Q: komunikacja (słowna)
 A: (die) Verständigung
 E: Probleme mit Verständigung
 
@@ -60,9 +63,12 @@ A: (die) Übernachtung
 E: Kein Hotel finden wir zur Übernachtung, alle Platze sind besetzt.
 X: Nie znaleźliśmy noclegu, wszystkie miejsca są zajęte.
 
+Q: przebaczenie
+A: (die) Verzeihung
+
 I: 750
-Q: Przepraszam?
-A: Um Verzeihung bitte?
+Q: Przepraszam!
+A: Um Verzeihung bitte!
 
 I: 751
 Q: polecać
@@ -70,7 +76,7 @@ A: empfehlen
 F: empfehlen, empfahl, empfohlen
 
 I: 752
-Q: Czy to jest daleko?
+Q: Czy tamto jest daleko?
 A: Ist es weit bis dorthin?
 
 I: 753
@@ -87,7 +93,7 @@ Q: tani
 A: billig
 
 I: 756
-Q: niedrogi
+Q: niedrogi ("warty ceny")
 A: preiswert
 
 I: 757
@@ -97,6 +103,9 @@ F: klingen, klang, geklungen
 E: Das klingt sehr interresant!
 X: To brzmi ciekawie!
 
+Q: dzwonić
+A: klingeln
+
 I: 758
 Q: plac zabaw
 A: (der) Spielplatz
@@ -104,6 +113,9 @@ A: (der) Spielplatz
 I: 759
 Q: plaża
 A: (der) Strand
+
+Q: jakikolwiek
+A: irgendwelche
 
 I: 760
 Q: polecić jakąś restaurację
@@ -130,7 +142,7 @@ Q: pierwsi ludzie
 A: die erste<b>n</b> Leute
 
 I: 766
-Q: Bardzo proszę!
+Q: Bardzo proszę! Nie ma za co!
 A: Keine Ursache!
 
 I: 767
@@ -139,10 +151,13 @@ A: (der) Weg
 
 I: 768
 Q: przechodzić obok
-A: an [+D] vorbei gehen
+A: vorbeigehen an [+D]
+
+Q: aż do
+A: bis zu
 
 I: 769
-Q: dojść do
+Q: dojść (aż) do
 A: bis zu gehen
 
 I: 770

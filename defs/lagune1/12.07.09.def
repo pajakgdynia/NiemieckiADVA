@@ -49,7 +49,7 @@ A: (die) Poliklinik, (das) Medicinische Versorgnungszentrum, NVZ
 
 I: 695
 Q: noga
-A: (das) Beim
+A: (das) Bein
 
 I: 696
 Q: ręka
@@ -73,9 +73,9 @@ E: den Hintern versohlen
 X: sprać tyłek
 
 I: 700
-Q: tylko
+Q: tylko, na samą myśl
 A: bloß
-E: Wenn es doch bloss sie betreffen würde.
+E: Wenn es doch bloß sie betreffen würde.
 X: Gdyby tylko o nią chodziło.
 
 I: 701
@@ -92,7 +92,7 @@ A: weinen
 
 I: 704
 Q: śnić
-A: traumen
+A: träumen
 
 I: 705
 Q: klatka

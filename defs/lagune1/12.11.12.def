@@ -10,18 +10,22 @@ A: (die) Straße
 D: ß bo 'a' jest długie
 
 I: 166
+C: Podaj wymowę w II osobie
 Q: jeść
 A: isst
 D: ss bo 'i' jest krótkie
 
 I: 167
-Q: książka techniczna
+Q: książka popularno-naukowa, publicystyka
 R: nie opisująca fikcji
 A: (das) Sachbuch
 
+Q: książka techniczna, poradnik
+A: (das) Fachbuch
+
 I: 168
-R: gewönlich
-Q: zazwyczaj
+Q: z reguły
+S: gewönlich
 A: in der Regel
 
 I: 169
@@ -29,20 +33,28 @@ Q: o północy
 R: o 24:00
 A: um Mittelnacht
 
-I: 170
-Q: liczyć
-R: wyznaczać liczbę
-A: zahlen
-
 I: 171
 Q: liczyć
 R: rachować
 A: rechnen
 
+I: 170
+Q: liczyć
+R: wyznaczać liczbę
+A: zählen
+
+Q: płacić
+A: bezahlen
+
+Q: liczby
+A: (pl) Zahlen
+
 I: 172
-R: einige
-Q: niektórzy
+Q: niektórzy, jacyś
 A: manche
+
+Q: niektórzy, nieliczni
+R: einige
 
 I: 173
 Q: ani - ani
@@ -54,11 +66,10 @@ A: Das Laufen ermüdet.
 
 I: 175
 Q: podziwiać
-A: bewunderern
+A: bewundern
 
 I: 176
-Q: To mnie nie obchodzi.
-R: nie dotyczy
+Q: To mnie nie obchodzi (nie dotyczy).
 A: Das geht mich nicht an.
 
 I: 177
@@ -71,7 +82,8 @@ A: (die) Brieftasche
 
 I: 179
 Q: zainteresowany książkami S-F
-A: interresiert für S-F Bucher
+A: interresiert sein für S-F Bücher
+E: (das) Buch, (pl) Bücher
 
 I: 180
 Q: popularno-naukowy

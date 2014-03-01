@@ -27,7 +27,7 @@ Q: rzadko
 A: selten
 
 I: 489
-Q: czasami
+Q: niekiedy, czasami
 A: manchmal
 
 I: 490
@@ -64,7 +64,9 @@ A: alle zwei Tage
 
 I: 483
 Q: raz w miesiącu
-A: einmal in Monat
+A: einmal im Monat
+E: (der) Monat
+
 
 I: 484
 Q: co miesiąc
@@ -100,12 +102,17 @@ Q: w poniedziałki
 A: montags
 
 I: 505
-Q: dwa razy w tygodniu
+Q: dwa razy dziennie
 A: zwei mal täglich
+
+Q: dwa razy w tygodniu
+A: zwei mai in der Woche
+E: (die) Woche
 
 I: 506
 Q: w weekend
 A: am Wochenende
+E: (das) Whchenenende
 
 I: 507
 Q: studiować zaocznie
@@ -120,7 +127,7 @@ Q: cały czas
 A: (die) ganze Zeit
 
 I: 510
-N: kammen
+N: czesać się
 Q: Jak często się czeszesz?
 A: Wie oft kämmst du dich?
 E: Ich  kämme mich nicht.
@@ -135,19 +142,20 @@ Q: odpowczywać
 A: ruhen
 
 I: 513
-N: schwimmen
-Q: Idziemy rano popływać? Tak, chętnie
-A: Gehst du morgen schwimmen? Ja, ich will gern morgen schwimmen gehen!
+N: schwimmen gehen
+Q: Idziesz popływać? Tak, chętnie rano pójdę!
+A: Gehst du schwimmen? Ja, ich will gern morgen schwimmen gehen!
 
 I: 514
-N: surfen
+N: surfen lernen
 Q: Pouczymy się serfować? Tak, będę uczył się rano.
-A: Willst du surfen lernen? Ja, ich will morgen surfen lernen.
+A: Wollen wir surfen lernen? Ja, ich will morgen surfen lernen.
 
 I: 515
-N: sein
-Q: Jest tu? Nie, poszedł pływać.
+N: gehen
+Q: Czy on jest tu? Nie, poszedł pływać.
 A: Ist er da? Nein, er ist schmimmen gegangen.
+D: Czasowniki ruchu łączą się z <b>sein</b> w czasie przeszłym.
 
 I: 516
 N: größer
@@ -172,8 +180,11 @@ Q: Czy wiecie?
 A: Wisst ihr?
 
 I: 521
+Q: zgadzać się (z)
+A: einverstanden sein (mit)
+
 Q: zrozumiałe, jasne
-A: einverstanden
+A: klar
 
 I: 522
 Q: grzebień

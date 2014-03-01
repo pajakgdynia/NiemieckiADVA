@@ -46,7 +46,7 @@ A: (das) Fernsehen
 
 I: 228
 Q: telewizor
-A: (der) Fehrseher
+A: (der) Fernseher
 
 I: 229
 Q: telefon komórkowy
@@ -114,13 +114,15 @@ A: damit
 I: 241
 Q: albowiem, dlatego
 A: denn
+E: Wo ist er denn?
+R: No gdzie on jest?
 
 I: 242
 Q: Mam za dużo do roboty.
 A: Ich habe zu viel zu tun.
 
 I: 243
-Q: rzecz
+Q: rzecz, sprawa
 A: (die) Sache
 
 I: 244
@@ -137,7 +139,7 @@ A: (der) Fach
 
 I: 247
 Q: helikopter
-A: Hubschrauber
+A: (der) Hubschrauber
 
 I: 248
 Q: ciężarówka
@@ -200,7 +202,7 @@ Q: Jestem zła na niego!
 A: Ich büße auf ihn!
 
 I: 261
-Q: cudowny, piękny
+Q: wspaniały, piękny, pyszny
 A: herrlich
 
 I: 262
@@ -250,10 +252,10 @@ Q: Tak się nie robi!
 A: Das geht doch nicht!
 
 I: 273
-Q: wchodzić
+Q: deptać, wchodzić (na coś)
 A: betreten
 
 I: 274
-Q: uciekać
+Q: uciekać, zwiewać
 A: fliehen
 }

@@ -40,8 +40,9 @@ Q: czepek kąpielowy
 A: (die) Bademütze
 
 I: 372
-Q: miejsca publiczne
-A: an öffentliche Plätze
+Q: w miejscach publicznych
+A: an der öffentliche Plätze
+E: (der) Platz
 
 I: 373
 Q: narkotyki
@@ -54,7 +55,7 @@ Q: lornetka
 A: (das) Fernglass
 
 I: 375
-Q: za małe
+Q: za wąski
 A: zu eng
 
 I: 376
@@ -107,7 +108,8 @@ A: (die) Freiheit
 
 I: 387
 Q: Nie lubię szpinaku.
-A: Ich mag kein Spinat.
+A: Ich mag keinen Spinat.
+E: (der) Spinat
 
 I: 388
 Q: kosić trawę
@@ -137,9 +139,15 @@ Q: kłótnia
 A: (der) Streit, (der) Zoff
 
 I: 394
-Q: kłócić się
+Q: pokłócić się, być obrażonym
 A: streiten
+E: Eltern und Kinder können streiten.
+R: Dzieci i rodzice mogą być na siebie obrażeni
 D: Czasownik nie jest zwrotny.
+
+Q: awanturować się, kłócić się
+A: (sich) streiten
+E: (sich) streiten um [+Akk]
 
 I: 395
 Q: stać przy oknie

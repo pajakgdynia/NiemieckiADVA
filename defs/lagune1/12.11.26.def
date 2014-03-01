@@ -27,9 +27,15 @@ Q: kura
 A: (das) Huhn
 
 I: 281
-Q: posłuchać
+Q: przysłuchiwać się, słuchać
 A: zuhören
 E: Wollen Sie dazukommen und zuhören?
+
+Q: podsłuchiwać
+A: abhören
+
+Q: kończyć, przestawać
+A: aufhören
 
 I: 282
 Q: Koniec słuchania!
@@ -60,15 +66,21 @@ Q: puszka
 A: (die) Dose
 
 I: 289
-Q: puszka z fasolką
+Q: groszek konserwowy
 A: (die) Erbsendose
+
+Q: groch
+A: (die) Erbse
+
+Q: fasola
+A: (die) Bohne
 
 I: 290
 Q: dogadać się, ustalić
 A: festlegen
 
 I: 291
-Q: Idę do lekarza.
+Q: Zarejestrowałem się (do lekarza).
 A: Ich habe einen Artztermin.
 
 I: 292
@@ -89,5 +101,5 @@ A: (das) Eisbein
 
 I: 296
 Q: koszmar
-A: Albtraum
+A: (der) Alptraum
 }

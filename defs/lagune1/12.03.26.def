@@ -11,7 +11,7 @@ A: (der) Gegenstand [¨e]
 
 I: 203
 Q: lodówka
-A: (die) Kühlschrank
+A: (der) Kühlschrank
 
 I: 204
 Q: nóż sprężynowy
@@ -36,11 +36,27 @@ M: {a}Nominativ: wer? was? Genitiv: wessen? Dativ: wem? wann? wo? Akkusativ: wen
 
 I: 207
 Q: kogo
+A: wen
+D: <b>n</b> wymawiamy długo
+D: łączy sie z Akk
+
+Q: komu
+A: wem
+D: łączy się z D
+
+Q: kiedy
+A: wann
+D: <b>n</b> wymawiamy krótko
+D: łączy się z D
+
+Q: jeżeli, gdy
 A: wenn
+D: <b>n</b> wymawiamy krótko
 
 I: 208
 Q: bez
-A: ohne [+Akk]
+A: ohne
+D: zawsze [+Akk]
 
 I: 209
 Q: W żadnym razie!

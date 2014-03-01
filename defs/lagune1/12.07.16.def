@@ -12,10 +12,10 @@ A: Das ist eine Uhr von Kamil.
 I: 708
 N: sein
 Q: To jest twój zegarek.
-A: Das ist seine Uhr.
+A: Das ist deine Uhr.
 
 I: 709
-Q: zabawki
+Q: zabawka
 A: (das) Spielzeug
 
 I: 710
@@ -63,38 +63,155 @@ X: Oni chodzą dookoła domu.
 
 # te strony zamienić na "z jakim przypadkiem"
 I: 719
-C: Podaj typowe przyimki
-Q: Genitiv
-A: [@transl anlässlich|z okazji], [@transl während|podczas]
-M: {a} anlässlich, während
+type: removed
+
+Q: z okazji
+A: anlässlich [+G]
+
+Q: podczas
+A: während [+G]
 E: Während der Arbeit hörte sie Musik.
 X: Ona słucha muzyki podczas pracy.
 
 I: 720
+type: removed
 C: Podaj przyimki
 Q: Dativ
-A: ab, bei, seit, mit, zu, aus, von, nach
+
+Q: od, z powodu
+A: ab [+D]
+E: ab heute
+X: od dziś
+
+Q: przy, w trakcie
+A: bei [+D]
+E: Fragen Sie bei Ihrem Arzt nach.
+X: Proszę skonsultować się z lekarzem.
+D: W "drugą" stronę jest <b>von</b>
+
+Q: od (kiedy)
+A: seit [+D]
+E: Seit wann?
+X: Od kiedy?
+
+Q: egzamin
+A: (die) Prüfung
+
+Q: sprawdzić
+A: nachsehen
+
+Q: z (kimś, czymś)
+A: mit [+D]
+E: Zusammen mit dem Lehrer haben wir der Prüfung gesehen.
+X: Z nauczycielem sprwdziliśmy egzamin.
+
+Q: za, do, na
+A: zu [+D]
+E: Ich freue mich, dass ich nach der Arbeit endlich zu Hause bin.
+X: Cieszę się, że w końcu jestem w domu po pracy.
+
+Q: z (skadś), od (czegoś)
+A: aus [+D]
+E: Ich komme aus der Schweiz.
+X: Pochodzę ze Szwajcarii.
+D: W "drugą" stronę jest <b>in</b>
+
+Q: od (kogoś), z
+A: von [+D]
+E: Was sind Sie vom Beruf?
+X: Kim jesteś z zawodu?
+E: (der) Beruf
+X: zawód
+
+Q: w, do, na
+A: nach [+D]
+E: Geh nach Hause!
+X: Do domu!
 E: Hast du heute nach der Schule schon etwas vor?
 X: Co zamierzasz robić dziś po szkole?
 
 I: 721
+type: removed
 C: Podaj przyimki
 Q: Akkusativ
-A: durch, gegen, um, bis, für, ohne
+
+Q: przez
+A: durch [+Akk]
+E: durch die Straße gehen
+X: iść ulicą
+E: über die Straße gehen
+X: przejść przez ulicę
+
+Q: przeciw, przeciwko
+A: gegen [+Akk]
 E: Gestern ist meine Frau mit dem Auto gegen einen Baum gefahren.
 X: Wczoraj moja żona uderzyła samochodem w drzewo.
 
+Q: o, dookoła
+A: um [+Akk]
+
+Q: aż do, dopóki
+A: bis [+Akk]
+E: bis heute
+X: do dziś
+
+Q: dla
+A: für [+Akk]
+E: für den Arsch
+X: do dupy
+
+Q: gwarancja
+A: (die) Gewähr
+
+Q: bez
+A: ohne [+Akk]
+E: ohne Gewähr
+X: bez gwarancji
+
 I: 722
+type: removed
 C: Podaj przyimki
 Q: Dativ/Akkusativ
-A: an, auf, hinter, in, neben, über, unter, vor, zwischen
-D: zależy od pytania: wo? wohin?
+
+Q: w, do
+A: in
+E: [@transl {}in die Schule gehen|iść do szkoły] [wohin? +Akk]
+E: [@transl {}im Bet liegen|leżeć w łóżku] [wo? +D]
+D: W "drugą" stronę jest <b>aus</b>
+
+Q: przy
+A: an
+
+Q: na
+A: auf
 E: [@transl {}Der Ball liegt auf dem Boden.|Piłka leży na podłodze.] [wo? +D]
 E: [@transl {}Das Kind legt den Ball auf den Boden.|Dziecko kładzie piłkę na podłodze.] [wohin? +Akk]
+E: Ich gehe auf die Post.
+X: Idę na pocztę.
+
+Q: z tyłu, za
+A: hinter
+
+Q: obok
+A: neben
+
+Q: przez, nad
+A: über
+
+Q: pod
+A: unter
+
+Q: przed
+A: vor
+
+Q: pomiędzy
+A: zwischen
+
 
 I: 723
-Q: patrzyć
+Q: patrzeć, spoglądać
 A: schauen
+S: gucken
 D: Zawsze łączy się z Akk
 
 I: 724
@@ -116,7 +233,7 @@ X: Pociąg przyjechał do Monachium 15 minut spóźniony.
 
 I: 727
 Q: przyjazd
-A: (der) Ankunf
+A: (der) Ankunft
 
 I: 728
 Q: tor

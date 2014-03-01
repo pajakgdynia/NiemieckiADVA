@@ -6,7 +6,7 @@ modified: 2012-12-09
 {
 I: 298
 Q: przebierać (się)
-A: (sich) unziehen
+A: (sich) umziehen
 
 I: 299
 Q: opuszczać
@@ -38,12 +38,12 @@ A: wen?
 D: wymawiane z długim e
 
 I: 305
-Q: kiedy?
+Q: jeżeli, gdy
 A: wenn?
 D: wymawiane z krótkim e
 
 I: 306
-Q: wydarzyć (się)
+Q: wydarzyć (się), zdarzyć (się)
 A: passieren
 
 I: 307
@@ -77,12 +77,13 @@ X: Założymy się?
 I: 311
 Q: zdecydować
 A: entscheiden
-F: entscheiden, entschied, entschieden
+F: entscheiden, entschie<b>d</b>, entschieden
+M: {b}entscheiden, entschied, entschieden
 
 I: 312
 N: zdecydować
-Q: Zdecydowałem się pojechać do Hiszpanii.
-A: Ich hebe entschieden mich für Spanien.
+Q: Zdecydowałem się na Hiszpanię.
+A: Ich habe mich für Spanien entschieden.
 
 I: 313
 Q: wystraszyć się
@@ -114,13 +115,16 @@ A: (die) Story
 
 I: 318
 Q: żart
-A: (der) Witze
+A: (der) Witz
+E: Nein, du machst Witze!
+X: Nie żartuj sobie!
 
 I: 319
 Q: żartować
 A: Witze reißen
-E: Nein, du machst Witze!
-X: Nie żartuj sobie!
+
+Q: zgrywać się, dowcipkować
+A: witzeln
 
 I: 320
 Q: stulecie

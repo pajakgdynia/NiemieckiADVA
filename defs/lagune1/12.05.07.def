@@ -64,7 +64,7 @@ Q: W czasie wolnym można grać w koszykówkę.
 A: In der Freizeit kann man Basketball spielen.
 
 I: 454
-Q: koło
+Q: koło (samochodowe)
 A: (das) Rad
 
 I: 455
@@ -114,8 +114,10 @@ Q: zagadka
 A: (das) Rätsel
 
 I: 465
-Q: Nie lubię tego!
-A: Das ist nicht mein Dink!
+Q: Nie mój biznes!
+R: Nie lubię tego!
+A: Das ist nicht mein Ding!
+E: (das) Ding
 
 I: 466
 Q: wycieczka
@@ -170,14 +172,15 @@ R: np. coś za kimś
 A: nachsprechen
 F: nachsprechen, sprach nach, nachgesprochen
 
+Q: powtarzać, ćwiczyć
+A: üben
+
 I: 478
-Q: powtarzać
-R: np. jakąś czynność
+Q: powtarzać (np. czynność)
 A: wiederholen
 
 I: 479
-Q: powtarzać
-R: po cichu
+Q: powtarzać (sobie po cichu)
 A: (sich) vorsagen
 
 I: 480
