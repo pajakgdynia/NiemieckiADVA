@@ -1,0 +1,151 @@
+I: 334
+lesson: 03.12
+chapter: Das Perfekt
+name: Übung 12.1
+{
+I: 335
+N: erklären
+Q: Wer hat dir die Übung [@pad erklären:erklärt]?
+M: {a}Wer hat dir die Übung erklärt.
+
+I: 336
+N: beginnen
+Q: Um wie viel Uhr hat das Konzert [@pad beginnen:begonnen]
+M: {a}Um wie viel Uhr hat das Konzert begonnen.
+
+I: 337
+N: erzählen
+Q: Tante Anna hat immer schöne Geschichten [@pad erzählen:erzählt].
+M: {a}Tante Anna hat immer schöne Geschichten erzählt.
+
+I: 338
+N: gefallen
+Q: Die weiße Hose hat mir nie [@pad gefallen:gefallen].
+M: {a}Die weiße Hose hat mir nie gefallen.
+
+I: 339
+N: verkaufen
+Q: Hast du schon deinen alten BMW [@pad verkaufen:verkauft].
+M: {a}Hast du schon deinen alten BMW verkauft.
+
+I: 340
+N: bezahlen
+Q: Meine Telefonrechnung habe ich noch nicht [@pad bezahlen:bezahlt].
+M: {a}Meine Telefonrechnung habe ich noch nicht bezahlt.
+
+I: 341
+N: verbieten
+Q: Der Arzt hat meinem Opa das Rauchen [@pad verbieten:verboten].
+M: {a}Der Arzt hat meinem Opa das Rauchen verboten.
+
+I: 342
+N: entdecken
+Q: Wer hat Amerika [@pad entdecken:endeckt]?
+M: {a}Wer hat Amerika endeckt.
+
+I: 343
+N: vergessen
+Q: Sven! Du hast wieder die Hausafgaben [@pad vergessen:vergessen]!
+M: {a}Du hast wieder die Hausafgaben vergessen.
+}
+
+
+
+I: 344
+lesson: 03.12
+chapter: Das Perfekt
+name: Übung 12.2
+{
+I: 345
+N: beginnen
+Q: Patrick hat die Oberschule 1996 [@pad beginnen:begonnen].
+M: {a}Patrick hat die Oberschule 1996 begonnen.
+
+I: 346
+N: bringen
+Q: Der Weihnachtsmann hat mir viele Geschenke [@pad bringen:gebracht].
+M: {a}Der Weihnachtsmann hat mir viele Geschenke gebracht.
+
+I: 347
+N: bleiben
+Q: Gestern sind wir zu Hause [@pad bleiben:geblieben].
+M: {a}Gestern sind wir zu Hause geblieben.
+
+I: 348
+N: stellen
+Q: Der Lehrer hat mir 1000 Fragen [@pad stellen:gestellt].
+M: {a}Der Lehrer hat mir 1000 Fragen gestellt.
+
+I: 349
+N: lesen
+Q: Um 22.00 Uhr habe ich noch Zeitung [@pad lesen:gelesen].
+M: {a}Um 22 Uhr habe ich noch Zeitung gelesen.
+
+I: 350
+N: erschrecken
+Q: Dein Hund hat mich wie immer sehr [@pad erschrecken:erschreckt].
+R: wystraszyć się
+M: {a}Dein Hund hat mich wie immer sehr erschreckt.
+
+I: 351
+N: sein
+Q: Auf Mallorca sind wir noch nie [@pad sein:gewesen].
+M: {a}Auf Mallorca sind wir noch nie gewesen.
+
+I: 352
+N: sparen
+Q: Im Mai habe ich sogar 150€ [@pad sparen:gespart].
+R: zaoszczędzić
+M: {a}Im Mai habe ich sogar 150 euro gespart.
+}
+
+I: 353
+lesson: 03.12
+chapter: Das Perfekt
+name: Übung 12.3
+{
+I: 354
+N: anziehen
+Q: Sonja hat heute ein shönes Kleid [@pad anziehen:angezogen].
+R: przeprowadzać się, ubierać
+M: {a}Sonja hat heute ein shönes Kleid angezogen.
+
+I: 355
+N: vorbereiten
+Q: Die Sekretärin hat die Dokumente [@pad vorbereiten:vorbereitet].
+M: {a}Die Sekretärin hat die Dokumente vorbereitet.
+
+I: 356
+N: ankommen
+Q: Der Zug ist in Bonn mit Verspätung [@pad ankommen:angekommen].
+M: {a}Der Zug ist in Bonn mit Verspätung angekommen.
+
+I: 357
+N: feststellen
+Q: In meinem Test hat der Lehrer 5 Fehler [@pad feststellen:festgestellt].
+R: stwierdzać
+M: {a}In meinem Test hat der Lehrer 5 Fehler festgestellt.
+
+I: 358
+N: losfahren
+Q: Wir sind gestern gegen 16 Uhr in Richtung Kiel [@pad losfahren:losgefahren].
+R: wyruszać
+M: {a}Wir sind gestern gegen 16 Uhr in Richtung Kiel losgefahren.
+
+I: 359
+N: zunehmen
+Q: Ich mache keinen Sport und habe schon 5 kg [@pad zunehmen:zugenommen].
+R: wzrastać
+M: {a}Ich mache keinen Sport und habe schon 5 kg zugenohmen.
+
+I: 360
+N: zumachen
+Q: Du hast die Tür [@pad zumachen:zugemacht].
+M: {a}Du hast die Tür zugemacht.
+
+I: 361
+N: entscheiden
+Q: Ich habe mich für einen Audi [@pad entscheiden:entschieden].
+R: zdecydować
+M: {a}Ich habe mich für einen Audi entschieden.
+}
