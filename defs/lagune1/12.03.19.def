@@ -135,44 +135,44 @@ I: 72
 N: dürfen odmiana
 C: Podaj odmianę
 Q: dürfen
-A: [@table:odmiana [darf | darfst | darf] [dürfen | dürft | dürfen]]
-M: {a}ich darf; du darfst; er, sie, es darf; wir dürfen; ihr  dürft; sie, Sie dürfen
+A: @table:odmiana[[darf | darfst | darf] [dürfen | dürft | dürfen]]
+a-audio: ich darf; du darfst; er, sie, es darf; wir dürfen; ihr  dürft; sie, Sie dürfen
 G: dürfen odmiana.jpg
 
 I: 73
 N: können odmiana
 C: Podaj odmianę
 Q: können
-A: [@table:odmiana [kann | kannst | kann] [können | könnt | können]]
-M: {a} ich kann; du kannst; er, sie, es kann; wir können; ihr könnt; sie, Sie können
+A: @table:odmiana[[kann | kannst | kann] [können | könnt | können]]
+a-audio: ich kann; du kannst; er, sie, es kann; wir können; ihr könnt; sie, Sie können
 
 I: 74
 N: mögen odmiana
 C: Podaj odmianę
 Q: mögen
-A: [@table:odmiana [mag | magst | mag] [mögen | mögt | mögen]]
-M: {a} ich mag; du magst; er, sie, es mag; wir mögen; ihr mögt; sie, Sie mögen
+A: @table:odmiana[[mag | magst | mag] [mögen | mögt | mögen]]
+a-audio: ich mag; du magst; er, sie, es mag; wir mögen; ihr mögt; sie, Sie mögen
 
 I: 75
 N: müssen odmiana
 C: Podaj odmianę
 Q: müssen
-A: [@table:odmiana [muss | musst | muss] [müssen | müsst | müssen]]
-M: {a} ich muss; du musst; er, sie, es muss; wir müssen; ihr müsst; sie, Sie müssen
+A: @table:odmiana[[muss | musst | muss] [müssen | müsst | müssen]]
+a-audio: muss; du musst; er, sie, es muss; wir müssen; ihr müsst; sie, Sie müssen
 
 I: 76
 N: sollen odmiana
 C: Podaj odmianę
 Q: sollen
-A: [@table:odmiana [soll | sollst | soll] [sollen | sollt | sollen]]
-M: {a} ich soll; du sollst; er, sie, es soll; wir sollen; ihr sollt; sie, Sie sollen
+A: @table:odmiana[[soll | sollst | soll] [sollen | sollt | sollen]]
+a-audio: ich soll; du sollst; er, sie, es soll; wir sollen; ihr sollt; sie, Sie sollen
 
 I: 77
 N: wollen odmiana
 C: Podaj odmianę
 Q: wollen
-A: [@table:odmiana [will | willst | will] [wollen | wollt | wollen]]
-M: {a} ich will; du willst; er, sie, es will; wir wollen; ihr wollt; sie, Sie wollen
+A: @table:odmiana[[will | willst | will] [wollen | wollt | wollen]]
+a-audio: ich will; du willst; er, sie, es will; wir wollen; ihr wollt; sie, Sie wollen
 
 I: 78
 Q: przynosić
@@ -339,8 +339,7 @@ A: (das) Verkehrsschild
 I: 363
 Q: jechać rowerem
 A: radfahren
-E: Ich fahre rad.
-X: Jadę rowerem.
+E: @trans[Ich fahre rad.|Jadę rowerem.]
 
 I: 113
 Q: mowa potoczna
