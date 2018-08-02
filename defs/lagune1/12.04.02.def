@@ -55,14 +55,12 @@ A: (das) Handy
 I: 230
 C: Podaj odmianę rodzajników określonych
 Q: Rodzajniki określone
-A:
-[@table:rodzajniki
+A: @table:rodzajniki[
     [der|die|das|die]
     [des|der|des|den]
     [dem|der|dem|der]
     [den|die|das|die]
-]
-~
+   ]
 M: {a}Maskulinum: der, des, dem, den; Femininum: die, der, der, die; Neutrum: das, des, dem, das; Plural: die, den, der, die.
 
 I: 231
@@ -84,7 +82,7 @@ I: 234
 C: Pytanie gramatyczne
 N: rodzajniki określone
 Q: Kiedy nie używamy rodzajników określonych?
-a-audio: false
+a-audio: -
 A: Dla pojęć abstrakcyjnych
 
 I: 235
